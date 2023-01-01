@@ -1,0 +1,1 @@
+"use strict";var WidgetARFHandler=function(){};jQuery(window).on("elementor/frontend/init",function(){elementorFrontend.hooks.addAction("frontend/element_ready/arf-element-shortcode.default",WidgetARFHandler)});

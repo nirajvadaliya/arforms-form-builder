@@ -1,0 +1,7559 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ARForms Form Builder v1.5.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2022-05-26 05:11:26+0000\n"
+"Last-Translator: admin <admin@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: PEOPLE'S REPUBLIC OF CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: arforms-form-builder.php:615
+#: arforms-form-builder.php:616
+#@ arforms-form-builder
+msgid "Form outer wrapper"
+msgstr "形成外包装纸"
+
+#: arforms-form-builder.php:621
+#: arforms-form-builder.php:622
+#@ arforms-form-builder
+msgid "Form inner wrapper"
+msgstr "表格内包装"
+
+#: arforms-form-builder.php:627
+#: core/views/arflite_edit.php:3033
+#: core/views/arflite_list.php:113
+#: core/views/arflite_new-selection-modal.php:47
+#@ arforms-form-builder
+msgid "Form Title"
+msgstr "表格标题"
+
+#: arforms-form-builder.php:628
+#@ arforms-form-builder
+msgid "Form title"
+msgstr "表格标题"
+
+#: arforms-form-builder.php:633
+#: arforms-form-builder.php:634
+#@ arforms-form-builder
+msgid "Form description"
+msgstr "表格说明"
+
+#: arforms-form-builder.php:639
+#@ arforms-form-builder
+msgid "Field wrapper"
+msgstr "现场包装"
+
+#: arforms-form-builder.php:640
+#@ arforms-form-builder
+msgid "Field Wrapper"
+msgstr "现场包装"
+
+#: arforms-form-builder.php:645
+#: arforms-form-builder.php:646
+#@ arforms-form-builder
+msgid "Field label"
+msgstr "栏位标签"
+
+#: arforms-form-builder.php:651
+#@ arforms-form-builder
+msgid "Textbox Elements"
+msgstr "文字框元素"
+
+#: arforms-form-builder.php:656
+#@ arforms-form-builder
+msgid "Textarea Elements"
+msgstr "文字区域元素"
+
+#: arforms-form-builder.php:661
+#@ arforms-form-builder
+msgid "Phone Elements"
+msgstr "手机元素"
+
+#: arforms-form-builder.php:666
+#@ arforms-form-builder
+msgid "Number Elements"
+msgstr "数字元素"
+
+#: arforms-form-builder.php:671
+#@ arforms-form-builder
+msgid "Email Elements"
+msgstr "电子邮件元素"
+
+#: arforms-form-builder.php:676
+#@ arforms-form-builder
+msgid "Date Elements"
+msgstr "日期元素"
+
+#: arforms-form-builder.php:681
+#@ arforms-form-builder
+msgid "Time Elements"
+msgstr "时间要素"
+
+#: arforms-form-builder.php:686
+#@ arforms-form-builder
+msgid "Website Elements"
+msgstr "网站元素"
+
+#: arforms-form-builder.php:691
+#@ arforms-form-builder
+msgid "Image URL Elements"
+msgstr "图片网址元素"
+
+#: arforms-form-builder.php:696
+#: arforms-form-builder.php:697
+#@ arforms-form-builder
+msgid "Submit Wrapper"
+msgstr "提交包装"
+
+#: arforms-form-builder.php:702
+#: arforms-form-builder.php:703
+#: core/views/arflite_settings_form.php:365
+#@ arforms-form-builder
+msgid "Success Message"
+msgstr "成功讯息"
+
+#: arforms-form-builder.php:708
+#: arforms-form-builder.php:709
+#@ arforms-form-builder
+msgid "Validation (error)"
+msgstr "验证（错误）"
+
+#: arforms-form-builder.php:856
+#: core/helpers/arflitemainhelper.php:192
+#@ arforms-form-builder
+msgid "Afghanistan"
+msgstr "阿富汗"
+
+#: arforms-form-builder.php:861
+#@ arforms-form-builder
+msgid "Aland Islands"
+msgstr "奥兰群岛"
+
+#: arforms-form-builder.php:866
+#: core/helpers/arflitemainhelper.php:193
+#@ arforms-form-builder
+msgid "Albania"
+msgstr "阿尔巴尼亚"
+
+#: arforms-form-builder.php:871
+#: core/helpers/arflitemainhelper.php:194
+#@ arforms-form-builder
+msgid "Algeria"
+msgstr "阿尔及利亚"
+
+#: arforms-form-builder.php:876
+#: core/helpers/arflitemainhelper.php:195
+#@ arforms-form-builder
+msgid "American Samoa"
+msgstr "美属萨摩亚"
+
+#: arforms-form-builder.php:881
+#: core/helpers/arflitemainhelper.php:196
+#@ arforms-form-builder
+msgid "Andorra"
+msgstr "安道尔"
+
+#: arforms-form-builder.php:886
+#: core/helpers/arflitemainhelper.php:197
+#@ arforms-form-builder
+msgid "Angola"
+msgstr "安哥拉"
+
+#: arforms-form-builder.php:891
+#: core/helpers/arflitemainhelper.php:198
+#@ arforms-form-builder
+msgid "Anguilla"
+msgstr "安圭拉岛"
+
+#: arforms-form-builder.php:896
+#: core/helpers/arflitemainhelper.php:200
+#@ arforms-form-builder
+msgid "Antigua and Barbuda"
+msgstr "安提瓜和巴布达"
+
+#: arforms-form-builder.php:901
+#: core/helpers/arflitemainhelper.php:201
+#@ arforms-form-builder
+msgid "Argentina"
+msgstr "阿根廷"
+
+#: arforms-form-builder.php:906
+#: core/helpers/arflitemainhelper.php:202
+#@ arforms-form-builder
+msgid "Armenia"
+msgstr "亚美尼亚"
+
+#: arforms-form-builder.php:911
+#: core/helpers/arflitemainhelper.php:203
+#@ arforms-form-builder
+msgid "Aruba"
+msgstr "阿鲁巴岛"
+
+#: arforms-form-builder.php:916
+#: core/helpers/arflitemainhelper.php:204
+#@ arforms-form-builder
+msgid "Australia"
+msgstr "澳大利亚"
+
+#: arforms-form-builder.php:921
+#: core/helpers/arflitemainhelper.php:205
+#@ arforms-form-builder
+msgid "Austria"
+msgstr "奥地利"
+
+#: arforms-form-builder.php:926
+#: core/helpers/arflitemainhelper.php:206
+#@ arforms-form-builder
+msgid "Azerbaijan"
+msgstr "阿塞拜疆"
+
+#: arforms-form-builder.php:931
+#: core/helpers/arflitemainhelper.php:207
+#@ arforms-form-builder
+msgid "Bahamas"
+msgstr "巴哈马"
+
+#: arforms-form-builder.php:936
+#: core/helpers/arflitemainhelper.php:208
+#@ arforms-form-builder
+msgid "Bahrain"
+msgstr "巴林"
+
+#: arforms-form-builder.php:941
+#: core/helpers/arflitemainhelper.php:209
+#@ arforms-form-builder
+msgid "Bangladesh"
+msgstr "孟加拉国"
+
+#: arforms-form-builder.php:946
+#: core/helpers/arflitemainhelper.php:210
+#@ arforms-form-builder
+msgid "Barbados"
+msgstr "巴巴多斯"
+
+#: arforms-form-builder.php:951
+#: core/helpers/arflitemainhelper.php:211
+#@ arforms-form-builder
+msgid "Belarus"
+msgstr "白俄罗斯"
+
+#: arforms-form-builder.php:956
+#: core/helpers/arflitemainhelper.php:212
+#@ arforms-form-builder
+msgid "Belgium"
+msgstr "比利时"
+
+#: arforms-form-builder.php:961
+#: core/helpers/arflitemainhelper.php:213
+#@ arforms-form-builder
+msgid "Belize"
+msgstr "伯利兹"
+
+#: arforms-form-builder.php:966
+#: core/helpers/arflitemainhelper.php:214
+#@ arforms-form-builder
+msgid "Benin"
+msgstr "贝宁"
+
+#: arforms-form-builder.php:971
+#: core/helpers/arflitemainhelper.php:215
+#@ arforms-form-builder
+msgid "Bermuda"
+msgstr "百慕大"
+
+#: arforms-form-builder.php:976
+#: core/helpers/arflitemainhelper.php:216
+#@ arforms-form-builder
+msgid "Bhutan"
+msgstr "不丹"
+
+#: arforms-form-builder.php:981
+#: core/helpers/arflitemainhelper.php:217
+#@ arforms-form-builder
+msgid "Bolivia"
+msgstr "玻利维亚"
+
+#: arforms-form-builder.php:986
+#: core/helpers/arflitemainhelper.php:218
+#@ arforms-form-builder
+msgid "Bosnia and Herzegovina"
+msgstr "波斯尼亚和黑塞哥维那（简称：波黑"
+
+#: arforms-form-builder.php:991
+#: core/helpers/arflitemainhelper.php:219
+#@ arforms-form-builder
+msgid "Botswana"
+msgstr "博茨瓦纳"
+
+#: arforms-form-builder.php:996
+#: core/helpers/arflitemainhelper.php:220
+#@ arforms-form-builder
+msgid "Brazil"
+msgstr "巴西"
+
+#: arforms-form-builder.php:1001
+#@ arforms-form-builder
+msgid "British Indian Ocean Territory"
+msgstr "英属印度洋领地"
+
+#: arforms-form-builder.php:1006
+#@ arforms-form-builder
+msgid "British Virgin Islands"
+msgstr "英属维尔京群岛"
+
+#: arforms-form-builder.php:1011
+#: core/helpers/arflitemainhelper.php:221
+#@ arforms-form-builder
+msgid "Brunei"
+msgstr "文莱"
+
+#: arforms-form-builder.php:1016
+#: core/helpers/arflitemainhelper.php:222
+#@ arforms-form-builder
+msgid "Bulgaria"
+msgstr "保加利亚"
+
+#: arforms-form-builder.php:1021
+#: core/helpers/arflitemainhelper.php:223
+#@ arforms-form-builder
+msgid "Burkina Faso"
+msgstr "布基纳法索"
+
+#: arforms-form-builder.php:1026
+#: core/helpers/arflitemainhelper.php:224
+#@ arforms-form-builder
+msgid "Burundi"
+msgstr "布隆迪"
+
+#: arforms-form-builder.php:1031
+#: core/helpers/arflitemainhelper.php:225
+#@ arforms-form-builder
+msgid "Cambodia"
+msgstr "柬埔寨"
+
+#: arforms-form-builder.php:1036
+#: core/helpers/arflitemainhelper.php:226
+#@ arforms-form-builder
+msgid "Cameroon"
+msgstr "喀麦隆"
+
+#: arforms-form-builder.php:1041
+#: core/helpers/arflitemainhelper.php:227
+#@ arforms-form-builder
+msgid "Canada"
+msgstr "加拿大"
+
+#: arforms-form-builder.php:1046
+#: core/helpers/arflitemainhelper.php:228
+#@ arforms-form-builder
+msgid "Cape Verde"
+msgstr "佛得角"
+
+#: arforms-form-builder.php:1051
+#@ arforms-form-builder
+msgid "Caribbean Netherlands"
+msgstr "加勒比荷兰"
+
+#: arforms-form-builder.php:1056
+#: core/helpers/arflitemainhelper.php:229
+#@ arforms-form-builder
+msgid "Cayman Islands"
+msgstr "开曼群岛"
+
+#: arforms-form-builder.php:1061
+#: core/helpers/arflitemainhelper.php:230
+#@ arforms-form-builder
+msgid "Central African Republic"
+msgstr "中非共和国"
+
+#: arforms-form-builder.php:1066
+#: core/helpers/arflitemainhelper.php:231
+#@ arforms-form-builder
+msgid "Chad"
+msgstr "乍得"
+
+#: arforms-form-builder.php:1071
+#: core/helpers/arflitemainhelper.php:232
+#@ arforms-form-builder
+msgid "Chile"
+msgstr "智利"
+
+#: arforms-form-builder.php:1076
+#: core/helpers/arflitemainhelper.php:233
+#@ arforms-form-builder
+msgid "China"
+msgstr "中国"
+
+#: arforms-form-builder.php:1081
+#@ arforms-form-builder
+msgid "Christmas Island"
+msgstr "圣诞岛"
+
+#: arforms-form-builder.php:1086
+#@ arforms-form-builder
+msgid "Cocos Islands"
+msgstr "科科斯群岛"
+
+#: arforms-form-builder.php:1091
+#: core/helpers/arflitemainhelper.php:234
+#@ arforms-form-builder
+msgid "Colombia"
+msgstr "哥伦比亚"
+
+#: arforms-form-builder.php:1096
+#: core/helpers/arflitemainhelper.php:235
+#@ arforms-form-builder
+msgid "Comoros"
+msgstr "科摩罗"
+
+#: arforms-form-builder.php:1101
+#@ arforms-form-builder
+msgid "Congo (DRC)"
+msgstr "刚果民主共和国"
+
+#: arforms-form-builder.php:1106
+#@ arforms-form-builder
+msgid "Congo (Republic)"
+msgstr "刚果（共和国）"
+
+#: arforms-form-builder.php:1111
+#@ arforms-form-builder
+msgid "Cook Islands"
+msgstr "库克群岛"
+
+#: arforms-form-builder.php:1116
+#: core/helpers/arflitemainhelper.php:237
+#@ arforms-form-builder
+msgid "Costa Rica"
+msgstr "哥斯达黎加"
+
+#: arforms-form-builder.php:1121
+#@ arforms-form-builder
+msgid "Cote d'Ivoire"
+msgstr "象牙海岸"
+
+#: arforms-form-builder.php:1126
+#: core/helpers/arflitemainhelper.php:238
+#@ arforms-form-builder
+msgid "Croatia"
+msgstr "克罗地亚"
+
+#: arforms-form-builder.php:1131
+#: core/helpers/arflitemainhelper.php:239
+#@ arforms-form-builder
+msgid "Cuba"
+msgstr "古巴"
+
+#: arforms-form-builder.php:1136
+#@ arforms-form-builder
+msgid "Curacao"
+msgstr "库拉索"
+
+#: arforms-form-builder.php:1141
+#: core/helpers/arflitemainhelper.php:240
+#@ arforms-form-builder
+msgid "Cyprus"
+msgstr "塞浦路斯"
+
+#: arforms-form-builder.php:1146
+#: core/helpers/arflitemainhelper.php:241
+#@ arforms-form-builder
+msgid "Czech Republic"
+msgstr "捷克共和国"
+
+#: arforms-form-builder.php:1151
+#: core/helpers/arflitemainhelper.php:242
+#@ arforms-form-builder
+msgid "Denmark"
+msgstr "丹麦"
+
+#: arforms-form-builder.php:1156
+#: core/helpers/arflitemainhelper.php:243
+#@ arforms-form-builder
+msgid "Djibouti"
+msgstr "吉布地"
+
+#: arforms-form-builder.php:1161
+#: core/helpers/arflitemainhelper.php:244
+#@ arforms-form-builder
+msgid "Dominica"
+msgstr "多米尼加"
+
+#: arforms-form-builder.php:1166
+#: core/helpers/arflitemainhelper.php:245
+#@ arforms-form-builder
+msgid "Dominican Republic"
+msgstr "多明尼加共和国"
+
+#: arforms-form-builder.php:1171
+#: core/helpers/arflitemainhelper.php:247
+#@ arforms-form-builder
+msgid "Ecuador"
+msgstr "厄瓜多尔"
+
+#: arforms-form-builder.php:1176
+#: core/helpers/arflitemainhelper.php:248
+#@ arforms-form-builder
+msgid "Egypt"
+msgstr "埃及"
+
+#: arforms-form-builder.php:1181
+#: core/helpers/arflitemainhelper.php:249
+#@ arforms-form-builder
+msgid "El Salvador"
+msgstr "救星"
+
+#: arforms-form-builder.php:1186
+#: core/helpers/arflitemainhelper.php:250
+#@ arforms-form-builder
+msgid "Equatorial Guinea"
+msgstr "赤道几内亚"
+
+#: arforms-form-builder.php:1191
+#: core/helpers/arflitemainhelper.php:251
+#@ arforms-form-builder
+msgid "Eritrea"
+msgstr "厄立特里亚"
+
+#: arforms-form-builder.php:1196
+#: core/helpers/arflitemainhelper.php:252
+#@ arforms-form-builder
+msgid "Estonia"
+msgstr "爱沙尼亚"
+
+#: arforms-form-builder.php:1201
+#: core/helpers/arflitemainhelper.php:253
+#@ arforms-form-builder
+msgid "Ethiopia"
+msgstr "埃塞俄比亚"
+
+#: arforms-form-builder.php:1206
+#@ arforms-form-builder
+msgid "Falkland Islands"
+msgstr "福克兰群岛"
+
+#: arforms-form-builder.php:1211
+#@ arforms-form-builder
+msgid "Faroe Islands"
+msgstr "法罗群岛"
+
+#: arforms-form-builder.php:1216
+#: core/helpers/arflitemainhelper.php:254
+#@ arforms-form-builder
+msgid "Fiji"
+msgstr "斐济"
+
+#: arforms-form-builder.php:1221
+#: core/helpers/arflitemainhelper.php:255
+#@ arforms-form-builder
+msgid "Finland"
+msgstr "芬兰"
+
+#: arforms-form-builder.php:1226
+#: core/helpers/arflitemainhelper.php:256
+#@ arforms-form-builder
+msgid "France"
+msgstr "法国"
+
+#: arforms-form-builder.php:1231
+#: core/helpers/arflitemainhelper.php:257
+#@ arforms-form-builder
+msgid "French Guiana"
+msgstr "法属圭亚那"
+
+#: arforms-form-builder.php:1236
+#: core/helpers/arflitemainhelper.php:258
+#@ arforms-form-builder
+msgid "French Polynesia"
+msgstr "法属波利尼西亚"
+
+#: arforms-form-builder.php:1241
+#: core/helpers/arflitemainhelper.php:259
+#@ arforms-form-builder
+msgid "Gabon"
+msgstr "加蓬"
+
+#: arforms-form-builder.php:1246
+#: core/helpers/arflitemainhelper.php:260
+#@ arforms-form-builder
+msgid "Gambia"
+msgstr "冈比亚"
+
+#: arforms-form-builder.php:1251
+#: core/helpers/arflitemainhelper.php:261
+#@ arforms-form-builder
+msgid "Georgia"
+msgstr "佐治亚州"
+
+#: arforms-form-builder.php:1256
+#: core/helpers/arflitemainhelper.php:262
+#@ arforms-form-builder
+msgid "Germany"
+msgstr "德国"
+
+#: arforms-form-builder.php:1261
+#: core/helpers/arflitemainhelper.php:263
+#@ arforms-form-builder
+msgid "Ghana"
+msgstr "加纳"
+
+#: arforms-form-builder.php:1266
+#: core/helpers/arflitemainhelper.php:264
+#@ arforms-form-builder
+msgid "Gibraltar"
+msgstr "直布罗陀"
+
+#: arforms-form-builder.php:1271
+#: core/helpers/arflitemainhelper.php:265
+#@ arforms-form-builder
+msgid "Greece"
+msgstr "希腊"
+
+#: arforms-form-builder.php:1276
+#: core/helpers/arflitemainhelper.php:266
+#@ arforms-form-builder
+msgid "Greenland"
+msgstr "格陵兰"
+
+#: arforms-form-builder.php:1281
+#: core/helpers/arflitemainhelper.php:267
+#@ arforms-form-builder
+msgid "Grenada"
+msgstr "格林纳达"
+
+#: arforms-form-builder.php:1286
+#@ arforms-form-builder
+msgid "Guadeloupe"
+msgstr "瓜德罗普岛"
+
+#: arforms-form-builder.php:1291
+#: core/helpers/arflitemainhelper.php:268
+#@ arforms-form-builder
+msgid "Guam"
+msgstr "关岛"
+
+#: arforms-form-builder.php:1296
+#: core/helpers/arflitemainhelper.php:269
+#@ arforms-form-builder
+msgid "Guatemala"
+msgstr "危地马拉"
+
+#: arforms-form-builder.php:1301
+#@ arforms-form-builder
+msgid "Guernsey"
+msgstr "根西岛"
+
+#: arforms-form-builder.php:1306
+#: core/helpers/arflitemainhelper.php:270
+#@ arforms-form-builder
+msgid "Guinea"
+msgstr "几内亚"
+
+#: arforms-form-builder.php:1311
+#: core/helpers/arflitemainhelper.php:271
+#@ arforms-form-builder
+msgid "Guinea-Bissau"
+msgstr "几内亚比绍"
+
+#: arforms-form-builder.php:1316
+#: core/helpers/arflitemainhelper.php:272
+#@ arforms-form-builder
+msgid "Guyana"
+msgstr "圭亚那"
+
+#: arforms-form-builder.php:1321
+#: core/helpers/arflitemainhelper.php:273
+#@ arforms-form-builder
+msgid "Haiti"
+msgstr "海地"
+
+#: arforms-form-builder.php:1326
+#: core/helpers/arflitemainhelper.php:274
+#@ arforms-form-builder
+msgid "Honduras"
+msgstr "洪都拉斯"
+
+#: arforms-form-builder.php:1331
+#: core/helpers/arflitemainhelper.php:275
+#@ arforms-form-builder
+msgid "Hong Kong"
+msgstr "香港"
+
+#: arforms-form-builder.php:1336
+#: core/helpers/arflitemainhelper.php:276
+#@ arforms-form-builder
+msgid "Hungary"
+msgstr "匈牙利"
+
+#: arforms-form-builder.php:1341
+#: core/helpers/arflitemainhelper.php:277
+#@ arforms-form-builder
+msgid "Iceland"
+msgstr "冰岛"
+
+#: arforms-form-builder.php:1346
+#: core/helpers/arflitemainhelper.php:278
+#@ arforms-form-builder
+msgid "India"
+msgstr "印度"
+
+#: arforms-form-builder.php:1351
+#: core/helpers/arflitemainhelper.php:279
+#@ arforms-form-builder
+msgid "Indonesia"
+msgstr "印度尼西亚"
+
+#: arforms-form-builder.php:1356
+#: core/helpers/arflitemainhelper.php:280
+#@ arforms-form-builder
+msgid "Iran"
+msgstr "伊朗"
+
+#: arforms-form-builder.php:1361
+#: core/helpers/arflitemainhelper.php:281
+#@ arforms-form-builder
+msgid "Iraq"
+msgstr "伊拉克"
+
+#: arforms-form-builder.php:1366
+#: core/helpers/arflitemainhelper.php:282
+#@ arforms-form-builder
+msgid "Ireland"
+msgstr "爱尔兰"
+
+#: arforms-form-builder.php:1371
+#@ arforms-form-builder
+msgid "Isle of Man"
+msgstr "马恩岛"
+
+#: arforms-form-builder.php:1376
+#: core/helpers/arflitemainhelper.php:283
+#@ arforms-form-builder
+msgid "Israel"
+msgstr "以色列"
+
+#: arforms-form-builder.php:1381
+#: core/helpers/arflitemainhelper.php:284
+#@ arforms-form-builder
+msgid "Italy"
+msgstr "意大利"
+
+#: arforms-form-builder.php:1386
+#: core/helpers/arflitemainhelper.php:285
+#@ arforms-form-builder
+msgid "Jamaica"
+msgstr "牙买加"
+
+#: arforms-form-builder.php:1391
+#: core/helpers/arflitemainhelper.php:286
+#@ arforms-form-builder
+msgid "Japan"
+msgstr "日本"
+
+#: arforms-form-builder.php:1396
+#@ arforms-form-builder
+msgid "Jersey"
+msgstr "泽西岛"
+
+#: arforms-form-builder.php:1401
+#: core/helpers/arflitemainhelper.php:287
+#@ arforms-form-builder
+msgid "Jordan"
+msgstr "约旦"
+
+#: arforms-form-builder.php:1406
+#: core/helpers/arflitemainhelper.php:288
+#@ arforms-form-builder
+msgid "Kazakhstan"
+msgstr "哈萨克斯坦"
+
+#: arforms-form-builder.php:1411
+#: core/helpers/arflitemainhelper.php:289
+#@ arforms-form-builder
+msgid "Kenya"
+msgstr "肯尼亚"
+
+#: arforms-form-builder.php:1416
+#: core/helpers/arflitemainhelper.php:290
+#@ arforms-form-builder
+msgid "Kiribati"
+msgstr "基里巴斯"
+
+#: arforms-form-builder.php:1421
+#@ arforms-form-builder
+msgid "Kosovo"
+msgstr "科索沃"
+
+#: arforms-form-builder.php:1426
+#: core/helpers/arflitemainhelper.php:293
+#@ arforms-form-builder
+msgid "Kuwait"
+msgstr "科威特"
+
+#: arforms-form-builder.php:1431
+#: core/helpers/arflitemainhelper.php:294
+#@ arforms-form-builder
+msgid "Kyrgyzstan"
+msgstr "吉尔吉斯斯坦"
+
+#: arforms-form-builder.php:1436
+#: core/helpers/arflitemainhelper.php:295
+#@ arforms-form-builder
+msgid "Laos"
+msgstr "老挝"
+
+#: arforms-form-builder.php:1441
+#: core/helpers/arflitemainhelper.php:296
+#@ arforms-form-builder
+msgid "Latvia"
+msgstr "拉脱维亚"
+
+#: arforms-form-builder.php:1446
+#: core/helpers/arflitemainhelper.php:297
+#@ arforms-form-builder
+msgid "Lebanon"
+msgstr "黎巴嫩"
+
+#: arforms-form-builder.php:1451
+#: core/helpers/arflitemainhelper.php:298
+#@ arforms-form-builder
+msgid "Lesotho"
+msgstr "莱索托"
+
+#: arforms-form-builder.php:1456
+#: core/helpers/arflitemainhelper.php:299
+#@ arforms-form-builder
+msgid "Liberia"
+msgstr "利比里亚"
+
+#: arforms-form-builder.php:1461
+#: core/helpers/arflitemainhelper.php:300
+#@ arforms-form-builder
+msgid "Libya"
+msgstr "Libya"
+
+#: arforms-form-builder.php:1466
+#: core/helpers/arflitemainhelper.php:301
+#@ arforms-form-builder
+msgid "Liechtenstein"
+msgstr "列支敦士登"
+
+#: arforms-form-builder.php:1471
+#: core/helpers/arflitemainhelper.php:302
+#@ arforms-form-builder
+msgid "Lithuania"
+msgstr "立陶宛"
+
+#: arforms-form-builder.php:1476
+#: core/helpers/arflitemainhelper.php:303
+#@ arforms-form-builder
+msgid "Luxembourg"
+msgstr "卢森堡"
+
+#: arforms-form-builder.php:1481
+#@ arforms-form-builder
+msgid "Macau"
+msgstr "澳门"
+
+#: arforms-form-builder.php:1491
+#: core/helpers/arflitemainhelper.php:305
+#@ arforms-form-builder
+msgid "Madagascar"
+msgstr "马达加斯加"
+
+#: arforms-form-builder.php:1496
+#: core/helpers/arflitemainhelper.php:306
+#@ arforms-form-builder
+msgid "Malawi"
+msgstr "马拉维"
+
+#: arforms-form-builder.php:1501
+#: core/helpers/arflitemainhelper.php:307
+#@ arforms-form-builder
+msgid "Malaysia"
+msgstr "马来西亚"
+
+#: arforms-form-builder.php:1506
+#: core/helpers/arflitemainhelper.php:308
+#@ arforms-form-builder
+msgid "Maldives"
+msgstr "马尔代夫"
+
+#: arforms-form-builder.php:1511
+#: core/helpers/arflitemainhelper.php:309
+#@ arforms-form-builder
+msgid "Mali"
+msgstr "马里"
+
+#: arforms-form-builder.php:1516
+#: core/helpers/arflitemainhelper.php:310
+#@ arforms-form-builder
+msgid "Malta"
+msgstr "马耳他"
+
+#: arforms-form-builder.php:1521
+#: core/helpers/arflitemainhelper.php:311
+#@ arforms-form-builder
+msgid "Marshall Islands"
+msgstr "马绍尔群岛"
+
+#: arforms-form-builder.php:1526
+#@ arforms-form-builder
+msgid "Martinique"
+msgstr "马提尼克岛"
+
+#: arforms-form-builder.php:1531
+#: core/helpers/arflitemainhelper.php:312
+#@ arforms-form-builder
+msgid "Mauritania"
+msgstr "毛里塔尼亚"
+
+#: arforms-form-builder.php:1536
+#: core/helpers/arflitemainhelper.php:313
+#@ arforms-form-builder
+msgid "Mauritius"
+msgstr "毛里求斯"
+
+#: arforms-form-builder.php:1541
+#@ arforms-form-builder
+msgid "Mayotte"
+msgstr "马约特岛"
+
+#: arforms-form-builder.php:1546
+#: core/helpers/arflitemainhelper.php:314
+#@ arforms-form-builder
+msgid "Mexico"
+msgstr "墨西哥"
+
+#: arforms-form-builder.php:1551
+#: core/helpers/arflitemainhelper.php:315
+#@ arforms-form-builder
+msgid "Micronesia"
+msgstr "密克罗尼西亚"
+
+#: arforms-form-builder.php:1556
+#: core/helpers/arflitemainhelper.php:316
+#@ arforms-form-builder
+msgid "Moldova"
+msgstr "摩尔多瓦"
+
+#: arforms-form-builder.php:1561
+#: core/helpers/arflitemainhelper.php:317
+#@ arforms-form-builder
+msgid "Monaco"
+msgstr "摩纳哥"
+
+#: arforms-form-builder.php:1566
+#: core/helpers/arflitemainhelper.php:318
+#@ arforms-form-builder
+msgid "Mongolia"
+msgstr "蒙古"
+
+#: arforms-form-builder.php:1571
+#: core/helpers/arflitemainhelper.php:319
+#@ arforms-form-builder
+msgid "Montenegro"
+msgstr "黑山共和国"
+
+#: arforms-form-builder.php:1576
+#: core/helpers/arflitemainhelper.php:320
+#@ arforms-form-builder
+msgid "Montserrat"
+msgstr "蒙特塞拉特"
+
+#: arforms-form-builder.php:1581
+#: core/helpers/arflitemainhelper.php:321
+#@ arforms-form-builder
+msgid "Morocco"
+msgstr "摩洛哥"
+
+#: arforms-form-builder.php:1586
+#: core/helpers/arflitemainhelper.php:322
+#@ arforms-form-builder
+msgid "Mozambique"
+msgstr "莫桑比克"
+
+#: arforms-form-builder.php:1591
+#: core/helpers/arflitemainhelper.php:323
+#@ arforms-form-builder
+msgid "Myanmar"
+msgstr "缅甸"
+
+#: arforms-form-builder.php:1596
+#: core/helpers/arflitemainhelper.php:324
+#@ arforms-form-builder
+msgid "Namibia"
+msgstr "纳米比亚"
+
+#: arforms-form-builder.php:1601
+#: core/helpers/arflitemainhelper.php:325
+#@ arforms-form-builder
+msgid "Nauru"
+msgstr "瑙鲁"
+
+#: arforms-form-builder.php:1606
+#: core/helpers/arflitemainhelper.php:326
+#@ arforms-form-builder
+msgid "Nepal"
+msgstr "尼泊尔"
+
+#: arforms-form-builder.php:1611
+#: core/helpers/arflitemainhelper.php:327
+#@ arforms-form-builder
+msgid "Netherlands"
+msgstr "荷兰"
+
+#: arforms-form-builder.php:1616
+#@ arforms-form-builder
+msgid "New Caledonia"
+msgstr "新喀里多尼亚"
+
+#: arforms-form-builder.php:1621
+#: core/helpers/arflitemainhelper.php:328
+#@ arforms-form-builder
+msgid "New Zealand"
+msgstr "新西兰"
+
+#: arforms-form-builder.php:1626
+#: core/helpers/arflitemainhelper.php:329
+#@ arforms-form-builder
+msgid "Nicaragua"
+msgstr "尼加拉瓜"
+
+#: arforms-form-builder.php:1631
+#: core/helpers/arflitemainhelper.php:330
+#@ arforms-form-builder
+msgid "Niger"
+msgstr "尼日尔"
+
+#: arforms-form-builder.php:1636
+#: core/helpers/arflitemainhelper.php:331
+#@ arforms-form-builder
+msgid "Nigeria"
+msgstr "奈及利亚"
+
+#: arforms-form-builder.php:1641
+#@ arforms-form-builder
+msgid "Niue"
+msgstr "纽埃"
+
+#: arforms-form-builder.php:1646
+#@ arforms-form-builder
+msgid "Norfolk Island"
+msgstr "诺福克岛"
+
+#: arforms-form-builder.php:1651
+#: core/helpers/arflitemainhelper.php:291
+#@ arforms-form-builder
+msgid "North Korea"
+msgstr "北朝鲜"
+
+#: arforms-form-builder.php:1656
+#: core/helpers/arflitemainhelper.php:333
+#@ arforms-form-builder
+msgid "Northern Mariana Islands"
+msgstr "北马里亚纳群岛"
+
+#: arforms-form-builder.php:1661
+#: core/helpers/arflitemainhelper.php:332
+#@ arforms-form-builder
+msgid "Norway"
+msgstr "挪威"
+
+#: arforms-form-builder.php:1666
+#: core/helpers/arflitemainhelper.php:334
+#@ arforms-form-builder
+msgid "Oman"
+msgstr "阿曼"
+
+#: arforms-form-builder.php:1671
+#: core/helpers/arflitemainhelper.php:335
+#@ arforms-form-builder
+msgid "Pakistan"
+msgstr "巴基斯坦"
+
+#: arforms-form-builder.php:1676
+#: core/helpers/arflitemainhelper.php:336
+#@ arforms-form-builder
+msgid "Palau"
+msgstr "u琉"
+
+#: arforms-form-builder.php:1681
+#: core/helpers/arflitemainhelper.php:337
+#@ arforms-form-builder
+msgid "Palestine"
+msgstr "巴勒斯坦"
+
+#: arforms-form-builder.php:1686
+#: core/helpers/arflitemainhelper.php:338
+#@ arforms-form-builder
+msgid "Panama"
+msgstr "巴拿马"
+
+#: arforms-form-builder.php:1691
+#: core/helpers/arflitemainhelper.php:339
+#@ arforms-form-builder
+msgid "Papua New Guinea"
+msgstr "巴布亚新几内亚"
+
+#: arforms-form-builder.php:1696
+#: core/helpers/arflitemainhelper.php:340
+#@ arforms-form-builder
+msgid "Paraguay"
+msgstr "巴拉圭"
+
+#: arforms-form-builder.php:1701
+#: core/helpers/arflitemainhelper.php:341
+#@ arforms-form-builder
+msgid "Peru"
+msgstr "秘鲁"
+
+#: arforms-form-builder.php:1706
+#: core/helpers/arflitemainhelper.php:342
+#@ arforms-form-builder
+msgid "Philippines"
+msgstr "菲律宾"
+
+#: arforms-form-builder.php:1711
+#: core/helpers/arflitemainhelper.php:343
+#@ arforms-form-builder
+msgid "Poland"
+msgstr "波兰"
+
+#: arforms-form-builder.php:1716
+#: core/helpers/arflitemainhelper.php:344
+#@ arforms-form-builder
+msgid "Portugal"
+msgstr "葡萄牙"
+
+#: arforms-form-builder.php:1721
+#: core/helpers/arflitemainhelper.php:345
+#@ arforms-form-builder
+msgid "Puerto Rico"
+msgstr "波多黎各"
+
+#: arforms-form-builder.php:1726
+#: core/helpers/arflitemainhelper.php:346
+#@ arforms-form-builder
+msgid "Qatar"
+msgstr "卡塔尔"
+
+#: arforms-form-builder.php:1731
+#@ arforms-form-builder
+msgid "Reunion"
+msgstr "团圆"
+
+#: arforms-form-builder.php:1736
+#: core/helpers/arflitemainhelper.php:347
+#@ arforms-form-builder
+msgid "Romania"
+msgstr "罗马尼亚"
+
+#: arforms-form-builder.php:1741
+#: core/helpers/arflitemainhelper.php:348
+#@ arforms-form-builder
+msgid "Russia"
+msgstr "俄国"
+
+#: arforms-form-builder.php:1746
+#: core/helpers/arflitemainhelper.php:349
+#@ arforms-form-builder
+msgid "Rwanda"
+msgstr "卢旺达"
+
+#: arforms-form-builder.php:1751
+#@ arforms-form-builder
+msgid "Saint Barthelemy"
+msgstr "圣巴托洛缪岛"
+
+#: arforms-form-builder.php:1756
+#@ arforms-form-builder
+msgid "Saint Helena"
+msgstr "圣海伦娜"
+
+#: arforms-form-builder.php:1761
+#: core/helpers/arflitemainhelper.php:350
+#@ arforms-form-builder
+msgid "Saint Kitts and Nevis"
+msgstr "圣基茨和尼维斯"
+
+#: arforms-form-builder.php:1766
+#: core/helpers/arflitemainhelper.php:351
+#@ arforms-form-builder
+msgid "Saint Lucia"
+msgstr "圣卢西亚"
+
+#: arforms-form-builder.php:1771
+#@ arforms-form-builder
+msgid "Saint Martin"
+msgstr "圣马丁"
+
+#: arforms-form-builder.php:1776
+#@ arforms-form-builder
+msgid "Saint Pierre and Miquelon"
+msgstr "圣皮埃尔和密克隆群岛"
+
+#: arforms-form-builder.php:1781
+#: core/helpers/arflitemainhelper.php:352
+#@ arforms-form-builder
+msgid "Saint Vincent and the Grenadines"
+msgstr "圣文森特和格林纳丁斯"
+
+#: arforms-form-builder.php:1786
+#: core/helpers/arflitemainhelper.php:353
+#@ arforms-form-builder
+msgid "Samoa"
+msgstr "萨摩亚"
+
+#: arforms-form-builder.php:1791
+#: core/helpers/arflitemainhelper.php:354
+#@ arforms-form-builder
+msgid "San Marino"
+msgstr "圣马力诺"
+
+#: arforms-form-builder.php:1796
+#: core/helpers/arflitemainhelper.php:355
+#@ arforms-form-builder
+msgid "Sao Tome and Principe"
+msgstr "圣多美和普林西比"
+
+#: arforms-form-builder.php:1801
+#: core/helpers/arflitemainhelper.php:356
+#@ arforms-form-builder
+msgid "Saudi Arabia"
+msgstr "沙特阿拉伯"
+
+#: arforms-form-builder.php:1806
+#: core/helpers/arflitemainhelper.php:357
+#@ arforms-form-builder
+msgid "Senegal"
+msgstr "塞内加尔"
+
+#: arforms-form-builder.php:1811
+#@ arforms-form-builder
+msgid "Serbia"
+msgstr "塞尔维亚"
+
+#: arforms-form-builder.php:1816
+#: core/helpers/arflitemainhelper.php:359
+#@ arforms-form-builder
+msgid "Seychelles"
+msgstr "塞舌尔"
+
+#: arforms-form-builder.php:1821
+#: core/helpers/arflitemainhelper.php:360
+#@ arforms-form-builder
+msgid "Sierra Leone"
+msgstr "塞拉利昂"
+
+#: arforms-form-builder.php:1826
+#: core/helpers/arflitemainhelper.php:361
+#@ arforms-form-builder
+msgid "Singapore"
+msgstr "新加坡"
+
+#: arforms-form-builder.php:1831
+#@ arforms-form-builder
+msgid "Sint Maarten"
+msgstr "圣马丁"
+
+#: arforms-form-builder.php:1836
+#: core/helpers/arflitemainhelper.php:362
+#@ arforms-form-builder
+msgid "Slovakia"
+msgstr "斯洛伐克"
+
+#: arforms-form-builder.php:1841
+#: core/helpers/arflitemainhelper.php:363
+#@ arforms-form-builder
+msgid "Slovenia"
+msgstr "斯洛文尼亚"
+
+#: arforms-form-builder.php:1846
+#: core/helpers/arflitemainhelper.php:364
+#@ arforms-form-builder
+msgid "Solomon Islands"
+msgstr "所罗门群岛"
+
+#: arforms-form-builder.php:1851
+#: core/helpers/arflitemainhelper.php:365
+#@ arforms-form-builder
+msgid "Somalia"
+msgstr "索马里"
+
+#: arforms-form-builder.php:1856
+#: core/helpers/arflitemainhelper.php:366
+#@ arforms-form-builder
+msgid "South Africa"
+msgstr "南非"
+
+#: arforms-form-builder.php:1861
+#: core/helpers/arflitemainhelper.php:292
+#@ arforms-form-builder
+msgid "South Korea"
+msgstr "南韩"
+
+#: arforms-form-builder.php:1866
+#@ arforms-form-builder
+msgid "South Sudan"
+msgstr "南苏丹"
+
+#: arforms-form-builder.php:1871
+#: core/helpers/arflitemainhelper.php:367
+#@ arforms-form-builder
+msgid "Spain"
+msgstr "西班牙"
+
+#: arforms-form-builder.php:1876
+#: core/helpers/arflitemainhelper.php:368
+#@ arforms-form-builder
+msgid "Sri Lanka"
+msgstr "斯里兰卡"
+
+#: arforms-form-builder.php:1881
+#: core/helpers/arflitemainhelper.php:369
+#@ arforms-form-builder
+msgid "Sudan"
+msgstr "苏丹"
+
+#: arforms-form-builder.php:1886
+#: core/helpers/arflitemainhelper.php:370
+#@ arforms-form-builder
+msgid "Suriname"
+msgstr "苏里南"
+
+#: arforms-form-builder.php:1891
+#@ arforms-form-builder
+msgid "Svalbard and Jan Mayen"
+msgstr "斯瓦尔巴和扬·马延"
+
+#: arforms-form-builder.php:1896
+#: core/helpers/arflitemainhelper.php:371
+#@ arforms-form-builder
+msgid "Swaziland"
+msgstr "斯威士兰"
+
+#: arforms-form-builder.php:1901
+#: core/helpers/arflitemainhelper.php:372
+#@ arforms-form-builder
+msgid "Sweden"
+msgstr "瑞典"
+
+#: arforms-form-builder.php:1906
+#: core/helpers/arflitemainhelper.php:373
+#@ arforms-form-builder
+msgid "Switzerland"
+msgstr "瑞士"
+
+#: arforms-form-builder.php:1911
+#: core/helpers/arflitemainhelper.php:374
+#@ arforms-form-builder
+msgid "Syria"
+msgstr "叙利亚"
+
+#: arforms-form-builder.php:1916
+#: core/helpers/arflitemainhelper.php:375
+#@ arforms-form-builder
+msgid "Taiwan"
+msgstr "台湾"
+
+#: arforms-form-builder.php:1921
+#: core/helpers/arflitemainhelper.php:376
+#@ arforms-form-builder
+msgid "Tajikistan"
+msgstr "塔吉克斯坦"
+
+#: arforms-form-builder.php:1926
+#: core/helpers/arflitemainhelper.php:377
+#@ arforms-form-builder
+msgid "Tanzania"
+msgstr "坦桑尼亚"
+
+#: arforms-form-builder.php:1931
+#: core/helpers/arflitemainhelper.php:378
+#@ arforms-form-builder
+msgid "Thailand"
+msgstr "泰国"
+
+#: arforms-form-builder.php:1936
+#@ arforms-form-builder
+msgid "Timor-Leste"
+msgstr "东帝汶"
+
+#: arforms-form-builder.php:1941
+#: core/helpers/arflitemainhelper.php:379
+#@ arforms-form-builder
+msgid "Togo"
+msgstr "多哥"
+
+#: arforms-form-builder.php:1946
+#@ arforms-form-builder
+msgid "Tokelau"
+msgstr "托克劳"
+
+#: arforms-form-builder.php:1951
+#: core/helpers/arflitemainhelper.php:380
+#@ arforms-form-builder
+msgid "Tonga"
+msgstr "汤加"
+
+#: arforms-form-builder.php:1956
+#: core/helpers/arflitemainhelper.php:381
+#@ arforms-form-builder
+msgid "Trinidad and Tobago"
+msgstr "特立尼达和多巴哥"
+
+#: arforms-form-builder.php:1961
+#: core/helpers/arflitemainhelper.php:382
+#@ arforms-form-builder
+msgid "Tunisia"
+msgstr "突尼斯"
+
+#: arforms-form-builder.php:1966
+#: core/helpers/arflitemainhelper.php:383
+#@ arforms-form-builder
+msgid "Turkey"
+msgstr "火鸡"
+
+#: arforms-form-builder.php:1971
+#: core/helpers/arflitemainhelper.php:384
+#@ arforms-form-builder
+msgid "Turkmenistan"
+msgstr "土库曼斯坦"
+
+#: arforms-form-builder.php:1976
+#@ arforms-form-builder
+msgid "Turks and Caicos Islands"
+msgstr "特克斯和凯科斯群岛"
+
+#: arforms-form-builder.php:1981
+#: core/helpers/arflitemainhelper.php:385
+#@ arforms-form-builder
+msgid "Tuvalu"
+msgstr "图瓦卢"
+
+#: arforms-form-builder.php:1986
+#@ arforms-form-builder
+msgid "U.S. Virgin Islands"
+msgstr "美属维尔京群岛"
+
+#: arforms-form-builder.php:1991
+#: core/helpers/arflitemainhelper.php:386
+#@ arforms-form-builder
+msgid "Uganda"
+msgstr "乌干达"
+
+#: arforms-form-builder.php:1996
+#: core/helpers/arflitemainhelper.php:387
+#@ arforms-form-builder
+msgid "Ukraine"
+msgstr "乌克兰"
+
+#: arforms-form-builder.php:2001
+#: core/helpers/arflitemainhelper.php:388
+#@ arforms-form-builder
+msgid "United Arab Emirates"
+msgstr "阿拉伯联合酋长国"
+
+#: arforms-form-builder.php:2006
+#: core/helpers/arflitemainhelper.php:389
+#@ arforms-form-builder
+msgid "United Kingdom"
+msgstr "英国"
+
+#: arforms-form-builder.php:2011
+#: core/helpers/arflitemainhelper.php:390
+#@ arforms-form-builder
+msgid "United States"
+msgstr "美国"
+
+#: arforms-form-builder.php:2016
+#: core/helpers/arflitemainhelper.php:391
+#@ arforms-form-builder
+msgid "Uruguay"
+msgstr "乌拉圭"
+
+#: arforms-form-builder.php:2021
+#: core/helpers/arflitemainhelper.php:392
+#@ arforms-form-builder
+msgid "Uzbekistan"
+msgstr "乌兹别克斯坦"
+
+#: arforms-form-builder.php:2026
+#: core/helpers/arflitemainhelper.php:393
+#@ arforms-form-builder
+msgid "Vanuatu"
+msgstr "瓦努阿图"
+
+#: arforms-form-builder.php:2031
+#: core/helpers/arflitemainhelper.php:394
+#@ arforms-form-builder
+msgid "Vatican City"
+msgstr "梵蒂冈城"
+
+#: arforms-form-builder.php:2036
+#: core/helpers/arflitemainhelper.php:395
+#@ arforms-form-builder
+msgid "Venezuela"
+msgstr "委内瑞拉"
+
+#: arforms-form-builder.php:2041
+#: core/helpers/arflitemainhelper.php:396
+#@ arforms-form-builder
+msgid "Vietnam"
+msgstr "越南"
+
+#: arforms-form-builder.php:2046
+#@ arforms-form-builder
+msgid "Wallis and Futuna"
+msgstr "瓦利斯和富图纳群岛"
+
+#: arforms-form-builder.php:2051
+#@ arforms-form-builder
+msgid "Western Sahara"
+msgstr "西撒哈拉"
+
+#: arforms-form-builder.php:2056
+#: core/helpers/arflitemainhelper.php:399
+#@ arforms-form-builder
+msgid "Yemen"
+msgstr "也门"
+
+#: arforms-form-builder.php:2061
+#: core/helpers/arflitemainhelper.php:400
+#@ arforms-form-builder
+msgid "Zambia"
+msgstr "赞比亚"
+
+#: arforms-form-builder.php:2066
+#: core/helpers/arflitemainhelper.php:401
+#@ arforms-form-builder
+msgid "Zimbabwe"
+msgstr "津巴布韦"
+
+#: arformslite_cs/includes/arformslite-cs/controls.php:16
+#@ arforms-form-builder
+msgid "- Select form -"
+msgstr "-选择表格-"
+
+#: arformslite_cs/includes/arformslite-cs/controls.php:30
+#: core/vc/arflite_class_vc_extend.php:88
+#: core/views/arflite_insert_form_popup.php:33
+#@ arforms-form-builder
+msgid "Select a form to insert into page"
+msgstr "选择要插入页面的表格"
+
+#: core/controllers/arflite_elm_widgets/arflite_element_add.php:20
+#: core/vc/arflite_class_vc_extend.php:41
+#@ arforms-form-builder
+msgid "ARForms Lite"
+msgstr "ARForms Lite"
+
+#: core/controllers/arflite_elm_widgets/arflite_element_add.php:68
+#: core/controllers/arflitemaincontroller.php:2260
+#@ arforms-form-builder
+msgid "Please select form"
+msgstr "请选择表格"
+
+#: core/controllers/arflite_elm_widgets/arflite_element_add.php:77
+#@ arforms-form-builder
+msgid "ARForms Lite Shortcode"
+msgstr "ARForms Lite简码"
+
+#: core/controllers/arflite_elm_widgets/arflite_element_add.php:84
+#: core/widgets/arflitewidgetform.php:30
+#@ arforms-form-builder
+msgid "Title"
+msgstr "标题"
+
+#: core/controllers/arflite_elm_widgets/arflite_element_add.php:92
+#@ arforms-form-builder
+msgid "Forms :"
+msgstr "形式 ："
+
+#: core/controllers/arflitefilecontroller.php:78
+#: core/controllers/arflitefilecontroller.php:88
+#: core/controllers/arflitefilecontroller.php:92
+#@ arforms-form-builder
+msgid "Sorry, you don't have permission to perform this action."
+msgstr "抱歉，您无权执行此操作。"
+
+#: core/controllers/arflitefieldcontroller.php:447
+#: core/controllers/arflitefieldcontroller.php:450
+#: core/controllers/arflitefieldcontroller.php:479
+#@ arforms-form-builder
+msgid "Please select a CSV file"
+msgstr "请选择一个CSV文件"
+
+#: core/controllers/arflitefieldcontroller.php:559
+#: core/views/arflite_edit.php:1149
+#: core/views/arflite_edit.php:2368
+#@ arforms-form-builder
+msgid "Custom"
+msgstr "自订"
+
+#: core/controllers/arflitefieldcontroller.php:677
+#@ arforms-form-builder
+msgid "Required"
+msgstr "需要"
+
+#: core/controllers/arflitefieldcontroller.php:680
+#@ arforms-form-builder
+msgid "Field Settings"
+msgstr "栏位设定"
+
+#: core/controllers/arflitefieldcontroller.php:683
+#@ arforms-form-builder
+msgid "Delete Field"
+msgstr "删除栏位"
+
+#: core/controllers/arflitefieldcontroller.php:686
+#@ arforms-form-builder
+msgid "Duplicate Field"
+msgstr "重复栏位"
+
+#: core/controllers/arflitefieldcontroller.php:689
+#@ arforms-form-builder
+msgid "Move"
+msgstr "移动"
+
+#: core/controllers/arflitefieldcontroller.php:692
+#@ arforms-form-builder
+msgid "Manage Options"
+msgstr "管理选项"
+
+#: core/controllers/arflitefieldcontroller.php:695
+#@ arforms-form-builder
+msgid "Running Total (Math Logic) is Enabled"
+msgstr "启用运行总计（数学逻辑）"
+
+#: core/controllers/arfliteformcontroller.php:203
+#: core/controllers/arfliteformcontroller_13jan2022.php:203
+#: core/controllers/arfliteformcontroller_16mar2022.php:203
+#: core/controllers/arfliterecordcontroller.php:695
+#@ arforms-form-builder
+msgid "Please select one or more records."
+msgstr "请选择一个或多个记录。"
+
+#: core/controllers/arfliteformcontroller.php:226
+#: core/controllers/arfliteformcontroller.php:745
+#: core/controllers/arfliteformcontroller.php:7040
+#: core/controllers/arfliteformcontroller_13jan2022.php:226
+#: core/controllers/arfliteformcontroller_13jan2022.php:728
+#: core/controllers/arfliteformcontroller_13jan2022.php:6601
+#: core/controllers/arfliteformcontroller_16mar2022.php:226
+#: core/controllers/arfliteformcontroller_16mar2022.php:745
+#: core/controllers/arfliteformcontroller_16mar2022.php:7037
+#: core/controllers/arfliterecordcontroller.php:2779
+#@ arforms-form-builder
+msgid "Record is deleted successfully."
+msgstr "记录已成功删除。"
+
+#: core/controllers/arfliteformcontroller.php:243
+#: core/controllers/arfliteformcontroller_13jan2022.php:243
+#: core/controllers/arfliteformcontroller_16mar2022.php:243
+#: core/controllers/arfliteprocontroller.php:63
+#@ arforms-form-builder
+msgid "Forms"
+msgstr "形式"
+
+#: core/controllers/arfliteformcontroller.php:243
+#: core/controllers/arfliteformcontroller_13jan2022.php:243
+#: core/controllers/arfliteformcontroller_16mar2022.php:243
+#: core/controllers/arfliteprocontroller.php:63
+#: core/views/arflite_list.php:44
+#@ arforms-form-builder
+msgid "Manage Forms"
+msgstr "管理表格"
+
+#: core/controllers/arfliteformcontroller.php:244
+#: core/controllers/arfliteformcontroller_13jan2022.php:244
+#: core/controllers/arfliteformcontroller_16mar2022.php:244
+#: core/controllers/arfliteprocontroller.php:65
+#: core/views/arflite_list.php:80
+#@ arforms-form-builder
+msgid "Add New Form"
+msgstr "新增表格"
+
+#: core/controllers/arfliteformcontroller.php:427
+#: core/controllers/arfliteformcontroller_13jan2022.php:410
+#: core/controllers/arfliteformcontroller_16mar2022.php:427
+#@ arforms-form-builder
+msgid "Form is Successfully Deleted"
+msgstr "表格已成功删除"
+
+#: core/controllers/arfliteformcontroller.php:444
+#: core/controllers/arfliteformcontroller_13jan2022.php:427
+#: core/controllers/arfliteformcontroller_16mar2022.php:444
+#@ arforms-form-builder
+msgid "Add ARForms Lite Form"
+msgstr "添加ARForms Lite表单"
+
+#: core/controllers/arfliteformcontroller.php:692
+#: core/controllers/arfliteformcontroller_13jan2022.php:675
+#: core/controllers/arfliteformcontroller_16mar2022.php:692
+#: core/controllers/arfliterecordcontroller.php:1525
+#@ arforms-form-builder
+msgid "Please select valid action."
+msgstr "请选择有效的操作。"
+
+#: core/controllers/arfliteformcontroller.php:703
+#: core/controllers/arfliteformcontroller_13jan2022.php:686
+#: core/controllers/arfliteformcontroller_16mar2022.php:703
+#@ arforms-form-builder
+msgid "Please select one or more record to perform action."
+msgstr "请选择一个或多个记录以执行操作。"
+
+#: core/controllers/arfliteformcontroller.php:717
+#: core/controllers/arfliteformcontroller_13jan2022.php:700
+#: core/controllers/arfliteformcontroller_16mar2022.php:717
+#@ arforms-form-builder
+msgid "Sorry, you do not have enough permission to perform this action"
+msgstr "抱歉，您没有足够的权限执行此操作"
+
+#: core/controllers/arfliteformcontroller.php:813
+#: core/controllers/arfliteformcontroller_13jan2022.php:796
+#: core/controllers/arfliteformcontroller_16mar2022.php:813
+#: core/controllers/arflitemaincontroller.php:2233
+#: core/controllers/arfliterecordcontroller.php:2158
+#@ arforms-form-builder
+msgid "Click to Copy"
+msgstr "点击复制"
+
+#: core/controllers/arfliteformcontroller.php:836
+#: core/controllers/arfliteformcontroller_13jan2022.php:819
+#: core/controllers/arfliteformcontroller_16mar2022.php:836
+#: core/controllers/arfliterecordcontroller.php:2182
+#@ arforms-form-builder
+msgid "Edit Form"
+msgstr "编辑表格"
+
+#: core/controllers/arfliteformcontroller.php:842
+#: core/controllers/arfliteformcontroller_13jan2022.php:825
+#: core/controllers/arfliteformcontroller_16mar2022.php:842
+#: core/controllers/arfliterecordcontroller.php:2190
+#@ arforms-form-builder
+msgid "Form Entry"
+msgstr "表格输入"
+
+#: core/controllers/arfliteformcontroller.php:845
+#: core/controllers/arfliteformcontroller_13jan2022.php:828
+#: core/controllers/arfliteformcontroller_16mar2022.php:845
+#: core/controllers/arfliterecordcontroller.php:2196
+#@ arforms-form-builder
+msgid "Duplicate Form"
+msgstr "表格重复"
+
+#: core/controllers/arfliteformcontroller.php:847
+#: core/controllers/arfliteformcontroller_13jan2022.php:830
+#: core/controllers/arfliteformcontroller_16mar2022.php:847
+#: core/controllers/arfliterecordcontroller.php:2200
+#@ arforms-form-builder
+msgid "Export Entries"
+msgstr "出口项目"
+
+#: core/controllers/arfliteformcontroller.php:858
+#: core/controllers/arfliteformcontroller_13jan2022.php:841
+#: core/controllers/arfliteformcontroller_16mar2022.php:858
+#: core/controllers/arfliterecordcontroller.php:2017
+#: core/controllers/arfliterecordcontroller.php:2213
+#: core/views/arflite_edit.php:829
+#: core/views/arflite_edit.php:2496
+#: core/views/arflite_edit.php:2566
+#@ arforms-form-builder
+msgid "Preview"
+msgstr "预习"
+
+#: core/controllers/arfliteformcontroller.php:863
+#: core/controllers/arfliteformcontroller_13jan2022.php:846
+#: core/controllers/arfliteformcontroller_16mar2022.php:863
+#: core/controllers/arflitemaincontroller.php:2241
+#: core/controllers/arflitemaincontroller.php:2309
+#: core/controllers/arfliterecordcontroller.php:2030
+#: core/controllers/arfliterecordcontroller.php:2218
+#: core/views/arflite_list.php:4
+#: core/views/arflite_view_records.php:90
+#@ arforms-form-builder
+msgid "Delete"
+msgstr "删除"
+
+#: core/controllers/arfliteformcontroller.php:2018
+#: core/controllers/arfliteformcontroller_13jan2022.php:1953
+#: core/controllers/arfliteformcontroller_16mar2022.php:2018
+#@ arforms-form-builder
+msgid "Form is saved successfully."
+msgstr "表格保存成功。"
+
+#: core/controllers/arfliteformcontroller.php:4123
+#: core/controllers/arfliteformcontroller_13jan2022.php:3998
+#: core/controllers/arfliteformcontroller_16mar2022.php:4123
+#@ arforms-form-builder
+msgid "Invalid maximum characters length"
+msgstr "无效的最大字符长度"
+
+#: core/controllers/arfliteformcontroller.php:5115
+#: core/controllers/arfliteformcontroller_13jan2022.php:4935
+#: core/controllers/arfliteformcontroller_16mar2022.php:5115
+#: core/controllers/arflitemaincontroller.php:3580
+#: core/views/arflite_field_editor.php:1190
+#@ arforms-form-builder
+msgid "Please select"
+msgstr "请选择"
+
+#: core/controllers/arfliteformcontroller.php:6444
+#: core/controllers/arfliteformcontroller_13jan2022.php:6031
+#: core/controllers/arfliteformcontroller_16mar2022.php:6444
+#@ arforms-form-builder
+msgid "Drop Down"
+msgstr "落下"
+
+#: core/controllers/arfliteformcontroller.php:6451
+#: core/controllers/arfliteformcontroller_13jan2022.php:6038
+#: core/controllers/arfliteformcontroller_16mar2022.php:6451
+#@ arforms-form-builder
+msgid "Datepicker / Timepicker"
+msgstr "日期选择器/时间选择器"
+
+#: core/controllers/arfliteformcontroller.php:6458
+#: core/controllers/arfliteformcontroller_13jan2022.php:6045
+#: core/controllers/arfliteformcontroller_16mar2022.php:6458
+#: core/views/arflite_edit.php:4730
+#@ arforms-form-builder
+msgid "Font Awesome"
+msgstr "字体很棒"
+
+#: core/controllers/arfliteformcontroller.php:6464
+#: core/controllers/arfliteformcontroller_13jan2022.php:6051
+#: core/controllers/arfliteformcontroller_16mar2022.php:6464
+#@ arforms-form-builder
+msgid "Mask Input"
+msgstr "遮罩输入"
+
+#: core/controllers/arfliteformcontroller.php:6470
+#: core/controllers/arfliteformcontroller_13jan2022.php:6057
+#: core/controllers/arfliteformcontroller_16mar2022.php:6470
+#: core/views/arflite_field_option_popup.php:742
+#@ arforms-form-builder
+msgid "Tooltip"
+msgstr "工具提示"
+
+#: core/controllers/arfliteformcontroller.php:6477
+#: core/controllers/arfliteformcontroller_13jan2022.php:6064
+#: core/controllers/arfliteformcontroller_16mar2022.php:6477
+#@ arforms-form-builder
+msgid "Material"
+msgstr "材料"
+
+#: core/controllers/arfliteformcontroller.php:6966
+#: core/controllers/arfliteformcontroller_13jan2022.php:6527
+#: core/controllers/arfliteformcontroller_16mar2022.php:6963
+#@ arforms-form-builder
+msgid "CSV generated successfully."
+msgstr "CSV生成成功。"
+
+#: core/controllers/arfliteformcontroller.php:7017
+#: core/controllers/arfliteformcontroller.php:7029
+#: core/controllers/arfliteformcontroller_13jan2022.php:6578
+#: core/controllers/arfliteformcontroller_13jan2022.php:6590
+#: core/controllers/arfliteformcontroller_16mar2022.php:7014
+#: core/controllers/arfliteformcontroller_16mar2022.php:7026
+#: core/views/arflite_form_preview.php:10
+#@ arforms-form-builder
+msgid "Please select valid form"
+msgstr "请选择有效表格"
+
+#: core/controllers/arflitemaincontroller.php:568
+#@ arforms-form-builder
+msgid "Who we are?"
+msgstr "我们是谁？"
+
+#: core/controllers/arflitemaincontroller.php:571
+#@ arforms-form-builder
+msgid "What Personal Data we collect and why we collect it."
+msgstr "我们收集什么个人数据以及为什么收集它。"
+
+#: core/controllers/arflitemaincontroller.php:865
+#: core/controllers/arflitemaincontroller.php:972
+#@ arforms-form-builder
+msgid "Contact us"
+msgstr "联系我们"
+
+#: core/controllers/arflitemaincontroller.php:866
+#: core/controllers/arflitemaincontroller.php:870
+#: core/controllers/arflitemaincontroller.php:874
+#: core/controllers/arflitemaincontroller.php:878
+#: core/controllers/arflitemaincontroller.php:882
+#: core/controllers/arflitemaincontroller.php:886
+#@ arforms-form-builder
+msgid "standard"
+msgstr "标准"
+
+#: core/controllers/arflitemaincontroller.php:869
+#: core/controllers/arflitemaincontroller.php:973
+#@ arforms-form-builder
+msgid "Subscription Form"
+msgstr "订阅表格"
+
+#: core/controllers/arflitemaincontroller.php:873
+#: core/controllers/arflitemaincontroller.php:974
+#@ arforms-form-builder
+msgid "Feedback Form"
+msgstr "反馈表"
+
+#: core/controllers/arflitemaincontroller.php:877
+#: core/controllers/arflitemaincontroller.php:976
+#@ arforms-form-builder
+msgid "Registration Form"
+msgstr "报名表格"
+
+#: core/controllers/arflitemaincontroller.php:881
+#: core/controllers/arflitemaincontroller.php:977
+#@ arforms-form-builder
+msgid "Survey Form"
+msgstr "调查表格"
+
+#: core/controllers/arflitemaincontroller.php:885
+#@ arforms-form-builder
+msgid "Memeber Login"
+msgstr "会员登录"
+
+#: core/controllers/arflitemaincontroller.php:975
+#@ arforms-form-builder
+msgid "RSVP Form"
+msgstr "RSVP表格"
+
+#: core/controllers/arflitemaincontroller.php:978
+#@ arforms-form-builder
+msgid "Job Application"
+msgstr "申请工作"
+
+#: core/controllers/arflitemaincontroller.php:1235
+#: core/views/arflite_edit_form.php:406
+#@ arforms-form-builder
+msgid "Settings"
+msgstr "设定值"
+
+#: core/controllers/arflitemaincontroller.php:1270
+#: core/controllers/arfliteprocontroller.php:231
+#@ arforms-form-builder
+msgid "Set up is too difficult"
+msgstr "设置太难了"
+
+#: core/controllers/arflitemaincontroller.php:1271
+#: core/controllers/arfliteprocontroller.php:232
+#@ arforms-form-builder
+msgid "Lack of documentation"
+msgstr "缺乏文件"
+
+#: core/controllers/arflitemaincontroller.php:1272
+#: core/controllers/arfliteprocontroller.php:233
+#@ arforms-form-builder
+msgid "Not the features I wanted"
+msgstr "不是我想要的功能"
+
+#: core/controllers/arflitemaincontroller.php:1273
+#: core/controllers/arfliteprocontroller.php:234
+#@ arforms-form-builder
+msgid "Found a better plugin"
+msgstr "找到了更好的插件"
+
+#: core/controllers/arflitemaincontroller.php:1274
+#: core/controllers/arfliteprocontroller.php:235
+#@ arforms-form-builder
+msgid "Incompatible with theme or plugin"
+msgstr "与主题或插件不兼容"
+
+#: core/controllers/arflitemaincontroller.php:1275
+#: core/controllers/arfliteprocontroller.php:236
+#@ arforms-form-builder
+msgid "I bought premium version of ARForms"
+msgstr "我购买了ARForms的高级版"
+
+#: core/controllers/arflitemaincontroller.php:1276
+#: core/controllers/arfliteprocontroller.php:237
+#@ arforms-form-builder
+msgid "Other"
+msgstr "其他"
+
+#: core/controllers/arflitemaincontroller.php:1279
+#: core/controllers/arfliteprocontroller.php:240
+#@ arforms-form-builder
+msgid "ARForms Lite - Sorry to see you go"
+msgstr "ARForms Lite-抱歉，您走了"
+
+#: core/controllers/arflitemaincontroller.php:1287
+#: core/controllers/arfliteprocontroller.php:248
+#@ arforms-form-builder
+msgid "Before you deactivate the ARForms Lite plugin, would you quickly give us your reason for doing so?"
+msgstr "在停用ARForms Lite插件之前，您能迅速告诉我们您这样做的理由吗？"
+
+#: core/controllers/arflitemaincontroller.php:1293
+#: core/controllers/arfliteprocontroller.php:254
+#@ arforms-form-builder
+msgid "How could we improve ?"
+msgstr "我们如何改善？"
+
+#: core/controllers/arflitemaincontroller.php:1302
+#: core/controllers/arfliteprocontroller.php:263
+#@ arforms-form-builder
+msgid "Submitting form"
+msgstr "提交表格"
+
+#: core/controllers/arflitemaincontroller.php:1307
+#: core/controllers/arfliteprocontroller.php:268
+#@ arforms-form-builder
+msgid "If you UNCHECK this then your email address will be sent along with your feedback. This can be used by arflite to get back to you for more info or a solution."
+msgstr "如果您取消选中此复选框，则您的电子邮件地址将与您的反馈信息一起发送。 arflite可以使用它来获取更多信息或解决方案。"
+
+#: core/controllers/arflitemaincontroller.php:1308
+#: core/controllers/arfliteprocontroller.php:269
+#@ arforms-form-builder
+msgid "Send anonymous"
+msgstr "发送匿名"
+
+#: core/controllers/arflitemaincontroller.php:1311
+#: core/controllers/arfliteprocontroller.php:272
+#, php-format
+#@ arforms-form-builder
+msgid "%s Submit and%s Deactivate"
+msgstr "%s 提交和 %s 停用"
+
+#: core/controllers/arflitemaincontroller.php:2201
+#: core/helpers/arflitefieldhelper.php:336
+#: core/views/arflite_field_type_conversion.php:119
+#@ arforms-form-builder
+msgid "Single Line Text"
+msgstr "单行文字"
+
+#: core/controllers/arflitemaincontroller.php:2202
+#: core/helpers/arflitefieldhelper.php:340
+#: core/views/arflite_field_type_conversion.php:120
+#@ arforms-form-builder
+msgid "Multiline Text"
+msgstr "多行文字"
+
+#: core/controllers/arflitemaincontroller.php:2203
+#: core/views/arflite_field_type_conversion.php:121
+#@ arforms-form-builder
+msgid "Checkbox"
+msgstr "复选框"
+
+#: core/controllers/arflitemaincontroller.php:2204
+#@ arforms-form-builder
+msgid "Radio"
+msgstr "无线电"
+
+#: core/controllers/arflitemaincontroller.php:2205
+#: core/helpers/arflitefieldhelper.php:352
+#: core/views/arflite_field_type_conversion.php:123
+#@ arforms-form-builder
+msgid "Dropdown"
+msgstr "落下"
+
+#: core/controllers/arflitemaincontroller.php:2206
+#: core/helpers/arflitefieldhelper.php:426
+#: core/views/arflite_settings_form.php:1720
+#@ arforms-form-builder
+msgid "Email Address"
+msgstr "电子邮件地址"
+
+#: core/controllers/arflitemaincontroller.php:2207
+#: core/helpers/arflitefieldhelper.php:430
+#: core/views/arflite_field_type_conversion.php:125
+#@ arforms-form-builder
+msgid "Number"
+msgstr "数"
+
+#: core/controllers/arflitemaincontroller.php:2208
+#: core/helpers/arflitefieldhelper.php:434
+#@ arforms-form-builder
+msgid "Phone Number"
+msgstr "电话号码"
+
+#: core/controllers/arflitemaincontroller.php:2209
+#: core/helpers/arflitefieldhelper.php:438
+#@ arforms-form-builder
+msgid "Date"
+msgstr "日期"
+
+#: core/controllers/arflitemaincontroller.php:2210
+#: core/helpers/arflitefieldhelper.php:442
+#@ arforms-form-builder
+msgid "Time"
+msgstr "时间"
+
+#: core/controllers/arflitemaincontroller.php:2211
+#: core/helpers/arflitefieldhelper.php:446
+#: core/views/arflite_field_type_conversion.php:127
+#@ arforms-form-builder
+msgid "Website/URL"
+msgstr "网址"
+
+#: core/controllers/arflitemaincontroller.php:2212
+#: core/helpers/arflitefieldhelper.php:450
+#@ arforms-form-builder
+msgid "Image URL"
+msgstr "图片网址"
+
+#: core/helpers/arflitefieldhelper.php:455
+#: core/views/arflite_settings_form.php:1493
+#@ arforms-form-builder
+msgid "Password"
+msgstr "密码"
+
+#: core/controllers/arflitemaincontroller.php:2213
+#: core/helpers/arflitefieldhelper.php:459
+#: core/views/arflite_settings_form.php:511
+#@ arforms-form-builder
+msgid "HTML"
+msgstr "的HTML"
+
+#: core/helpers/arflitefieldhelper.php:463
+#@ arforms-form-builder
+msgid "Section"
+msgstr "部分"
+
+#: core/helpers/arflitefieldhelper.php:479
+#@ arforms-form-builder
+msgid "Slider"
+msgstr "滑杆"
+
+#: core/helpers/arflitefieldhelper.php:483
+#@ arforms-form-builder
+msgid "Color Picker"
+msgstr "颜色选择器"
+
+#: core/helpers/arflitefieldhelper.php:487
+#@ arforms-form-builder
+msgid "Image"
+msgstr "图片"
+
+#: core/views/arflite_switch_field.php:6
+#: core/views/arflite_switch_field.php:22
+#@ arforms-form-builder
+msgid "Switch"
+msgstr "开关"
+
+#: core/helpers/arflitefieldhelper.php:491
+#@ arforms-form-builder
+msgid "Credit Card"
+msgstr "信用卡"
+
+#: core/controllers/arflitemaincontroller.php:2221
+#, php-format
+#@ arforms-form-builder
+msgid "Are you sure you want to %s delete this form?"
+msgstr "您确定要 %s 删除此表单吗？"
+
+#: core/controllers/arflitemaincontroller.php:2223
+#: core/views/arflite_list.php:159
+#, php-format
+#@ arforms-form-builder
+msgid "Are you sure you want to %s delete this entry?"
+msgstr "您确定要 %s 删除此项吗？"
+
+#: core/controllers/arflitemaincontroller.php:2225
+#, php-format
+#@ arforms-form-builder
+msgid "Are you sure you want to %s delete this file?"
+msgstr "您确定要 %s 删除此文件吗？"
+
+#: core/controllers/arflitemaincontroller.php:2227
+#, php-format
+#@ arforms-form-builder
+msgid "Are you sure want to %s reset style?"
+msgstr "您确定要 %s 重置样式吗？"
+
+#: core/controllers/arflitemaincontroller.php:2229
+#: core/controllers/arflitemaincontroller.php:2266
+#@ arforms-form-builder
+msgid "Please select one or more record to perform action"
+msgstr "请选择一个或多个记录以执行操作"
+
+#: core/controllers/arflitemaincontroller.php:2230
+#: core/controllers/arflitemaincontroller.php:2326
+#@ arforms-form-builder
+msgid "Add Image"
+msgstr "添加图片"
+
+#: core/controllers/arflitemaincontroller.php:2232
+#@ arforms-form-builder
+msgid "Please Select Field"
+msgstr "请选择字段"
+
+#: core/controllers/arflitemaincontroller.php:2234
+#@ arforms-form-builder
+msgid "copied"
+msgstr "复制的"
+
+#: core/controllers/arflitemaincontroller.php:2235
+#@ arforms-form-builder
+msgid "Please upload csv file"
+msgstr "请上传CSV文件"
+
+#: core/controllers/arflitemaincontroller.php:2237
+#@ arforms-form-builder
+msgid "Please Enter preset title"
+msgstr "请输入预设标题"
+
+#: core/controllers/arflitemaincontroller.php:2239
+#@ arforms-form-builder
+msgid "Please select valid action"
+msgstr "请选择有效的动作"
+
+#: core/controllers/arflitemaincontroller.php:2243
+#: core/controllers/arflitemaincontroller.php:2330
+#: core/views/arflite_edit.php:843
+#: core/views/arflite_edit.php:3334
+#: core/views/arflite_edit.php:3799
+#: core/views/arflite_edit.php:4740
+#: core/views/arflite_field_editor.php:1441
+#: core/views/arflite_field_editor.php:1458
+#: core/views/arflite_field_option_popup.php:768
+#: core/views/arflite_field_values_popup.php:243
+#: core/views/arflite_field_values_popup.php:268
+#: core/views/arflite_field_values_popup.php:337
+#: core/views/arflite_insert_form_popup.php:42
+#: core/views/arflite_list.php:162
+#: core/views/arflite_new-selection-modal.php:127
+#: core/views/arflite_new_field_array.php:121
+#: core/views/arflite_new_field_array.php:122
+#: core/views/arflite_new_field_array.php:123
+#: core/views/arflite_new_field_array.php:124
+#: core/views/arflite_new_field_array.php:125
+#: core/views/arflite_new_field_array.php:126
+#: core/views/arflite_new_field_array.php:127
+#: core/views/arflite_new_field_array.php:128
+#: core/views/arflite_new_field_array.php:129
+#: core/views/arflite_new_field_array.php:130
+#: core/views/arflite_new_field_array.php:131
+#: core/views/arflite_new_field_array.php:132
+#: core/views/arflite_new_field_array.php:133
+#: core/views/arflite_new_field_array.php:138
+#: core/views/arflite_new_field_array.php:139
+#: core/views/arflite_new_field_array.php:140
+#: core/views/arflite_new_field_array.php:141
+#: core/views/arflite_new_field_array.php:142
+#: core/views/arflite_new_field_array.php:143
+#: core/views/arflite_new_field_array.php:144
+#: core/views/arflite_new_field_array.php:145
+#: core/views/arflite_new_field_array.php:146
+#: core/views/arflite_new_field_array.php:147
+#: core/views/arflite_new_field_array.php:148
+#: core/views/arflite_new_field_array.php:149
+#: core/views/arflite_new_field_array.php:150
+#: core/views/arflite_view_records.php:500
+#: core/views/arflite_view_records.php:518
+#: core/views/arflite_view_records.php:528
+#@ arforms-form-builder
+msgid "Cancel"
+msgstr "取消"
+
+#: core/controllers/arflitemaincontroller.php:2245
+#: core/views/arflite_field_values_popup.php:183
+#@ arforms-form-builder
+msgid "Reset"
+msgstr "重启"
+
+#: core/controllers/arflitemaincontroller.php:2247
+#, php-format
+#@ arforms-form-builder
+msgid "Are you sure you want to %s delete this image?"
+msgstr "您确定要 %s 删除此图像吗？"
+
+#: core/controllers/arflitemaincontroller.php:2249
+#: core/views/arflite_new-selection-modal.php:50
+#@ arforms-form-builder
+msgid "Please enter form title"
+msgstr "请输入表格标题"
+
+#: core/controllers/arflitemaincontroller.php:2253
+#@ arforms-form-builder
+msgid "Are you sure to delete configuration?"
+msgstr "您确定要删除配置吗？"
+
+#: core/controllers/arflitemaincontroller.php:2254
+#, php-format
+#@ arforms-form-builder
+msgid "Are you sure you want to %s delete this field?"
+msgstr "您确定要 %s 删除此字段吗？"
+
+#: core/controllers/arflitemaincontroller.php:2255
+#: core/controllers/arflitemaincontroller.php:2316
+#: core/views/arflite_edit.php:3846
+#: core/views/arflite_field_type_conversion.php:48
+#: core/views/arflite_field_type_conversion.php:54
+#: core/views/arflite_field_type_conversion.php:87
+#@ arforms-form-builder
+msgid "Select Field"
+msgstr "选择栏位"
+
+#: core/controllers/arflitemaincontroller.php:2256
+#@ arforms-form-builder
+msgid "Please try again"
+msgstr "请再试一遍"
+
+#: core/controllers/arflitemaincontroller.php:2258
+#@ arforms-form-builder
+msgid "Successfully removed file"
+msgstr "成功删除文件"
+
+#: core/controllers/arflitemaincontroller.php:2262
+#@ arforms-form-builder
+msgid "Your formula is invalid"
+msgstr "您的公式无效"
+
+#: core/controllers/arflitemaincontroller.php:2264
+#@ arforms-form-builder
+msgid "Your formula is valid"
+msgstr "您的公式有效"
+
+#: core/controllers/arflitemaincontroller.php:2268
+#: core/views/arflite_convertkit.php:77
+#: core/views/arflite_drip.php:85
+#: core/views/arflite_hubspot.php:68
+#: core/views/arflite_mailerlite.php:68
+#: core/views/arflite_sendinblue.php:65
+#: core/views/arflite_settings_form.php:1160
+#: core/views/arflite_settings_form.php:1265
+#: core/views/arflite_settings_form.php:1382
+#: core/views/arflite_settings_form.php:1519
+#: core/views/arflite_settings_form.php:1642
+#: core/views/arflite_settings_form.php:1755
+#@ arforms-form-builder
+msgid "Nothing Selected"
+msgstr "没有选择"
+
+#: core/controllers/arflitemaincontroller.php:2270
+#: core/views/arflite_new_field_array.php:121
+#: core/views/arflite_new_field_array.php:122
+#: core/views/arflite_new_field_array.php:123
+#: core/views/arflite_new_field_array.php:124
+#: core/views/arflite_new_field_array.php:125
+#: core/views/arflite_new_field_array.php:126
+#: core/views/arflite_new_field_array.php:127
+#: core/views/arflite_new_field_array.php:128
+#: core/views/arflite_new_field_array.php:130
+#: core/views/arflite_new_field_array.php:131
+#: core/views/arflite_new_field_array.php:132
+#: core/views/arflite_new_field_array.php:133
+#: core/views/arflite_new_field_array.php:138
+#: core/views/arflite_new_field_array.php:139
+#: core/views/arflite_new_field_array.php:140
+#: core/views/arflite_new_field_array.php:141
+#: core/views/arflite_new_field_array.php:142
+#: core/views/arflite_new_field_array.php:143
+#: core/views/arflite_new_field_array.php:144
+#: core/views/arflite_new_field_array.php:145
+#: core/views/arflite_new_field_array.php:147
+#: core/views/arflite_new_field_array.php:148
+#: core/views/arflite_new_field_array.php:149
+#: core/views/arflite_new_field_array.php:150
+#@ arforms-form-builder
+msgid "Click to mark as not compulsory field"
+msgstr "单击以标记为非必填字段"
+
+#: core/controllers/arflitemaincontroller.php:2272
+#@ arforms-form-builder
+msgid "Click to mark as compulsory field"
+msgstr "点击标记为必填项"
+
+#: core/controllers/arflitemaincontroller.php:2278
+#@ arforms-form-builder
+msgid "(Click here to add text)"
+msgstr "（点击此处添加文字）"
+
+#: core/controllers/arflitemaincontroller.php:2280
+#@ arforms-form-builder
+msgid "(Click here to add description or instructions)"
+msgstr "（单击此处添加描述或说明）"
+
+#: core/controllers/arflitemaincontroller.php:2286
+#@ arforms-form-builder
+msgid "equals"
+msgstr "等于"
+
+#: core/controllers/arflitemaincontroller.php:2288
+#@ arforms-form-builder
+msgid "not equals"
+msgstr "不等于"
+
+#: core/controllers/arflitemaincontroller.php:2289
+#@ arforms-form-builder
+msgid "greater than"
+msgstr "比...更棒"
+
+#: core/controllers/arflitemaincontroller.php:2290
+#@ arforms-form-builder
+msgid "less than"
+msgstr "少于"
+
+#: core/controllers/arflitemaincontroller.php:2291
+#@ arforms-form-builder
+msgid "contains"
+msgstr "包含"
+
+#: core/controllers/arflitemaincontroller.php:2292
+#@ arforms-form-builder
+msgid "not contains"
+msgstr "不包含"
+
+#: core/controllers/arflitemaincontroller.php:2293
+#@ arforms-form-builder
+msgid "Please add one or more rules"
+msgstr "请添加一个或多个规则"
+
+#: core/controllers/arflitemaincontroller.php:2295
+#: core/views/arflite_list.php:132
+#: core/views/arflite_view_records.php:398
+#@ arforms-form-builder
+msgid "Show"
+msgstr "显示"
+
+#: core/controllers/arflitemaincontroller.php:2296
+#@ arforms-form-builder
+msgid "Hide"
+msgstr "隐藏"
+
+#: core/controllers/arflitemaincontroller.php:2297
+#: core/views/arflite_settings_form.php:1006
+#@ arforms-form-builder
+msgid "Enable"
+msgstr "启用"
+
+#: core/controllers/arflitemaincontroller.php:2298
+#@ arforms-form-builder
+msgid "Disable"
+msgstr "禁用"
+
+#: core/controllers/arflitemaincontroller.php:2299
+#@ arforms-form-builder
+msgid "Set Value of"
+msgstr "设定值"
+
+#: core/controllers/arflitemaincontroller.php:2303
+#: core/controllers/arfliterecordcontroller.php:476
+#: core/controllers/arfliterecordcontroller.php:529
+#: core/views/arflite_edit.php:4060
+#: core/views/arflite_edit.php:4398
+#: core/views/arflite_edit.php:4515
+#: core/views/arflite_edit.php:4523
+#: core/views/arflite_edit.php:4544
+#: core/views/arflite_edit.php:4706
+#@ arforms-form-builder
+msgid "This field cannot be blank"
+msgstr "该字段不能为空"
+
+#: core/controllers/arflitemaincontroller.php:2307
+#@ arforms-form-builder
+msgid "Please, Select appropriate option"
+msgstr "请选择适当的选项"
+
+#: core/controllers/arflitemaincontroller.php:2307
+#@ arforms-form-builder
+msgid "to change/delete image"
+msgstr "更改/删除图像"
+
+#: core/controllers/arflitemaincontroller.php:2308
+#@ arforms-form-builder
+msgid "Add"
+msgstr "加"
+
+#: core/controllers/arflitemaincontroller.php:2311
+#@ arforms-form-builder
+msgid "IF"
+msgstr "如果"
+
+#: core/controllers/arflitemaincontroller.php:2312
+#@ arforms-form-builder
+msgid "All"
+msgstr "所有"
+
+#: core/controllers/arflitemaincontroller.php:2313
+#@ arforms-form-builder
+msgid "Any"
+msgstr "任何"
+
+#: core/controllers/arflitemaincontroller.php:2314
+#@ arforms-form-builder
+msgid "THEN"
+msgstr "然后"
+
+#: core/controllers/arflitemaincontroller.php:2318
+#@ arforms-form-builder
+msgid "is"
+msgstr "是"
+
+#: core/controllers/arflitemaincontroller.php:2320
+#@ arforms-form-builder
+msgid "Then Mail Send To"
+msgstr "然后邮件发送到"
+
+#: core/controllers/arflitemaincontroller.php:2322
+#@ arforms-form-builder
+msgid "Then Redirect to"
+msgstr "然后重定向到"
+
+#: core/controllers/arflitemaincontroller.php:2324
+#: core/helpers/arflitefieldhelper.php:890
+#@ arforms-form-builder
+msgid "Untitled"
+msgstr "无标题"
+
+#: core/controllers/arflitemaincontroller.php:2328
+#: core/views/arflite_edit.php:1331
+#: core/views/arflite_edit.php:1728
+#: core/views/arflite_edit.php:1844
+#: core/views/arflite_edit.php:1864
+#: core/views/arflite_edit.php:2240
+#: core/views/arflite_edit.php:2528
+#: core/views/arflite_field_option_popup.php:129
+#: core/views/arflite_field_option_popup.php:143
+#: core/views/arflite_field_option_popup.php:559
+#: core/views/arflite_field_values_popup.php:140
+#: core/views/arflite_field_values_popup.php:156
+#: core/views/arflite_field_values_popup.php:173
+#: core/views/arflite_settings_form.php:776
+#: core/widgets/arflitewidgetform.php:59
+#@ arforms-form-builder
+msgid "Yes"
+msgstr "是"
+
+#: core/controllers/arflitemaincontroller.php:2332
+#@ arforms-form-builder
+msgid "Page"
+msgstr "页"
+
+#: core/controllers/arflitemaincontroller.php:2334
+#@ arforms-form-builder
+msgid "begin"
+msgstr "开始"
+
+#: core/controllers/arflitemaincontroller.php:2336
+#@ arforms-form-builder
+msgid "Add Icon"
+msgstr "添加图标"
+
+#: core/controllers/arflitemaincontroller.php:2338
+#@ arforms-form-builder
+msgid "To export this form, first you need to save it"
+msgstr "要导出此表单，首先需要保存它"
+
+#: core/controllers/arflitemaincontroller.php:2340
+#@ arforms-form-builder
+msgid "There is something error while saving form"
+msgstr "保存表单时出错"
+
+#: core/controllers/arflitemaincontroller.php:2346
+#@ arforms-form-builder
+msgid "There is no entry found"
+msgstr "找不到条目"
+
+#: core/controllers/arflitemaincontroller.php:2348
+#@ arforms-form-builder
+msgid "Do not clear default text on focus."
+msgstr "不要清除焦点上的默认文本。"
+
+#: core/controllers/arflitemaincontroller.php:2350
+#@ arforms-form-builder
+msgid "Clear default text on focus."
+msgstr "清除焦点上的默认文本。"
+
+#: core/controllers/arflitemaincontroller.php:2352
+#@ arforms-form-builder
+msgid "Pass the validation with default value."
+msgstr "通过验证并使用默认值。"
+
+#: core/controllers/arflitemaincontroller.php:2354
+#@ arforms-form-builder
+msgid "Do not pass the validation with default value."
+msgstr "不要通过验证使用默认值。"
+
+#: core/controllers/arflitemaincontroller.php:2356
+#@ arforms-form-builder
+msgid "Click to edit"
+msgstr "点击编辑"
+
+#: core/controllers/arflitemaincontroller.php:2358
+#@ arforms-form-builder
+msgid "There is no any form found"
+msgstr "找不到任何表格"
+
+#: core/controllers/arflitemaincontroller.php:2360
+#: core/helpers/arflitefieldhelper.php:805
+#@ arforms-form-builder
+msgid "Next"
+msgstr "下一个"
+
+#: core/controllers/arflitemaincontroller.php:2362
+#@ arforms-form-builder
+msgid "Last"
+msgstr "持续"
+
+#: core/controllers/arflitemaincontroller.php:2364
+#@ arforms-form-builder
+msgid "First"
+msgstr "第一"
+
+#: core/controllers/arflitemaincontroller.php:2366
+#: core/helpers/arflitefieldhelper.php:804
+#@ arforms-form-builder
+msgid "Previous"
+msgstr "以前"
+
+#: core/controllers/arflitemaincontroller.php:2371
+#@ arforms-form-builder
+msgid "Field values will be lost once converted to"
+msgstr "字段值一旦转换为将丢失"
+
+#: core/controllers/arflitemaincontroller.php:2372
+#: core/views/arflite_edit.php:1268
+#@ arforms-form-builder
+msgid "Type"
+msgstr "类型"
+
+#: core/controllers/arflitemaincontroller.php:2373
+#@ arforms-form-builder
+msgid "You are converting"
+msgstr "您正在转换"
+
+#: core/controllers/arflitemaincontroller.php:2374
+#: core/controllers/arflitemaincontroller.php:2376
+#@ arforms-form-builder
+msgid "type to"
+msgstr "输入"
+
+#: core/controllers/arflitemaincontroller.php:2375
+#@ arforms-form-builder
+msgid "type, field options will be different from"
+msgstr "类型，字段选项将不同于"
+
+#: core/controllers/arflitemaincontroller.php:2377
+#@ arforms-form-builder
+msgid "Please do needful"
+msgstr "请做有需要的"
+
+#: core/controllers/arflitemaincontroller.php:2378
+#@ arforms-form-builder
+msgid "Field type changing also may affect email notification section, conditional rule section, payment gateways configuration and other add-ons configuration. So it is highly recommend to verify all these settings after changing field type"
+msgstr "字段类型的更改也可能会影响电子邮件通知部分，条件规则部分，付款网关配置和其他附加组件配置。 因此，强烈建议您在更改字段类型后验证所有这些设置"
+
+#: core/controllers/arflitemaincontroller.php:2399
+#: core/views/arflite_view_records.php:377
+#@ arforms-form-builder
+msgid "Please select a form"
+msgstr "请选择一个表格"
+
+#: core/controllers/arflitemaincontroller.php:2400
+#@ arforms-form-builder
+msgid "Please select a custom display"
+msgstr "请选择一个自定义显示"
+
+#: core/controllers/arflitemaincontroller.php:2436
+#: core/controllers/arfliteprocontroller.php:294
+#@ arforms-form-builder
+msgid "What was the dificult part?"
+msgstr "难点是什么？"
+
+#: core/controllers/arflitemaincontroller.php:2437
+#: core/controllers/arfliteprocontroller.php:295
+#@ arforms-form-builder
+msgid "What can we describe more?"
+msgstr "我们还能描述什么？"
+
+#: core/controllers/arflitemaincontroller.php:2438
+#: core/controllers/arfliteprocontroller.php:296
+#@ arforms-form-builder
+msgid "How could we improve?"
+msgstr "我们如何改善？"
+
+#: core/controllers/arflitemaincontroller.php:2439
+#: core/controllers/arfliteprocontroller.php:297
+#@ arforms-form-builder
+msgid "Can you mention it?"
+msgstr "你能提到吗？"
+
+#: core/controllers/arflitemaincontroller.php:2440
+#: core/controllers/arfliteprocontroller.php:298
+#@ arforms-form-builder
+msgid "With what plugin or theme is incompatible?"
+msgstr "与哪个插件或主题不兼容？"
+
+#: core/controllers/arflitemaincontroller.php:2441
+#: core/controllers/arfliteprocontroller.php:299
+#@ arforms-form-builder
+msgid "Please specify experience"
+msgstr "请注明经验"
+
+#: core/controllers/arflitemaincontroller.php:2442
+#: core/controllers/arfliteprocontroller.php:300
+#@ arforms-form-builder
+msgid "Please specify"
+msgstr "请明确说明"
+
+#: core/controllers/arflitemaincontroller.php:3369
+#@ arforms-form-builder
+msgid "Sorry, you do not have permission to perform this action"
+msgstr "抱歉，您无权执行此操作"
+
+#: core/controllers/arflitemaincontroller.php:3385
+#@ arforms-form-builder
+msgid "Sorry, your request could not be processed due to security reason."
+msgstr "抱歉，由于安全原因无法处理您的请求。"
+
+#: core/views/arflite_front_form.php:33
+#: core/views/arflite_front_form.php:36
+#@ arforms-form-builder
+msgid "Please select a valid form"
+msgstr "请选择一个有效的表格"
+
+#: core/controllers/arfliterecordcontroller.php:214
+#: core/controllers/arfliterecordcontroller.php:2812
+#@ arforms-form-builder
+msgid "Spam Detected"
+msgstr "检测到垃圾邮件"
+
+#: core/controllers/arfliteprocontroller.php:67
+#: core/controllers/arfliterecordcontroller.php:290
+#: core/views/arflite_view_records.php:306
+#@ arforms-form-builder
+msgid "Form Entries"
+msgstr "表格输入"
+
+#: core/controllers/arfliterecordcontroller.php:474
+#: core/views/arflite_form_preview.php:494
+#: core/views/arflite_front_form.php:824
+#@ arforms-form-builder
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "抱歉，出于安全原因，不允许使用此文件类型。"
+
+#: core/controllers/arfliterecordcontroller.php:475
+#: core/controllers/arfliterecordcontroller.php:527
+#@ arforms-form-builder
+msgid "No File Selected"
+msgstr "未选择文件"
+
+#: core/controllers/arfliterecordcontroller.php:525
+#@ arforms-form-builder
+msgid "Sorry, this file type is not permitted for security reasons"
+msgstr "抱歉，出于安全原因，不允许使用此文件类型"
+
+#: core/controllers/arfliterecordcontroller.php:597
+#@ arforms-form-builder
+msgid "Entry is Successfully Created"
+msgstr "条目创建成功"
+
+#: core/controllers/arfliterecordcontroller.php:625
+#@ arforms-form-builder
+msgid "Entry is Successfully Deleted"
+msgstr "条目已成功删除"
+
+#: core/controllers/arfliterecordcontroller.php:657
+#@ arforms-form-builder
+msgid "Entries were Successfully Destroyed"
+msgstr "条目被成功销毁"
+
+#: core/controllers/arfliterecordcontroller.php:662
+#@ arforms-form-builder
+msgid "No entries were specified"
+msgstr "未指定任何条目"
+
+#: core/controllers/arfliterecordcontroller.php:736
+#: core/controllers/arfliterecordcontroller.php:1600
+#@ arforms-form-builder
+msgid "No form is found"
+msgstr "找不到表格"
+
+#: core/controllers/arfliterecordcontroller.php:1416
+#@ arforms-form-builder
+msgid "There is an error deleting that entry"
+msgstr "删除该条目时出错"
+
+#: core/controllers/arfliterecordcontroller.php:1438
+#@ arforms-form-builder
+msgid "Your entry is successfully deleted"
+msgstr "您的输入已成功删除"
+
+#: core/controllers/arfliterecordcontroller.php:1468
+#@ arforms-form-builder
+msgid "No one! You do not have permission"
+msgstr "没有人！ 你没有许可"
+
+#: core/controllers/arfliterecordcontroller.php:1540
+#@ arforms-form-builder
+msgid "Please select one or more records"
+msgstr "请选择一个或多个记录"
+
+#: core/controllers/arfliterecordcontroller.php:1571
+#@ arforms-form-builder
+msgid "Entries deleted successfully."
+msgstr "条目已成功删除。"
+
+#: core/controllers/arfliterecordcontroller.php:2330
+#: core/controllers/arfliterecordcontroller.php:2472
+#@ arforms-form-builder
+msgid "Created at"
+msgstr "创建于"
+
+#: core/controllers/arfliterecordcontroller.php:2338
+#: core/controllers/arfliterecordcontroller.php:2487
+#@ arforms-form-builder
+msgid "Page url"
+msgstr "页面网址"
+
+#: core/controllers/arfliterecordcontroller.php:2341
+#: core/controllers/arfliterecordcontroller.php:2490
+#@ arforms-form-builder
+msgid "Referrer url"
+msgstr "推荐连结网址"
+
+#: core/controllers/arfliterecordcontroller.php:2759
+#@ arforms-form-builder
+msgid "Please select one or more record."
+msgstr "请选择一个或多个记录。"
+
+#: core/controllers/arfliterecordcontroller.php:2790
+#@ arforms-form-builder
+msgid "Record could not be deleted"
+msgstr "记录无法删除"
+
+#: core/controllers/arflitesamplecontroller.php:62
+#: core/views/arflite_view_samples.php:7
+#@ arforms-form-builder
+msgid "Forms listing is currently unavailable. Please try again later."
+msgstr "表格列表目前不可用。 请稍后再试。"
+
+#: core/controllers/arflitesettingcontroller.php:71
+#@ arforms-form-builder
+msgid "SMTP Test E-Mail"
+msgstr "SMTP测试电子邮件"
+
+#: core/controllers/arfliteprocontroller.php:69
+#: core/controllers/arflitesettingcontroller.php:103
+#: core/views/arflite_settings_form.php:11
+#: core/views/arflite_settings_form.php:42
+#@ arforms-form-builder
+msgid "General Settings"
+msgstr "常规设置"
+
+#: core/controllers/arfliteprocontroller.php:71
+#: core/controllers/arflitesettingcontroller.php:105
+#@ arforms-form-builder
+msgid "Import Export"
+msgstr "进出口"
+
+#: core/controllers/arfliteprocontroller.php:71
+#: core/controllers/arflitesettingcontroller.php:105
+#@ arforms-form-builder
+msgid "Import / Export"
+msgstr "进出口"
+
+#: core/controllers/arflitesettingcontroller.php:200
+#@ arforms-form-builder
+msgid "General setting saved successfully."
+msgstr "常规设置已成功保存。"
+
+#: core/controllers/arflitesettingcontroller.php:202
+#@ arforms-form-builder
+msgid "Email Marketing Tools setting saved successfully."
+msgstr "电子邮件营销工具设置已成功保存。"
+
+#: core/controllers/arflitesettingcontroller.php:204
+#@ arforms-form-builder
+msgid "Settings Saved."
+msgstr "设置已保存。"
+
+#: core/controllers/arflitesettingcontroller.php:208
+#@ arforms-form-builder
+msgid "You have made below required fields which may not supported by system."
+msgstr "您已在以下必填字段中填写了系统可能不支持的字段。"
+
+#: core/controllers/arflitesettingcontroller.php:265
+#: core/controllers/arflitesettingcontroller.php:281
+#@ arforms-form-builder
+msgid "Upload Image"
+msgstr "上传图片"
+
+#: core/helpers/arflitefieldhelper.php:344
+#@ arforms-form-builder
+msgid "Checkboxes"
+msgstr "选框"
+
+#: core/helpers/arflitefieldhelper.php:348
+#: core/views/arflite_edit.php:2437
+#: core/views/arflite_field_type_conversion.php:122
+#@ arforms-form-builder
+msgid "Radio Buttons"
+msgstr "单选按钮"
+
+#: core/helpers/arflitefieldhelper.php:356
+#@ arforms-form-builder
+msgid "File Upload"
+msgstr "上传文件"
+
+#: core/helpers/arflitefieldhelper.php:467
+#@ arforms-form-builder
+msgid "Page Break"
+msgstr "分页符"
+
+#: core/helpers/arflitefieldhelper.php:471
+#@ arforms-form-builder
+msgid "Star Rating"
+msgstr "星级"
+
+#: core/helpers/arflitefieldhelper.php:475
+#@ arforms-form-builder
+msgid "Like button"
+msgstr "点赞按钮"
+
+#: core/helpers/arflitefieldhelper.php:495
+#@ arforms-form-builder
+msgid "Autocomplete"
+msgstr "自动完成"
+
+#: core/helpers/arflitefieldhelper.php:499
+#@ arforms-form-builder
+msgid "Repeater"
+msgstr "直放站"
+
+#: core/helpers/arflitefieldhelper.php:626
+#: core/views/arflite_new_field_array.php:131
+#@ arforms-form-builder
+msgid "Checkbox 1"
+msgstr "复选框1"
+
+#: core/helpers/arflitefieldhelper.php:626
+#: core/views/arflite_new_field_array.php:131
+#@ arforms-form-builder
+msgid "Checkbox 2"
+msgstr "复选框2"
+
+#: core/helpers/arflitefieldhelper.php:628
+#@ arforms-form-builder
+msgid "Radio 1"
+msgstr "收音机1"
+
+#: core/helpers/arflitefieldhelper.php:628
+#@ arforms-form-builder
+msgid "Radio 2"
+msgstr "电台2"
+
+#: core/helpers/arflitefieldhelper.php:630
+#@ arforms-form-builder
+msgid "Select 1"
+msgstr "选择1"
+
+#: core/helpers/arflitefieldhelper.php:835
+#@ arforms-form-builder
+msgid "Invalid minimum characters length"
+msgstr "无效的最小字符长度"
+
+#: core/helpers/arflitefieldhelper.php:837
+#: core/views/arflite_field_option_popup.php:330
+#@ arforms-form-builder
+msgid "Confirm Email"
+msgstr "确认邮件"
+
+#: core/helpers/arflitefieldhelper.php:838
+#@ arforms-form-builder
+msgid "Confirm Email does not match with email"
+msgstr "确认电子邮件与电子邮件不匹配"
+
+#: core/helpers/arflitefieldhelper.php:850
+#: core/views/arflite_field_option_popup.php:725
+#@ arforms-form-builder
+msgid "Entered value is invalid"
+msgstr "输入的值无效"
+
+#: core/helpers/arflitefieldhelper.php:855
+#@ arforms-form-builder
+msgid "The reCAPTCHA was not entered correctly"
+msgstr "reCAPTCHA输入错误"
+
+#: core/helpers/arflitefieldhelper.php:857
+#@ arforms-form-builder
+msgid "Email is invalid"
+msgstr "电邮无效"
+
+#: core/helpers/arflitefieldhelper.php:859
+#@ arforms-form-builder
+msgid "Number is out of range"
+msgstr "号码超出范围"
+
+#: core/helpers/arflitefieldhelper.php:861
+#@ arforms-form-builder
+msgid "Phone is invalid"
+msgstr "电话无效"
+
+#: core/helpers/arflitefieldhelper.php:863
+#@ arforms-form-builder
+msgid "Image is invalid"
+msgstr "图片无效"
+
+#: core/helpers/arflitefieldhelper.php:865
+#@ arforms-form-builder
+msgid "Date is invalid"
+msgstr "日期无效"
+
+#: core/helpers/arflitefieldhelper.php:867
+#@ arforms-form-builder
+msgid "Website is invalid"
+msgstr "网站无效"
+
+#: core/helpers/arflitefieldhelper.php:899
+#@ arforms-form-builder
+msgid "This field is invalid"
+msgstr "该字段无效"
+
+#: core/helpers/arflitefieldhelper.php:2470
+#: core/views/arflite_field_editor.php:439
+#@ arforms-form-builder
+msgid "Click to mark as"
+msgstr "单击以标记为"
+
+#: core/helpers/arflitefieldhelper.php:2470
+#: core/views/arflite_field_editor.php:439
+#@ arforms-form-builder
+msgid "compulsory field."
+msgstr "必修领域。"
+
+#: core/helpers/arfliteformhelper.php:88
+#: core/helpers/arfliteformhelper.php:379
+#@ arforms-form-builder
+msgid "Thank you for subscription with us. We will contact you soon."
+msgstr "感谢您订阅我们。 我们会尽快与您联系。"
+
+#: core/helpers/arfliteformhelper.php:123
+#: core/helpers/arfliteformhelper.php:382
+#: core/models/arflitenotifymodel.php:592
+#@ arforms-form-builder
+msgid "Form submitted on"
+msgstr "提交表格"
+
+#: core/helpers/arfliteformhelper.php:157
+#: core/helpers/arfliteformhelper.php:160
+#: core/helpers/arfliteformhelper.php:228
+#: core/helpers/arfliteformhelper.php:231
+#: core/views/arflite_view_records.php:358
+#@ arforms-form-builder
+msgid "Select Form"
+msgstr "选择表格"
+
+#: core/helpers/arfliteformhelper.php:311
+#@ arforms-form-builder
+msgid "Untitled Form"
+msgstr "无标题表格"
+
+#: core/helpers/arfliteformhelper.php:435
+#: core/helpers/arfliteformhelper.php:437
+#: core/views/arflite_import_export_form.php:901
+#: core/views/arflite_list.php:114
+#@ arforms-form-builder
+msgid "Entries"
+msgstr "参赛作品"
+
+#: core/helpers/arflitemainhelper.php:199
+#@ arforms-form-builder
+msgid "Antarctica"
+msgstr "南极洲"
+
+#: core/helpers/arflitemainhelper.php:236
+#@ arforms-form-builder
+msgid "Congo"
+msgstr "刚果"
+
+#: core/helpers/arflitemainhelper.php:246
+#@ arforms-form-builder
+msgid "East Timor"
+msgstr "东帝汶"
+
+#: core/helpers/arflitemainhelper.php:358
+#@ arforms-form-builder
+msgid "Serbia and Montenegro"
+msgstr "塞尔维亚和黑山"
+
+#: core/helpers/arflitemainhelper.php:397
+#@ arforms-form-builder
+msgid "Virgin Islands, British"
+msgstr "英属维尔京群岛"
+
+#: core/helpers/arflitemainhelper.php:398
+#@ arforms-form-builder
+msgid "Virgin Islands, U.S."
+msgstr "美国维尔京群岛"
+
+#: core/helpers/arflitemainhelper.php:1015
+#@ arforms-form-builder
+msgid "at"
+msgstr "在"
+
+#: core/helpers/arflitemainhelper.php:1111
+#@ arforms-form-builder
+msgid "year"
+msgstr "年"
+
+#: core/helpers/arflitemainhelper.php:1111
+#@ arforms-form-builder
+msgid "years"
+msgstr "年份"
+
+#: core/helpers/arflitemainhelper.php:1112
+#@ arforms-form-builder
+msgid "month"
+msgstr "月"
+
+#: core/helpers/arflitemainhelper.php:1112
+#@ arforms-form-builder
+msgid "months"
+msgstr "月"
+
+#: core/helpers/arflitemainhelper.php:1113
+#@ arforms-form-builder
+msgid "week"
+msgstr "周"
+
+#: core/helpers/arflitemainhelper.php:1113
+#@ arforms-form-builder
+msgid "weeks"
+msgstr "周"
+
+#: core/helpers/arflitemainhelper.php:1114
+#@ arforms-form-builder
+msgid "day"
+msgstr "天"
+
+#: core/helpers/arflitemainhelper.php:1114
+#@ arforms-form-builder
+msgid "days"
+msgstr "天"
+
+#: core/helpers/arflitemainhelper.php:1115
+#@ arforms-form-builder
+msgid "hour"
+msgstr "小时"
+
+#: core/helpers/arflitemainhelper.php:1115
+#@ arforms-form-builder
+msgid "hours"
+msgstr "小时"
+
+#: core/helpers/arflitemainhelper.php:1116
+#@ arforms-form-builder
+msgid "minute"
+msgstr "分钟"
+
+#: core/helpers/arflitemainhelper.php:1116
+#@ arforms-form-builder
+msgid "minutes"
+msgstr "分钟"
+
+#: core/helpers/arflitemainhelper.php:1117
+#@ arforms-form-builder
+msgid "second"
+msgstr "第二"
+
+#: core/helpers/arflitemainhelper.php:1117
+#: core/helpers/arflitemainhelper.php:1138
+#: core/views/arflite_settings_form.php:848
+#@ arforms-form-builder
+msgid "seconds"
+msgstr "秒"
+
+#: core/helpers/arflitemainhelper.php:1216
+#@ arforms-form-builder
+msgid "View Forms and Templates"
+msgstr "查看表格和模板"
+
+#: core/helpers/arflitemainhelper.php:1217
+#@ arforms-form-builder
+msgid "Add/Edit Forms and Templates"
+msgstr "添加/编辑表单和模板"
+
+#: core/helpers/arflitemainhelper.php:1218
+#@ arforms-form-builder
+msgid "Delete Forms and Templates"
+msgstr "删除表格和模板"
+
+#: core/helpers/arflitemainhelper.php:1219
+#: core/helpers/arflitemainhelper.php:1220
+#@ arforms-form-builder
+msgid "Access this Settings Page"
+msgstr "访问此设置页面"
+
+#: core/helpers/arflitemainhelper.php:1223
+#@ arforms-form-builder
+msgid "View Entries from Admin Area"
+msgstr "从管理区域查看条目"
+
+#: core/helpers/arflitemainhelper.php:1225
+#@ arforms-form-builder
+msgid "Add Entries from Admin Area"
+msgstr "从管理区域添加条目"
+
+#: core/helpers/arflitemainhelper.php:1227
+#@ arforms-form-builder
+msgid "Delete Entries from Admin Area"
+msgstr "从管理区域删除条目"
+
+#: core/helpers/arflitemainhelper.php:1229
+#@ arforms-form-builder
+msgid "Add/Edit Custom Displays"
+msgstr "添加/编辑自定义显示"
+
+#: core/models/arfliteformmodel.php:38
+#: core/models/arfliteformmodel.php:46
+#@ arforms-form-builder
+msgid "Please insert a message for your auto responder."
+msgstr "请为您的自动回复插入一条消息。"
+
+#: core/models/arfliteformmodel.php:41
+#@ arforms-form-builder
+msgid "That is not a valid reply-to email address for your auto responder."
+msgstr "这不是您的自动回复者的有效回复电子邮件地址。"
+
+#: core/models/arflitenotifymodel.php:42
+#, php-format
+#@ arforms-form-builder
+msgid "%1$s form has been submitted on %2$s."
+msgstr "％1 $ s表单已在％2 $ s上提交。"
+
+#: core/models/arflitenotifymodel.php:104
+#: core/models/arflitenotifymodel.php:963
+#, php-format
+#@ arforms-form-builder
+msgid "%1$s Form submitted on %2$s"
+msgstr "已在％2 $ s上提交％1 $ s表格"
+
+#: core/models/arflitenotifymodel.php:262
+#@ arforms-form-builder
+msgid "The full debugging output is shown below:"
+msgstr "完整的调试输出如下所示："
+
+#: core/models/arflitenotifymodel.php:271
+#@ arforms-form-builder
+msgid "Check Full Log"
+msgstr "检查完整日志"
+
+#: core/models/arflitenotifymodel.php:272
+#@ arforms-form-builder
+msgid "The SMTP debugging output is shown below:"
+msgstr "SMTP调试输出如下所示："
+
+#: core/views/arflite_convertkit.php:48
+#: core/views/arflite_convertkit.php:62
+#: core/views/arflite_drip.php:53
+#: core/views/arflite_drip.php:72
+#: core/views/arflite_hubspot.php:55
+#: core/views/arflite_mailerlite.php:57
+#: core/views/arflite_sendinblue.php:54
+#: core/views/arflite_settings_form.php:316
+#: core/views/arflite_settings_form.php:337
+#: core/views/arflite_settings_form.php:356
+#: core/views/arflite_settings_form.php:371
+#: core/views/arflite_settings_form.php:384
+#: core/views/arflite_settings_form.php:395
+#: core/views/arflite_settings_form.php:415
+#: core/views/arflite_settings_form.php:425
+#: core/views/arflite_settings_form.php:435
+#: core/views/arflite_settings_form.php:1249
+#: core/views/arflite_settings_form.php:1363
+#: core/views/arflite_settings_form.php:1477
+#: core/views/arflite_settings_form.php:1487
+#: core/views/arflite_settings_form.php:1505
+#: core/views/arflite_settings_form.php:1613
+#: core/views/arflite_settings_form.php:1627
+#: core/views/arflite_settings_form.php:1723
+#: core/views/arflite_settings_form.php:1739
+#@ arforms-form-builder
+msgid "This field cannot be blank."
+msgstr "该字段不能为空。"
+
+#: core/models/arflitesettingmodel.php:86
+#@ arforms-form-builder
+msgid "You have already submitted this form before. You are not allowed to submit this form again."
+msgstr "您之前已经提交过此表格。 您无权再次提交此表格。"
+
+#: core/models/arflitestylemodel.php:736
+#@ arforms-form-builder
+msgid "Your submission was successfully saved."
+msgstr "您的提交已成功保存。"
+
+#: core/models/arflitestylemodel.php:738
+#@ arforms-form-builder
+msgid "Update"
+msgstr "更新资料"
+
+#: core/vc/arflite_class_vc_extend.php:42
+#@ arforms-form-builder
+msgid "Exclusive Wordpress Form Builder Plugin"
+msgstr "独家Wordpress Form Builder插件"
+
+#: core/vc/arflite_class_vc_extend.php:44
+#: core/views/arflite_field_option_popup.php:603
+#@ arforms-form-builder
+msgid "Content"
+msgstr "内容"
+
+#: core/views/addon_lists.php:3
+#@ arforms-form-builder
+msgid "ARForms Add-Ons"
+msgstr "ARForms附加组件"
+
+#: core/views/addon_lists.php:9
+#@ arforms-form-builder
+msgid "Add more features to ARForms using Add-Ons"
+msgstr "使用附加组件向ARForms添加更多功能"
+
+#: core/views/arflite_conditional_redirect_to_url.php:19
+#: core/views/arflite_edit.php:3932
+#@ arforms-form-builder
+msgid "Or"
+msgstr "要么"
+
+#: core/views/arflite_conditional_redirect_to_url.php:31
+#@ arforms-form-builder
+msgid "Set conditional redirect URL"
+msgstr "设置条件重定向URL"
+
+#: core/views/arflite_conditional_redirect_to_url.php:31
+#: core/views/arflite_edit.php:4524
+#@ arforms-form-builder
+msgid "Please insert url with http:// or https://."
+msgstr "请使用http：//或https：//插入网址。"
+
+#: core/views/arflite_confirmation_summary.php:34
+#@ arforms-form-builder
+msgid "Show confirmation (Summary)"
+msgstr "显示确认（摘要）"
+
+#: core/views/arflite_convertkit.php:35
+#: core/views/arflite_drip.php:40
+#: core/views/arflite_hubspot.php:38
+#: core/views/arflite_mailerlite.php:40
+#: core/views/arflite_sendinblue.php:38
+#: core/views/arflite_settings_form.php:1104
+#: core/views/arflite_settings_form.php:1219
+#: core/views/arflite_settings_form.php:1329
+#: core/views/arflite_settings_form.php:1451
+#: core/views/arflite_settings_form.php:1588
+#: core/views/arflite_settings_form.php:1711
+#@ arforms-form-builder
+msgid "Using API"
+msgstr "使用API"
+
+#: core/views/arflite_convertkit.php:44
+#: core/views/arflite_hubspot.php:47
+#: core/views/arflite_mailerlite.php:49
+#: core/views/arflite_sendinblue.php:46
+#: core/views/arflite_settings_form.php:1241
+#: core/views/arflite_settings_form.php:1353
+#: core/views/arflite_settings_form.php:1610
+#: core/views/arflite_settings_form.php:1731
+#@ arforms-form-builder
+msgid "API Key"
+msgstr "API密钥"
+
+#: core/views/arflite_convertkit.php:53
+#@ arforms-form-builder
+msgid "API Secret"
+msgstr "API的秘密"
+
+#: core/views/arflite_convertkit.php:57
+#: core/views/arflite_drip.php:65
+#: core/views/arflite_hubspot.php:50
+#: core/views/arflite_mailerlite.php:52
+#: core/views/arflite_sendinblue.php:49
+#: core/views/arflite_settings_form.php:1244
+#: core/views/arflite_settings_form.php:1358
+#: core/views/arflite_settings_form.php:1497
+#: core/views/arflite_settings_form.php:1622
+#: core/views/arflite_settings_form.php:1734
+#@ arforms-form-builder
+msgid "Verify"
+msgstr "校验"
+
+#: core/views/arflite_convertkit.php:59
+#: core/views/arflite_drip.php:69
+#: core/views/arflite_hubspot.php:52
+#: core/views/arflite_mailerlite.php:54
+#: core/views/arflite_sendinblue.php:51
+#: core/views/arflite_settings_form.php:1246
+#: core/views/arflite_settings_form.php:1360
+#: core/views/arflite_settings_form.php:1502
+#: core/views/arflite_settings_form.php:1624
+#: core/views/arflite_settings_form.php:1736
+#@ arforms-form-builder
+msgid "Verified"
+msgstr "已验证"
+
+#: core/views/arflite_convertkit.php:60
+#: core/views/arflite_drip.php:70
+#: core/views/arflite_hubspot.php:53
+#: core/views/arflite_mailerlite.php:55
+#: core/views/arflite_sendinblue.php:52
+#: core/views/arflite_settings_form.php:1247
+#: core/views/arflite_settings_form.php:1361
+#: core/views/arflite_settings_form.php:1503
+#: core/views/arflite_settings_form.php:1625
+#: core/views/arflite_settings_form.php:1737
+#@ arforms-form-builder
+msgid "Not Verified"
+msgstr "未经审核的"
+
+#: core/views/arflite_convertkit.php:70
+#: core/views/arflite_hubspot.php:61
+#: core/views/arflite_settings_form.php:1510
+#: core/views/arflite_settings_form.php:1633
+#@ arforms-form-builder
+msgid "List Name"
+msgstr "列表名称"
+
+#: core/views/arflite_convertkit.php:91
+#: core/views/arflite_drip.php:103
+#: core/views/arflite_hubspot.php:85
+#: core/views/arflite_mailerlite.php:85
+#: core/views/arflite_sendinblue.php:79
+#: core/views/arflite_settings_form.php:1178
+#: core/views/arflite_settings_form.php:1279
+#: core/views/arflite_settings_form.php:1398
+#: core/views/arflite_settings_form.php:1535
+#: core/views/arflite_settings_form.php:1658
+#: core/views/arflite_settings_form.php:1772
+#@ arforms-form-builder
+msgid "Refresh List"
+msgstr "刷新清单"
+
+#: core/views/arflite_convertkit.php:93
+#: core/views/arflite_drip.php:105
+#: core/views/arflite_hubspot.php:87
+#: core/views/arflite_mailerlite.php:87
+#: core/views/arflite_sendinblue.php:81
+#: core/views/arflite_settings_form.php:1180
+#: core/views/arflite_settings_form.php:1280
+#: core/views/arflite_settings_form.php:1400
+#: core/views/arflite_settings_form.php:1537
+#: core/views/arflite_settings_form.php:1660
+#: core/views/arflite_settings_form.php:1774
+#@ arforms-form-builder
+msgid "Delete Configuration"
+msgstr "删除配置"
+
+#: core/views/arflite_displayfield.php:40
+#: core/views/arflite_field_editor.php:1250
+#@ arforms-form-builder
+msgid "Note: This field will not show in the form. Enter the value to be hidden."
+msgstr "注意：此字段不会显示在表单中。 输入要隐藏的值。"
+
+#: core/views/arflite_displayfield.php:115
+#: core/views/arflite_field_editor.php:1243
+#: core/views/arflite_new_field_array.php:129
+#: core/views/arflite_new_field_array.php:146
+#@ arforms-form-builder
+msgid "Note: Set your custom html content"
+msgstr "注意：设置自定义html内容"
+
+#: core/views/arflite_edit.php:18
+#@ arforms-form-builder
+msgid "That template cannot be edited"
+msgstr "该模板无法编辑"
+
+#: core/views/arflite_edit.php:378
+#@ arforms-form-builder
+msgid "Please upload csv files only"
+msgstr "请仅上传CSV文件"
+
+#: core/views/arflite_edit.php:379
+#@ arforms-form-builder
+msgid "Please upload image files only"
+msgstr "请仅上传图片文件"
+
+#: core/views/arflite_edit.php:1172
+#: core/views/arflite_edit.php:3364
+#: core/views/arflite_edit.php:3447
+#: core/views/arflite_edit.php:3528
+#: core/views/arflite_edit.php:3606
+#: core/views/arflite_edit.php:3680
+#: core/views/arflite_edit.php:3758
+#: core/views/arflite_field_option_popup.php:628
+#@ arforms-form-builder
+msgid "Default Fonts"
+msgstr "默认字体"
+
+#: core/views/arflite_edit.php:1173
+#: core/views/arflite_edit.php:3365
+#: core/views/arflite_edit.php:3448
+#: core/views/arflite_edit.php:3529
+#: core/views/arflite_edit.php:3607
+#: core/views/arflite_edit.php:3681
+#: core/views/arflite_edit.php:3759
+#: core/views/arflite_field_option_popup.php:642
+#@ arforms-form-builder
+msgid "Google Fonts"
+msgstr "Google字体"
+
+#: core/views/arflite_edit.php:728
+#: core/views/arflite_edit.php:3809
+#@ arforms-form-builder
+msgid "Email Notifications"
+msgstr "邮件通知"
+
+#: core/views/arflite_edit.php:738
+#: core/views/arflite_edit.php:4430
+#@ arforms-form-builder
+msgid "Conditional Rule"
+msgstr "条件规则"
+
+#: core/views/arflite_edit.php:748
+#: core/views/arflite_edit.php:4450
+#@ arforms-form-builder
+msgid "Submit Action"
+msgstr "提交动作"
+
+#: core/views/arflite_edit.php:757
+#@ arforms-form-builder
+msgid "Opt-ins"
+msgstr "选择加入"
+
+#: core/views/arflite_edit.php:766
+#@ arforms-form-builder
+msgid "Other Options"
+msgstr "其他选择"
+
+#: core/views/arflite_edit.php:780
+#: core/views/arflite_edit.php:2584
+#: core/views/arflite_edit.php:4610
+#@ arforms-form-builder
+msgid "General Options"
+msgstr "常规选项"
+
+#: core/views/arflite_edit.php:781
+#@ arforms-form-builder
+msgid "Hidden Input Fields"
+msgstr "隐藏的输入字段"
+
+#: core/views/arflite_edit.php:782
+#: core/views/arflite_edit.php:4689
+#@ arforms-form-builder
+msgid "Submit Tracking Script"
+msgstr "提交跟踪脚本"
+
+#: core/views/arflite_edit.php:783
+#@ arforms-form-builder
+msgid "Export Form"
+msgstr "出口表格"
+
+#: core/views/arflite_edit.php:792
+#: core/views/arflite_edit.php:805
+#: core/views/arflite_edit.php:817
+#: core/views/arflite_list.php:115
+#@ arforms-form-builder
+msgid "Shortcodes"
+msgstr "简码"
+
+#: core/views/arflite_edit.php:807
+#@ arforms-form-builder
+msgid "Embed Inline Form"
+msgstr "嵌入内联表格"
+
+#: core/views/arflite_edit.php:811
+#@ arforms-form-builder
+msgid "PHP Function"
+msgstr "PHP功能"
+
+#: core/views/arflite_edit.php:819
+#@ arforms-form-builder
+msgid "Please save form to generate shortcode."
+msgstr "请保存表格以生成简码。"
+
+#: core/views/arflite_edit.php:827
+#@ arforms-form-builder
+msgid "Save"
+msgstr "救"
+
+#: core/views/arflite_edit.php:836
+#@ arforms-form-builder
+msgid "Reset Style"
+msgstr "重置样式"
+
+#: core/views/arflite_edit.php:857
+#@ arforms-form-builder
+msgid "Width"
+msgstr "宽度"
+
+#: core/views/arflite_edit.php:880
+#@ arforms-form-builder
+msgid "Input Fields"
+msgstr "输入栏位"
+
+#: core/views/arflite_edit.php:881
+#@ arforms-form-builder
+msgid "Other Fields"
+msgstr "其他领域"
+
+#: core/controllers/arflitemaincontroller.php:3296
+#: core/views/arflite_edit.php:905
+#: core/views/arflite_edit.php:982
+#@ arforms-form-builder
+msgid "Pro"
+msgstr "专业版"
+
+#: core/views/arflite_edit.php:1062
+#@ arforms-form-builder
+msgid "Style Options"
+msgstr "样式选项"
+
+#: core/views/arflite_edit.php:1063
+#: core/views/arflite_edit.php:4784
+#@ arforms-form-builder
+msgid "Custom CSS"
+msgstr "自定义CSS"
+
+#: core/views/arflite_edit.php:1073
+#@ arforms-form-builder
+msgid "Basic Styling Options"
+msgstr "基本样式选项"
+
+#: core/views/arflite_edit.php:1077
+#: core/views/arflite_new-selection-modal.php:62
+#@ arforms-form-builder
+msgid "Select Theme"
+msgstr "选择主题"
+
+#: core/views/arflite_edit.php:1080
+#@ arforms-form-builder
+msgid "Input Style"
+msgstr "输入方式"
+
+#: core/views/arflite_edit.php:1089
+#: core/views/arflite_new-selection-modal.php:69
+#@ arforms-form-builder
+msgid "Standard Style"
+msgstr "标准风格"
+
+#: core/views/arflite_edit.php:1090
+#: core/views/arflite_new-selection-modal.php:70
+#@ arforms-form-builder
+msgid "Rounded Style"
+msgstr "圆形样式"
+
+#: core/views/arflite_edit.php:1091
+#: core/views/arflite_new-selection-modal.php:71
+#@ arforms-form-builder
+msgid "Material Style"
+msgstr "材质样式"
+
+#: core/views/arflite_edit.php:1116
+#@ arforms-form-builder
+msgid "Color Scheme"
+msgstr "配色方案"
+
+#: core/views/arflite_edit.php:1119
+#@ arforms-form-builder
+msgid "Choose Color"
+msgstr "选择颜色"
+
+#: core/views/arflite_edit.php:1138
+#: core/views/arflite_edit.php:3018
+#@ arforms-form-builder
+msgid "Custom Color"
+msgstr "自定义颜色"
+
+#: core/views/arflite_edit.php:1162
+#@ arforms-form-builder
+msgid "Font Options"
+msgstr "字体选项"
+
+#: core/views/arflite_edit.php:1165
+#@ arforms-form-builder
+msgid "Font Family"
+msgstr "字体系列"
+
+#: core/views/arflite_edit.php:1184
+#@ arforms-form-builder
+msgid "Input Field size"
+msgstr "输入字段大小"
+
+#: core/views/arflite_edit.php:1190
+#: core/views/arflite_edit.php:1649
+#: core/views/arflite_edit.php:1887
+#: core/views/arflite_field_values_popup.php:44
+#@ arforms-form-builder
+msgid "1"
+msgstr "1个"
+
+#: core/views/arflite_edit.php:1191
+#: core/views/arflite_field_values_popup.php:53
+#@ arforms-form-builder
+msgid "10"
+msgstr "10"
+
+#: core/views/arflite_edit.php:1209
+#: core/views/arflite_edit.php:1907
+#: core/views/arflite_edit.php:2753
+#@ arforms-form-builder
+msgid "Advanced font options"
+msgstr "进阶字型选项"
+
+#: core/views/arflite_edit.php:1216
+#@ arforms-form-builder
+msgid "Form Width Settings"
+msgstr "表格宽度设置"
+
+#: core/views/arflite_edit.php:1219
+#@ arforms-form-builder
+msgid "Form Width"
+msgstr "表格宽度"
+
+#: core/views/arflite_edit.php:1266
+#@ arforms-form-builder
+msgid "Validation Message Style"
+msgstr "验证消息样式"
+
+#: core/views/arflite_edit.php:1272
+#@ arforms-form-builder
+msgid "Standard"
+msgstr "标准"
+
+#: core/views/arflite_edit.php:1273
+#@ arforms-form-builder
+msgid "Modern"
+msgstr "现代"
+
+#: core/views/arflite_edit.php:1248
+#: core/views/arflite_edit.php:1278
+#: core/views/arflite_edit.php:1291
+#: core/views/arflite_edit.php:1919
+#@ arforms-form-builder
+msgid "Position"
+msgstr "位置"
+
+#: core/views/arflite_edit.php:1282
+#: core/views/arflite_edit.php:1345
+#: core/views/arflite_edit.php:1356
+#: core/views/arflite_edit.php:1399
+#: core/views/arflite_edit.php:1537
+#: core/views/arflite_edit.php:1572
+#: core/views/arflite_edit.php:1687
+#: core/views/arflite_edit.php:1703
+#: core/views/arflite_edit.php:1923
+#: core/views/arflite_edit.php:2593
+#: core/views/arflite_edit.php:2655
+#@ arforms-form-builder
+msgid "Right"
+msgstr "对"
+
+#: core/views/arflite_edit.php:1283
+#: core/views/arflite_edit.php:1347
+#: core/views/arflite_edit.php:1358
+#: core/views/arflite_edit.php:1401
+#: core/views/arflite_edit.php:1539
+#: core/views/arflite_edit.php:1574
+#: core/views/arflite_edit.php:1693
+#: core/views/arflite_edit.php:1704
+#: core/views/arflite_edit.php:1924
+#: core/views/arflite_edit.php:2595
+#: core/views/arflite_edit.php:2657
+#@ arforms-form-builder
+msgid "Left"
+msgstr "剩下"
+
+#: core/views/arflite_edit.php:1255
+#: core/views/arflite_edit.php:1284
+#: core/views/arflite_edit.php:1357
+#: core/views/arflite_edit.php:1538
+#: core/views/arflite_edit.php:1573
+#: core/views/arflite_edit.php:1925
+#: core/views/arflite_edit.php:2656
+#@ arforms-form-builder
+msgid "Bottom"
+msgstr "底部"
+
+#: core/views/arflite_edit.php:1258
+#: core/views/arflite_edit.php:1285
+#: core/views/arflite_edit.php:1355
+#: core/views/arflite_edit.php:1536
+#: core/views/arflite_edit.php:1571
+#: core/views/arflite_edit.php:1694
+#: core/views/arflite_edit.php:1926
+#: core/views/arflite_edit.php:2654
+#@ arforms-form-builder
+msgid "Top"
+msgstr "最佳"
+
+#: core/views/arflite_edit.php:1298
+#@ arforms-form-builder
+msgid "Absolute"
+msgstr "绝对"
+
+#: core/views/arflite_edit.php:1302
+#@ arforms-form-builder
+msgid "Relative"
+msgstr "相对的"
+
+#: core/views/arflite_edit.php:1314
+#@ arforms-form-builder
+msgid "Advanced Form Options"
+msgstr "高级表格选项"
+
+#: core/views/arflite_edit.php:1317
+#@ arforms-form-builder
+msgid "Form Title options"
+msgstr "表格标题选项"
+
+#: core/views/arflite_edit.php:1320
+#@ arforms-form-builder
+msgid "Display Title and Description"
+msgstr "显示标题和说明"
+
+#: core/views/arflite_edit.php:1324
+#: core/views/arflite_edit.php:1721
+#: core/views/arflite_edit.php:1837
+#: core/views/arflite_edit.php:1857
+#: core/views/arflite_edit.php:2233
+#: core/views/arflite_edit.php:2514
+#: core/views/arflite_field_option_popup.php:122
+#: core/views/arflite_field_option_popup.php:137
+#: core/views/arflite_field_values_popup.php:133
+#: core/views/arflite_field_values_popup.php:149
+#: core/views/arflite_field_values_popup.php:166
+#@ arforms-form-builder
+msgid "No"
+msgstr "没有"
+
+#: core/views/arflite_edit.php:1338
+#@ arforms-form-builder
+msgid "Title Alignment"
+msgstr "标题对齐"
+
+#: core/views/arflite_edit.php:1346
+#: core/views/arflite_edit.php:1400
+#: core/views/arflite_edit.php:2594
+#@ arforms-form-builder
+msgid "Center"
+msgstr "中央"
+
+#: core/views/arflite_edit.php:1352
+#: core/views/arflite_edit.php:2652
+#@ arforms-form-builder
+msgid "Margin"
+msgstr "余量"
+
+#: core/views/arflite_edit.php:1388
+#@ arforms-form-builder
+msgid "Form Settings"
+msgstr "表格设定"
+
+#: core/views/arflite_edit.php:1391
+#@ arforms-form-builder
+msgid "Form Alignment"
+msgstr "表格对齐"
+
+#: core/views/arflite_edit.php:1406
+#: core/views/arflite_edit.php:2688
+#@ arforms-form-builder
+msgid "Background Image"
+msgstr "背景图片"
+
+#: core/views/arflite_edit.php:1454
+#@ arforms-form-builder
+msgid "Background Image Position-X"
+msgstr "背景图片位置X"
+
+#: core/views/arflite_edit.php:1480
+#: core/views/arflite_edit.php:1487
+#@ arforms-form-builder
+msgid "X-axis"
+msgstr "X轴"
+
+#: core/views/arflite_edit.php:1495
+#@ arforms-form-builder
+msgid "Background Image Position-Y"
+msgstr "背景图片位置-Y"
+
+#: core/views/arflite_edit.php:1520
+#: core/views/arflite_edit.php:1526
+#@ arforms-form-builder
+msgid "Y-axis"
+msgstr "Y轴"
+
+#: core/views/arflite_edit.php:1534
+#@ arforms-form-builder
+msgid "Form Padding"
+msgstr "表格填充"
+
+#: core/views/arflite_edit.php:1568
+#@ arforms-form-builder
+msgid "Section Padding"
+msgstr "节填充"
+
+#: core/views/arflite_edit.php:1591
+#@ arforms-form-builder
+msgid "Form Border"
+msgstr "表格边框"
+
+#: core/views/arflite_edit.php:1594
+#@ arforms-form-builder
+msgid "Border Type"
+msgstr "边框类型"
+
+#: core/views/arflite_edit.php:1598
+#@ arforms-form-builder
+msgid "Flat"
+msgstr "平面"
+
+#: core/views/arflite_edit.php:1599
+#: core/views/arflite_edit.php:3045
+#@ arforms-form-builder
+msgid "Shadow"
+msgstr "阴影"
+
+#: core/views/arflite_edit.php:1604
+#: core/views/arflite_edit.php:1972
+#@ arforms-form-builder
+msgid "Border Size"
+msgstr "边框尺寸"
+
+#: core/views/arflite_edit.php:1619
+#: core/views/arflite_edit.php:1987
+#@ arforms-form-builder
+msgid "Border Radius"
+msgstr "边界半径"
+
+#: core/views/arflite_edit.php:1639
+#: core/views/arflite_edit.php:1642
+#@ arforms-form-builder
+msgid "Window Opacity"
+msgstr "窗口不透明度"
+
+#: core/views/arflite_edit.php:1648
+#: core/views/arflite_edit.php:1886
+#@ arforms-form-builder
+msgid "0"
+msgstr "0"
+
+#: core/views/arflite_edit.php:1661
+#@ arforms-form-builder
+msgid "Input field Options"
+msgstr "输入栏选项"
+
+#: core/views/arflite_edit.php:1664
+#@ arforms-form-builder
+msgid "Label Options"
+msgstr "标签选项"
+
+#: core/views/arflite_edit.php:1667
+#@ arforms-form-builder
+msgid "Label Position"
+msgstr "标签位置"
+
+#: core/views/arflite_edit.php:1699
+#@ arforms-form-builder
+msgid "Label Align"
+msgstr "标签对齐"
+
+#: core/views/arflite_edit.php:1709
+#@ arforms-form-builder
+msgid "Label Width"
+msgstr "标签宽度"
+
+#: core/views/arflite_edit.php:1717
+#@ arforms-form-builder
+msgid "Hide Label"
+msgstr "隐藏标签"
+
+#: core/views/arflite_edit.php:1735
+#@ arforms-form-builder
+msgid "Input Field Description Options"
+msgstr "输入字段描述选项"
+
+#: core/views/arflite_edit.php:1738
+#@ arforms-form-builder
+msgid "Font Size"
+msgstr "字体大小"
+
+#: core/views/arflite_edit.php:1766
+#@ arforms-form-builder
+msgid "Text Alignment"
+msgstr "文字对齐"
+
+#: core/views/arflite_edit.php:1795
+#@ arforms-form-builder
+msgid "Input Field Options"
+msgstr "输入字段选项"
+
+#: core/views/arflite_edit.php:1798
+#@ arforms-form-builder
+msgid "Field Width"
+msgstr "场宽"
+
+#: core/views/arflite_edit.php:1821
+#@ arforms-form-builder
+msgid "Text Direction"
+msgstr "文字方向"
+
+#: core/views/arflite_edit.php:1826
+#@ arforms-form-builder
+msgid "LTR"
+msgstr "轻铁"
+
+#: core/views/arflite_edit.php:1827
+#@ arforms-form-builder
+msgid "RTL"
+msgstr "RTL"
+
+#: core/views/arflite_edit.php:1833
+#@ arforms-form-builder
+msgid "Field Transparency"
+msgstr "现场透明度"
+
+#: core/views/arflite_edit.php:1851
+#@ arforms-form-builder
+msgid "Hide Required Indicator"
+msgstr "隐藏必需的指示器"
+
+#: core/views/arflite_edit.php:1871
+#@ arforms-form-builder
+msgid "Space Between Two Fields"
+msgstr "两场之间的空间"
+
+#: core/views/arflite_edit.php:1879
+#@ arforms-form-builder
+msgid "Placeholder Opacity"
+msgstr "占位符不透明度"
+
+#: core/views/arflite_edit.php:1896
+#: core/views/arflite_edit.php:2743
+#@ arforms-form-builder
+msgid "Font Settings"
+msgstr "字型设定"
+
+#: core/views/arflite_edit.php:1933
+#@ arforms-form-builder
+msgid "Field inner spacing"
+msgstr "场内间距"
+
+#: core/views/arflite_edit.php:1936
+#@ arforms-form-builder
+msgid "Vertical"
+msgstr "垂直"
+
+#: core/views/arflite_edit.php:1950
+#@ arforms-form-builder
+msgid "Horizontal"
+msgstr "卧式"
+
+#: core/views/arflite_edit.php:1969
+#@ arforms-form-builder
+msgid "Field Border Settings"
+msgstr "场边界设置"
+
+#: core/views/arflite_edit.php:2002
+#@ arforms-form-builder
+msgid "Border Style"
+msgstr "边框样式"
+
+#: core/views/arflite_edit.php:2006
+#@ arforms-form-builder
+msgid "Dashed"
+msgstr "虚线"
+
+#: core/views/arflite_edit.php:2007
+#@ arforms-form-builder
+msgid "Dotted"
+msgstr "点缀"
+
+#: core/views/arflite_edit.php:2008
+#@ arforms-form-builder
+msgid "Solid"
+msgstr "固体"
+
+#: core/views/arflite_edit.php:2014
+#@ arforms-form-builder
+msgid "Calendar Date Format"
+msgstr "日历日期格式"
+
+#: core/views/arflite_edit.php:2017
+#@ arforms-form-builder
+msgid "Date Format"
+msgstr "日期格式"
+
+#: core/views/arflite_edit.php:2359
+#@ arforms-form-builder
+msgid "Checkbox & Radio Style"
+msgstr "复选框和收音机样式"
+
+#: core/views/arflite_edit.php:2362
+#: core/views/arflite_edit.php:3413
+#: core/views/arflite_edit.php:3495
+#: core/views/arflite_edit.php:3578
+#: core/views/arflite_edit.php:3646
+#: core/views/arflite_edit.php:3730
+#@ arforms-form-builder
+msgid "Style"
+msgstr "样式"
+
+#: core/views/arflite_edit.php:2369
+#@ arforms-form-builder
+msgid "Default"
+msgstr "默认"
+
+#: core/views/arflite_edit.php:2370
+#@ arforms-form-builder
+msgid "Material 1"
+msgstr "材料1"
+
+#: core/views/arflite_edit.php:2371
+#@ arforms-form-builder
+msgid "Material 2"
+msgstr "材料2"
+
+#: core/views/arflite_edit.php:2396
+#@ arforms-form-builder
+msgid "Icon"
+msgstr "图标"
+
+#: core/views/arflite_edit.php:2416
+#@ arforms-form-builder
+msgid "CheckBoxes"
+msgstr "复选框"
+
+#: core/views/arflite_edit.php:2581
+#@ arforms-form-builder
+msgid "Submit Button Options"
+msgstr "提交按钮选项"
+
+#: core/views/arflite_edit.php:2587
+#@ arforms-form-builder
+msgid "Button Alignment"
+msgstr "按钮对齐"
+
+#: core/views/arflite_edit.php:2600
+#@ arforms-form-builder
+msgid "Button Width (optional)"
+msgstr "按钮宽度（可选）"
+
+#: core/views/arflite_edit.php:2610
+#@ arforms-form-builder
+msgid "Button Height (optional)"
+msgstr "按钮高度（可选）"
+
+#: core/views/arflite_edit.php:2617
+#@ arforms-form-builder
+msgid "Button Text"
+msgstr "按钮文字"
+
+#: core/views/arflite_edit.php:2632
+#@ arforms-form-builder
+msgid "Button Style"
+msgstr "按钮样式"
+
+#: core/views/arflite_edit.php:2714
+#@ arforms-form-builder
+msgid "Background Hover Image"
+msgstr "背景悬停图像"
+
+#: core/views/arflite_edit.php:2760
+#@ arforms-form-builder
+msgid "Border Options"
+msgstr "边框选项"
+
+#: core/views/arflite_edit.php:2763
+#: core/views/arflite_edit.php:3383
+#: core/views/arflite_edit.php:3465
+#: core/views/arflite_edit.php:3548
+#: core/views/arflite_edit.php:3617
+#: core/views/arflite_edit.php:3699
+#: core/views/arflite_edit.php:3772
+#@ arforms-form-builder
+msgid "Size"
+msgstr "尺寸"
+
+#: core/views/arflite_edit.php:2778
+#@ arforms-form-builder
+msgid "Radius"
+msgstr "半径"
+
+#: core/views/arflite_edit.php:2804
+#@ arforms-form-builder
+msgid "Shadow Options"
+msgstr "阴影选项"
+
+#: core/views/arflite_edit.php:2807
+#@ arforms-form-builder
+msgid "X-offset"
+msgstr "X偏移"
+
+#: core/views/arflite_edit.php:2822
+#@ arforms-form-builder
+msgid "Y-offset"
+msgstr "Y轴偏移"
+
+#: core/views/arflite_edit.php:2838
+#@ arforms-form-builder
+msgid "Blur"
+msgstr "模糊"
+
+#: core/views/arflite_edit.php:2853
+#@ arforms-form-builder
+msgid "Spread"
+msgstr "传播"
+
+#: core/views/arflite_edit.php:2879
+#: core/views/arflite_edit.php:4786
+#@ arforms-form-builder
+msgid "Add CSS Elements"
+msgstr "添加CSS元素"
+
+#: core/views/arflite_edit.php:3022
+#: core/widgets/arflitewidgetform.php:35
+#@ arforms-form-builder
+msgid "Form"
+msgstr "形成"
+
+#: core/views/arflite_edit.php:3028
+#: core/views/arflite_edit.php:3097
+#: core/views/arflite_edit.php:3176
+#: core/views/arflite_edit.php:3243
+#: core/views/arflite_edit.php:3275
+#: core/views/arflite_edit.php:3296
+#: core/views/arflite_edit.php:3319
+#@ arforms-form-builder
+msgid "Background"
+msgstr "背景"
+
+#: core/views/arflite_edit.php:3038
+#: core/views/arflite_edit.php:3280
+#: core/views/arflite_edit.php:3302
+#@ arforms-form-builder
+msgid "Border"
+msgstr "边界"
+
+#: core/views/arflite_edit.php:3060
+#@ arforms-form-builder
+msgid "Section Background"
+msgstr "章节背景"
+
+#: core/views/arflite_edit.php:3071
+#@ arforms-form-builder
+msgid "Main Input Colors"
+msgstr "主要输入颜色"
+
+#: core/views/arflite_edit.php:3077
+#@ arforms-form-builder
+msgid "Base/Active Color"
+msgstr "基本/活动颜色"
+
+#: core/views/arflite_edit.php:3083
+#: core/views/arflite_edit.php:3181
+#: core/views/arflite_edit.php:3238
+#@ arforms-form-builder
+msgid "Text Color"
+msgstr "文字颜色"
+
+#: core/views/arflite_edit.php:3089
+#: core/views/arflite_edit.php:3254
+#@ arforms-form-builder
+msgid "Border Color"
+msgstr "边框颜色"
+
+#: core/views/arflite_edit.php:3103
+#@ arforms-form-builder
+msgid "Active State Background"
+msgstr "活动状态背景"
+
+#: core/views/arflite_edit.php:3109
+#@ arforms-form-builder
+msgid "Error State Background"
+msgstr "错误状态背景"
+
+#: core/views/arflite_edit.php:3117
+#@ arforms-form-builder
+msgid "Label Text Color"
+msgstr "标签文字颜色"
+
+#: core/views/arflite_edit.php:3123
+#@ arforms-form-builder
+msgid "Icon Background"
+msgstr "图标背景"
+
+#: core/views/arflite_edit.php:3129
+#@ arforms-form-builder
+msgid "Icon Color"
+msgstr "图标颜色"
+
+#: core/views/arflite_edit.php:3138
+#@ arforms-form-builder
+msgid "Like Button"
+msgstr "点赞按钮"
+
+#: core/views/arflite_edit.php:3141
+#@ arforms-form-builder
+msgid "Like Button Color"
+msgstr "像按钮颜色"
+
+#: core/views/arflite_edit.php:3145
+#@ arforms-form-builder
+msgid "Dislike Button Color"
+msgstr "不喜欢按钮颜色"
+
+#: core/views/arflite_edit.php:3149
+#@ arforms-form-builder
+msgid "Slider Color"
+msgstr "滑块颜色"
+
+#: core/views/arflite_edit.php:3153
+#@ arforms-form-builder
+msgid "Slider selected"
+msgstr "滑块已选择"
+
+#: core/views/arflite_edit.php:3157
+#@ arforms-form-builder
+msgid "Slider Track"
+msgstr "滑轨"
+
+#: core/views/arflite_edit.php:3162
+#@ arforms-form-builder
+msgid "Star Rating color"
+msgstr "星级颜色"
+
+#: core/views/arflite_edit.php:3165
+#@ arforms-form-builder
+msgid "Star Rating Color"
+msgstr "星级颜色"
+
+#: core/views/arflite_edit.php:3171
+#@ arforms-form-builder
+msgid "Field Tooltip"
+msgstr "现场工具提示"
+
+#: core/views/arflite_edit.php:3221
+#@ arforms-form-builder
+msgid "Other color"
+msgstr "其他颜色"
+
+#: core/views/arflite_edit.php:3226
+#@ arforms-form-builder
+msgid "Datepicker Text Color"
+msgstr "日期选择器文本颜色"
+
+#: core/views/arflite_edit.php:3233
+#@ arforms-form-builder
+msgid "Submit Button Colors"
+msgstr "提交按钮颜色"
+
+#: core/views/arflite_edit.php:3248
+#@ arforms-form-builder
+msgid "Hover Background"
+msgstr "悬停背景"
+
+#: core/views/arflite_edit.php:3259
+#@ arforms-form-builder
+msgid "Shadow Color"
+msgstr "阴影颜色"
+
+#: core/views/arflite_edit.php:3267
+#@ arforms-form-builder
+msgid "Success message Colors"
+msgstr "成功消息颜色"
+
+#: core/views/arflite_edit.php:3285
+#: core/views/arflite_edit.php:3308
+#: core/views/arflite_edit.php:3324
+#@ arforms-form-builder
+msgid "Text"
+msgstr "文本"
+
+#: core/views/arflite_edit.php:3291
+#@ arforms-form-builder
+msgid "Error Message Colors"
+msgstr "错误讯息颜色"
+
+#: core/views/arflite_edit.php:3314
+#@ arforms-form-builder
+msgid "Validation Message Colors"
+msgstr "验证消息颜色"
+
+#: core/views/arflite_edit.php:3319
+#@ arforms-form-builder
+msgid "Color"
+msgstr "颜色"
+
+#: core/views/arflite_edit.php:3333
+#: core/views/arflite_edit.php:3798
+#: core/views/arflite_field_values_popup.php:242
+#: core/views/arflite_field_values_popup.php:267
+#: core/views/arflite_list.php:92
+#: core/views/arflite_list.php:147
+#: core/views/arflite_view_records.php:414
+#: core/views/arflite_view_records.php:467
+#@ arforms-form-builder
+msgid "Apply"
+msgstr "应用"
+
+#: core/views/arflite_edit.php:3340
+#@ arforms-form-builder
+msgid "Custom Font Options"
+msgstr "自定义字体选项"
+
+#: core/views/arflite_edit.php:3343
+#@ arforms-form-builder
+msgid "Form Title Font Settings"
+msgstr "表单标题字体设置"
+
+#: core/views/arflite_edit.php:3354
+#: core/views/arflite_edit.php:3436
+#: core/views/arflite_edit.php:3518
+#: core/views/arflite_edit.php:3596
+#: core/views/arflite_edit.php:3670
+#: core/views/arflite_edit.php:3748
+#@ arforms-form-builder
+msgid "Family"
+msgstr "家庭"
+
+#: core/views/arflite_edit.php:3426
+#@ arforms-form-builder
+msgid "Label Font Settings"
+msgstr "标签字体设置"
+
+#: core/views/arflite_edit.php:3508
+#@ arforms-form-builder
+msgid "Input Font Settings"
+msgstr "输入字体设置"
+
+#: core/views/arflite_edit.php:3592
+#@ arforms-form-builder
+msgid "Section Font Settings"
+msgstr "节字体设置"
+
+#: core/views/arflite_edit.php:3660
+#@ arforms-form-builder
+msgid "Submit Font Settings"
+msgstr "提交字体设置"
+
+#: core/views/arflite_edit.php:3743
+#@ arforms-form-builder
+msgid "Validation Font Settings"
+msgstr "验证字体设置"
+
+#: core/views/arflite_edit.php:3828
+#@ arforms-form-builder
+msgid "Send an automatic response to users after form submission."
+msgstr "提交表单后，自动向用户发送回复。"
+
+#: core/views/arflite_edit.php:3839
+#@ arforms-form-builder
+msgid "Select field to send E-mail"
+msgstr "选择字段以发送电子邮件"
+
+#: core/views/arflite_edit.php:3897
+#@ arforms-form-builder
+msgid "Please map desired email field from the list of fields used in your form. And system will send response email to this address."
+msgstr "请从表单中使用的字段列表中映射所需的电子邮件字段。 然后系统会将回复电子邮件发送到该地址。"
+
+#: core/views/arflite_edit.php:3900
+#: core/views/arflite_edit.php:4160
+#@ arforms-form-builder
+msgid "Subject E-mail"
+msgstr "主题电子邮件"
+
+#: core/views/arflite_edit.php:3907
+#: core/views/arflite_edit.php:3969
+#: core/views/arflite_edit.php:4013
+#: core/views/arflite_edit.php:4064
+#: core/views/arflite_edit.php:4142
+#: core/views/arflite_edit.php:4170
+#: core/views/arflite_edit.php:4211
+#: core/views/arflite_edit.php:4245
+#: core/views/arflite_edit.php:4269
+#: core/views/arflite_edit.php:4298
+#: core/views/arflite_edit.php:4333
+#: core/views/arflite_edit.php:4381
+#@ arforms-form-builder
+msgid "Add Field"
+msgstr "新增栏位"
+
+#: core/views/arflite_edit.php:3912
+#: core/views/arflite_edit.php:3976
+#: core/views/arflite_edit.php:4021
+#: core/views/arflite_edit.php:4071
+#: core/views/arflite_edit.php:4147
+#: core/views/arflite_edit.php:4175
+#: core/views/arflite_edit.php:4216
+#: core/views/arflite_edit.php:4250
+#: core/views/arflite_edit.php:4274
+#: core/views/arflite_edit.php:4303
+#: core/views/arflite_edit.php:4341
+#: core/views/arflite_edit.php:4386
+#@ arforms-form-builder
+msgid "Fields"
+msgstr "领域"
+
+#: core/views/arflite_edit.php:3944
+#@ arforms-form-builder
+msgid "Please select options to send an automatic response to user."
+msgstr "请选择选项以向用户发送自动回复。"
+
+#: core/views/arflite_edit.php:3944
+#@ arforms-form-builder
+msgid "Configure Conditional Email Notification"
+msgstr "配置条件电子邮件通知"
+
+#: core/views/arflite_edit.php:3952
+#: core/views/arflite_edit.php:4267
+#: core/views/arflite_settings_form.php:410
+#@ arforms-form-builder
+msgid "From/Replyto Name"
+msgstr "发件人/回复人姓名"
+
+#: core/views/arflite_edit.php:3957
+#: core/views/arflite_edit.php:4287
+#@ arforms-form-builder
+msgid "From E-mail"
+msgstr "从电子邮件"
+
+#: core/views/arflite_edit.php:3998
+#: core/views/arflite_edit.php:4319
+#@ arforms-form-builder
+msgid "Reply to E-mail"
+msgstr "回复邮件"
+
+#: core/views/arflite_edit.php:4044
+#: core/views/arflite_settings_form.php:734
+#@ arforms-form-builder
+msgid "Message"
+msgstr "信息"
+
+#: core/views/arflite_edit.php:4090
+#: core/views/arflite_edit.php:4400
+#@ arforms-form-builder
+msgid "This will be replaced with form's all fields & labels."
+msgstr "这将替换为表单的所有字段和标签。"
+
+#: core/views/arflite_edit.php:4091
+#: core/views/arflite_edit.php:4401
+#@ arforms-form-builder
+msgid "This will be replaced with entry referer."
+msgstr "这将替换为条目引用。"
+
+#: core/views/arflite_edit.php:4092
+#: core/views/arflite_edit.php:4402
+#@ arforms-form-builder
+msgid "This will be replaced with entry added time."
+msgstr "这将被替换为条目增加的时间。"
+
+#: core/views/arflite_edit.php:4093
+#: core/views/arflite_edit.php:4403
+#@ arforms-form-builder
+msgid "This will be replaced with IP Address."
+msgstr "它将被替换为IP地址。"
+
+#: core/views/arflite_edit.php:4094
+#: core/views/arflite_edit.php:4404
+#@ arforms-form-builder
+msgid "This will be replaced with user browser name."
+msgstr "这将替换为用户浏览器名称。"
+
+#: core/views/arflite_edit.php:4095
+#: core/views/arflite_edit.php:4405
+#@ arforms-form-builder
+msgid "This will be replaced with Entry ID."
+msgstr "这将被替换为条目ID。"
+
+#: core/views/arflite_edit.php:4096
+#: core/views/arflite_edit.php:4406
+#@ arforms-form-builder
+msgid "This will be replaced with current login ID."
+msgstr "该名称将替换为当前的登录ID。"
+
+#: core/views/arflite_edit.php:4097
+#: core/views/arflite_edit.php:4407
+#@ arforms-form-builder
+msgid "This will be replaced with current login user name."
+msgstr "这将替换为当前的登录用户名。"
+
+#: core/views/arflite_edit.php:4098
+#: core/views/arflite_edit.php:4408
+#@ arforms-form-builder
+msgid "This will be replaced with current login user email."
+msgstr "这将替换为当前的登录用户电子邮件。"
+
+#: core/views/arflite_edit.php:4099
+#: core/views/arflite_edit.php:4409
+#@ arforms-form-builder
+msgid "This will be replaced with current form's page URL."
+msgstr "这将替换为当前表单的页面URL。"
+
+#: core/views/arflite_edit.php:4119
+#@ arforms-form-builder
+msgid "Send an automatic response to admin user after form submission."
+msgstr "提交表单后，自动向管理员用户发送回复。"
+
+#: core/views/arflite_edit.php:4140
+#@ arforms-form-builder
+msgid "Admin E-mail"
+msgstr "管理员电子邮件"
+
+#: core/views/arflite_edit.php:4187
+#@ arforms-form-builder
+msgid "This will be replaced with form name."
+msgstr "这将被替换为表单名称。"
+
+#: core/views/arflite_edit.php:4188
+#@ arforms-form-builder
+msgid "This will be replaced with name of site."
+msgstr "这将替换为站点名称。"
+
+#: core/views/arflite_edit.php:4209
+#@ arforms-form-builder
+msgid "Admin CC Email"
+msgstr "管理员CC电子邮件"
+
+#: core/views/arflite_edit.php:4243
+#@ arforms-form-builder
+msgid "Admin BCC Email"
+msgstr "管理员密件抄送电子邮件"
+
+#: core/views/arflite_edit.php:4362
+#@ arforms-form-builder
+msgid "Admin Message"
+msgstr "管理员留言"
+
+#: core/controllers/arflitemaincontroller.php:3314
+#: core/views/arflite_edit.php:4421
+#: core/views/arflite_edit.php:4441
+#: core/views/arflite_edit.php:4587
+#: core/views/arflite_edit.php:4603
+#: core/views/arflite_edit.php:4619
+#: core/views/arflite_edit.php:4681
+#: core/views/arflite_edit.php:4717
+#: core/views/arflite_edit.php:4741
+#: core/views/arflite_edit.php:4804
+#: core/views/arflite_field_editor.php:1442
+#: core/views/arflite_field_editor.php:1459
+#: core/views/arflite_field_option_popup.php:769
+#: core/views/arflite_field_values_popup.php:338
+#: core/views/arflite_new_field_array.php:121
+#: core/views/arflite_new_field_array.php:122
+#: core/views/arflite_new_field_array.php:123
+#: core/views/arflite_new_field_array.php:124
+#: core/views/arflite_new_field_array.php:125
+#: core/views/arflite_new_field_array.php:126
+#: core/views/arflite_new_field_array.php:127
+#: core/views/arflite_new_field_array.php:128
+#: core/views/arflite_new_field_array.php:129
+#: core/views/arflite_new_field_array.php:130
+#: core/views/arflite_new_field_array.php:131
+#: core/views/arflite_new_field_array.php:132
+#: core/views/arflite_new_field_array.php:133
+#: core/views/arflite_new_field_array.php:138
+#: core/views/arflite_new_field_array.php:139
+#: core/views/arflite_new_field_array.php:140
+#: core/views/arflite_new_field_array.php:141
+#: core/views/arflite_new_field_array.php:142
+#: core/views/arflite_new_field_array.php:143
+#: core/views/arflite_new_field_array.php:144
+#: core/views/arflite_new_field_array.php:145
+#: core/views/arflite_new_field_array.php:146
+#: core/views/arflite_new_field_array.php:147
+#: core/views/arflite_new_field_array.php:148
+#: core/views/arflite_new_field_array.php:149
+#: core/views/arflite_new_field_array.php:150
+#@ arforms-form-builder
+msgid "OK"
+msgstr "好"
+
+#: core/views/arflite_edit.php:4460
+#@ arforms-form-builder
+msgid "Form submission action"
+msgstr "表格提交动作"
+
+#: core/views/arflite_edit.php:4478
+#@ arforms-form-builder
+msgid "Display a Message"
+msgstr "显示讯息"
+
+#: core/views/arflite_edit.php:4492
+#@ arforms-form-builder
+msgid "Redirect to URL"
+msgstr "重定向到URL"
+
+#: core/views/arflite_edit.php:4506
+#@ arforms-form-builder
+msgid "Display content from another page"
+msgstr "显示其他页面的内容"
+
+#: core/views/arflite_edit.php:4512
+#@ arforms-form-builder
+msgid "Confirmation Message"
+msgstr "确认讯息"
+
+#: core/views/arflite_edit.php:4521
+#@ arforms-form-builder
+msgid "Set Static Redirect URL"
+msgstr "设置静态重定向URL"
+
+#: core/views/arflite_edit.php:4534
+#@ arforms-form-builder
+msgid "Send form data to redirected page/post"
+msgstr "将表单数据发送到重定向的页面/帖子"
+
+#: core/views/arflite_edit.php:4542
+#@ arforms-form-builder
+msgid "Select Page"
+msgstr "选择页面"
+
+#: core/views/arflite_edit.php:4557
+#@ arforms-form-builder
+msgid "Hide Form after submission"
+msgstr "提交后隐藏表格"
+
+#: core/views/arflite_edit.php:4577
+#@ arforms-form-builder
+msgid "Configure conditional submission"
+msgstr "配置条件提交"
+
+#: core/views/arflite_edit.php:4594
+#@ arforms-form-builder
+msgid "Opt-ins (email marketing) configuration"
+msgstr "选择加入（电子邮件营销）配置"
+
+#: core/views/arflite_edit.php:4627
+#@ arforms-form-builder
+msgid "Hidden Input Fields Options"
+msgstr "隐藏的输入字段选项"
+
+#: core/views/arflite_edit.php:4636
+#@ arforms-form-builder
+msgid "Hidden Input Fields Setup"
+msgstr "隐藏的输入字段设置"
+
+#: core/views/arflite_edit.php:4638
+#: core/views/arflite_field_type_conversion.php:39
+#@ arforms-form-builder
+msgid "Note"
+msgstr "注意"
+
+#: core/views/arflite_edit.php:4638
+#@ arforms-form-builder
+msgid "These fields will not shown in the form. Enter the value to be hidden"
+msgstr "这些字段将不会显示在表单中。 输入要隐藏的值"
+
+#: core/views/arflite_edit.php:4640
+#@ arforms-form-builder
+msgid "This shortcode replace the value with currently logged-in User ID."
+msgstr "该短代码将值替换为当前登录的用户ID。"
+
+#: core/views/arflite_edit.php:4641
+#@ arforms-form-builder
+msgid "This shortcode replace the value with currently logged-in User Name."
+msgstr "该短代码将值替换为当前登录的用户名。"
+
+#: core/views/arflite_edit.php:4642
+#@ arforms-form-builder
+msgid "This shortcode replace the value with currently logged-in User Email."
+msgstr "该简码将值替换为当前登录的用户电子邮件。"
+
+#: core/views/arflite_edit.php:4643
+#@ arforms-form-builder
+msgid "This shortcode replace the value with current Date."
+msgstr "该简码用当前日期替换该值。"
+
+#: core/views/arflite_edit.php:4646
+#@ arforms-form-builder
+msgid "Add new hidden field"
+msgstr "添加新的隐藏字段"
+
+#: core/views/arflite_edit.php:4648
+#@ arforms-form-builder
+msgid "Label"
+msgstr "标签"
+
+#: core/views/arflite_edit.php:4649
+#@ arforms-form-builder
+msgid "Value"
+msgstr "值"
+
+#: core/views/arflite_edit.php:4650
+#: core/views/arflite_list.php:117
+#: core/views/arflite_view_records.php:452
+#@ arforms-form-builder
+msgid "Action"
+msgstr "行动"
+
+#: core/views/arflite_edit.php:4700
+#@ arforms-form-builder
+msgid "After Submission Tracking Script"
+msgstr "提交后跟踪脚本"
+
+#: core/views/arflite_edit.php:4702
+#@ arforms-form-builder
+msgid "Enter After submission tracking script"
+msgstr "输入提交后跟踪脚本"
+
+#: core/views/arflite_edit.php:4702
+#@ arforms-form-builder
+msgid "Example: Google Tracking Code"
+msgstr "示例：Google跟踪代码"
+
+#: core/views/arflite_edit.php:4709
+#@ arforms-form-builder
+msgid "(Do not insert script tag"
+msgstr "（请勿插入脚本标签"
+
+#: core/views/arflite_edit.php:4709
+#@ arforms-form-builder
+msgid " inside code.)"
+msgstr "内部代码。）"
+
+#: core/views/arflite_edit.php:4768
+#: core/views/arflite_list.php:170
+#@ arforms-form-builder
+msgid "Computer View"
+msgstr "电脑检视"
+
+#: core/views/arflite_edit.php:4769
+#: core/views/arflite_list.php:171
+#@ arforms-form-builder
+msgid "Tablet View"
+msgstr "平板电脑视图"
+
+#: core/views/arflite_edit.php:4770
+#: core/views/arflite_list.php:172
+#@ arforms-form-builder
+msgid "Mobile View"
+msgstr "流动检视"
+
+#: core/views/arflite_edit_form.php:27
+#@ arforms-form-builder
+msgid "Form is successfully updated"
+msgstr "表格已成功更新"
+
+#: core/views/arflite_edit_form.php:35
+#@ arforms-form-builder
+msgid "Form is not successfully updated"
+msgstr "表格未成功更新"
+
+#: core/views/arflite_edit_form.php:49
+#@ arforms-form-builder
+msgid "Click here to enter form title"
+msgstr "点击此处输入表格标题"
+
+#: core/views/arflite_edit_form.php:58
+#@ arforms-form-builder
+msgid "Click here to enter form description"
+msgstr "点击此处输入表格说明"
+
+#: core/views/arflite_edit_form.php:405
+#@ arforms-form-builder
+msgid "Edit Text"
+msgstr "编辑文字"
+
+#: core/views/arflite_export_data.php:131
+#@ arforms-form-builder
+msgid "Timestamp"
+msgstr "时间戳记"
+
+#: core/views/arflite_field_editor.php:1233
+#@ arforms-form-builder
+msgid "Please setup site key and private key in Global Settings otherwise recaptcha will not appear"
+msgstr "请在“全局设置”中设置站点密钥和私钥，否则将不会显示重新输入"
+
+#: core/views/arflite_field_editor.php:1435
+#: core/views/arflite_field_option_popup.php:2
+#: core/views/arflite_new_field_array.php:121
+#: core/views/arflite_new_field_array.php:122
+#: core/views/arflite_new_field_array.php:123
+#: core/views/arflite_new_field_array.php:124
+#: core/views/arflite_new_field_array.php:125
+#: core/views/arflite_new_field_array.php:126
+#: core/views/arflite_new_field_array.php:127
+#: core/views/arflite_new_field_array.php:128
+#: core/views/arflite_new_field_array.php:129
+#: core/views/arflite_new_field_array.php:130
+#: core/views/arflite_new_field_array.php:131
+#: core/views/arflite_new_field_array.php:132
+#: core/views/arflite_new_field_array.php:133
+#: core/views/arflite_new_field_array.php:138
+#: core/views/arflite_new_field_array.php:139
+#: core/views/arflite_new_field_array.php:140
+#: core/views/arflite_new_field_array.php:141
+#: core/views/arflite_new_field_array.php:142
+#: core/views/arflite_new_field_array.php:143
+#: core/views/arflite_new_field_array.php:144
+#: core/views/arflite_new_field_array.php:145
+#: core/views/arflite_new_field_array.php:146
+#: core/views/arflite_new_field_array.php:147
+#: core/views/arflite_new_field_array.php:148
+#: core/views/arflite_new_field_array.php:149
+#: core/views/arflite_new_field_array.php:150
+#@ arforms-form-builder
+msgid "Field Options"
+msgstr "栏位选项"
+
+#: core/views/arflite_field_editor.php:1449
+#: core/views/arflite_field_values_popup.php:126
+#: core/views/arflite_new_field_array.php:131
+#: core/views/arflite_new_field_array.php:132
+#: core/views/arflite_new_field_array.php:133
+#: core/views/arflite_new_field_array.php:148
+#: core/views/arflite_new_field_array.php:149
+#: core/views/arflite_new_field_array.php:150
+#@ arforms-form-builder
+msgid "Edit Options"
+msgstr "编辑选项"
+
+#: core/views/arflite_field_option_popup.php:8
+#@ arforms-form-builder
+msgid "Label Name"
+msgstr "标签名称"
+
+#: core/views/arflite_field_option_popup.php:15
+#@ arforms-form-builder
+msgid "Max Option Selected"
+msgstr "选择的最大选项"
+
+#: core/views/arflite_field_option_popup.php:22
+#@ arforms-form-builder
+msgid "Max Option Selected Message"
+msgstr "选择的最大选项消息"
+
+#: core/views/arflite_field_option_popup.php:44
+#@ arforms-form-builder
+msgid "Message for blank field"
+msgstr "消息为空白字段"
+
+#: core/views/arflite_field_option_popup.php:61
+#: core/views/arflite_field_option_popup.php:238
+#: core/views/arflite_field_option_popup.php:301
+#: core/views/arflite_field_option_popup.php:333
+#: core/views/arflite_field_option_popup.php:441
+#: core/views/arflite_field_option_popup.php:505
+#: core/views/arflite_field_option_popup.php:529
+#: core/views/arflite_field_option_popup.php:552
+#: core/views/arflite_field_option_popup.php:745
+#@ arforms-form-builder
+msgid "NO"
+msgstr "没有"
+
+#: core/views/arflite_field_option_popup.php:68
+#: core/views/arflite_field_option_popup.php:245
+#: core/views/arflite_field_option_popup.php:308
+#: core/views/arflite_field_option_popup.php:340
+#: core/views/arflite_field_option_popup.php:448
+#: core/views/arflite_field_option_popup.php:512
+#: core/views/arflite_field_option_popup.php:536
+#: core/views/arflite_field_option_popup.php:752
+#@ arforms-form-builder
+msgid "YES"
+msgstr "是"
+
+#: core/views/arflite_field_option_popup.php:51
+#@ arforms-form-builder
+msgid "Number of Rows"
+msgstr "行数"
+
+#: core/views/arflite_field_option_popup.php:58
+#@ arforms-form-builder
+msgid "Enable Readonly"
+msgstr "启用只读"
+
+#: core/views/arflite_field_option_popup.php:74
+#: core/views/arflite_field_option_popup.php:83
+#: core/views/arflite_field_option_popup.php:321
+#@ arforms-form-builder
+msgid "Field Size (Characters)"
+msgstr "字段大小（字符）"
+
+#: core/views/arflite_field_option_popup.php:78
+#: core/views/arflite_field_option_popup.php:89
+#: core/views/arflite_field_option_popup.php:325
+#: core/views/arflite_field_option_popup.php:369
+#@ arforms-form-builder
+msgid "Maximum"
+msgstr "最大"
+
+#: core/views/arflite_field_option_popup.php:88
+#: core/views/arflite_field_option_popup.php:368
+#@ arforms-form-builder
+msgid "Minimum"
+msgstr "最低要求"
+
+#: core/views/arflite_field_option_popup.php:94
+#@ arforms-form-builder
+msgid "Field Custom Width"
+msgstr "字段自定义宽度"
+
+#: core/views/arflite_field_option_popup.php:101
+#@ arforms-form-builder
+msgid "Message for minimum length"
+msgstr "最小长度信息"
+
+#: core/views/arflite_field_option_popup.php:107
+#@ arforms-form-builder
+msgid "Placeholder Text"
+msgstr "占位符文字"
+
+#: core/views/arflite_field_option_popup.php:113
+#@ arforms-form-builder
+msgid "Default Value"
+msgstr "默认值"
+
+#: core/views/arflite_field_option_popup.php:119
+#@ arforms-form-builder
+msgid "Clear default text on focus"
+msgstr "清除焦点上的默认文本"
+
+#: core/views/arflite_field_option_popup.php:134
+#@ arforms-form-builder
+msgid "Validate default value"
+msgstr "验证默认值"
+
+#: core/views/arflite_field_option_popup.php:147
+#@ arforms-form-builder
+msgid "Field description"
+msgstr "栏位说明"
+
+#: core/views/arflite_field_option_popup.php:154
+#@ arforms-form-builder
+msgid "Add icon (Bootstrap style)"
+msgstr "添加图标（引导程序样式）"
+
+#: core/views/arflite_field_option_popup.php:159
+#: core/views/arflite_field_option_popup.php:169
+#@ arforms-form-builder
+msgid "No icon"
+msgstr "没有图示"
+
+#: core/views/arflite_field_option_popup.php:183
+#: core/views/arflite_field_values_popup.php:100
+#@ arforms-form-builder
+msgid "Prefix"
+msgstr "字首"
+
+#: core/views/arflite_field_option_popup.php:184
+#@ arforms-form-builder
+msgid "Suffix"
+msgstr "后缀"
+
+#: core/views/arflite_field_option_popup.php:189
+#@ arforms-form-builder
+msgid "Alignment"
+msgstr "对准"
+
+#: core/views/arflite_field_option_popup.php:197
+#@ arforms-form-builder
+msgid "Inline"
+msgstr "排队"
+
+#: core/views/arflite_field_option_popup.php:205
+#@ arforms-form-builder
+msgid "1 Column"
+msgstr "1列"
+
+#: core/views/arflite_field_option_popup.php:213
+#@ arforms-form-builder
+msgid "2 Column"
+msgstr "2列"
+
+#: core/views/arflite_field_option_popup.php:221
+#@ arforms-form-builder
+msgid "3 Column"
+msgstr "3柱"
+
+#: core/views/arflite_field_option_popup.php:229
+#@ arforms-form-builder
+msgid "4 Column"
+msgstr "4柱"
+
+#: core/views/arflite_field_option_popup.php:235
+#@ arforms-form-builder
+msgid "Enable country flag dropdown"
+msgstr "启用国家/地区标记下拉菜单"
+
+#: core/views/arflite_field_option_popup.php:286
+#@ arforms-form-builder
+msgid "Check All"
+msgstr "选择所有"
+
+#: core/views/arflite_field_option_popup.php:291
+#@ arforms-form-builder
+msgid "Uncheck All"
+msgstr "取消所有"
+
+#: core/views/arflite_field_option_popup.php:298
+#@ arforms-form-builder
+msgid "Country wise number validation"
+msgstr "国家/地区数字验证"
+
+#: core/views/arflite_field_option_popup.php:315
+#@ arforms-form-builder
+msgid "Message for invalid submission"
+msgstr "无效提交的消息"
+
+#: core/views/arflite_field_option_popup.php:345
+#@ arforms-form-builder
+msgid "Confirm Email label"
+msgstr "确认电子邮件标签"
+
+#: core/views/arflite_field_option_popup.php:351
+#@ arforms-form-builder
+msgid "Message for invalid confirm email"
+msgstr "无效确认邮件"
+
+#: core/views/arflite_field_option_popup.php:357
+#@ arforms-form-builder
+msgid "Confirm email placeholder"
+msgstr "确认电子邮件占位符"
+
+#: core/views/arflite_field_option_popup.php:363
+#@ arforms-form-builder
+msgid "Number Range"
+msgstr "编号范围"
+
+#: core/views/arflite_field_option_popup.php:374
+#@ arforms-form-builder
+msgid "Default Number format"
+msgstr "默认数字格式"
+
+#: core/views/arflite_field_option_popup.php:399
+#@ arforms-form-builder
+msgid "English/Western"
+msgstr "英文/西文"
+
+#: core/views/arflite_field_option_popup.php:399
+#@ arforms-form-builder
+msgid "Afrikaans"
+msgstr "南非语"
+
+#: core/views/arflite_field_option_popup.php:400
+#@ arforms-form-builder
+msgid "Albanian"
+msgstr "阿尔巴尼亚语"
+
+#: core/views/arflite_field_option_popup.php:400
+#: core/views/arflite_settings_form.php:226
+#@ arforms-form-builder
+msgid "Arabic"
+msgstr "阿拉伯"
+
+#: core/views/arflite_field_option_popup.php:401
+#@ arforms-form-builder
+msgid "Armenian"
+msgstr "亚美尼亚人"
+
+#: core/views/arflite_field_option_popup.php:402
+#@ arforms-form-builder
+msgid "Azerbaijani"
+msgstr "阿塞拜疆人"
+
+#: core/views/arflite_field_option_popup.php:403
+#@ arforms-form-builder
+msgid "Basque"
+msgstr "巴斯克"
+
+#: core/views/arflite_field_option_popup.php:403
+#@ arforms-form-builder
+msgid "Bosnian"
+msgstr "波斯尼亚人"
+
+#: core/views/arflite_field_option_popup.php:404
+#: core/views/arflite_settings_form.php:228
+#@ arforms-form-builder
+msgid "Bulgarian"
+msgstr "保加利亚语"
+
+#: core/views/arflite_field_option_popup.php:404
+#: core/views/arflite_settings_form.php:229
+#@ arforms-form-builder
+msgid "Catalan"
+msgstr "加泰罗尼亚语"
+
+#: core/views/arflite_field_option_popup.php:405
+#@ arforms-form-builder
+msgid "Chinese Simplified"
+msgstr "简体中文"
+
+#: core/views/arflite_field_option_popup.php:406
+#@ arforms-form-builder
+msgid "Chinese Traditional"
+msgstr "中国传统的"
+
+#: core/views/arflite_field_option_popup.php:406
+#: core/views/arflite_settings_form.php:232
+#@ arforms-form-builder
+msgid "Croatian"
+msgstr "克罗地亚语"
+
+#: core/views/arflite_field_option_popup.php:407
+#: core/views/arflite_settings_form.php:233
+#@ arforms-form-builder
+msgid "Czech"
+msgstr "捷克文"
+
+#: core/views/arflite_field_option_popup.php:407
+#: core/views/arflite_settings_form.php:234
+#@ arforms-form-builder
+msgid "Danish"
+msgstr "丹麦文"
+
+#: core/views/arflite_field_option_popup.php:408
+#: core/views/arflite_settings_form.php:235
+#@ arforms-form-builder
+msgid "Dutch"
+msgstr "荷兰人"
+
+#: core/views/arflite_field_option_popup.php:408
+#@ arforms-form-builder
+msgid "English/UK"
+msgstr "英文/英国"
+
+#: core/views/arflite_field_option_popup.php:409
+#@ arforms-form-builder
+msgid "Esperanto"
+msgstr "世界语"
+
+#: core/views/arflite_field_option_popup.php:409
+#: core/views/arflite_settings_form.php:237
+#@ arforms-form-builder
+msgid "Estonian"
+msgstr "爱沙尼亚语"
+
+#: core/views/arflite_field_option_popup.php:410
+#@ arforms-form-builder
+msgid "Faroese"
+msgstr "法罗语"
+
+#: core/views/arflite_field_option_popup.php:410
+#@ arforms-form-builder
+msgid "Farsi/Persian"
+msgstr "波斯语/波斯语"
+
+#: core/views/arflite_field_option_popup.php:411
+#: core/views/arflite_settings_form.php:239
+#@ arforms-form-builder
+msgid "Finnish"
+msgstr "芬兰"
+
+#: core/views/arflite_field_option_popup.php:411
+#: core/views/arflite_settings_form.php:240
+#@ arforms-form-builder
+msgid "French"
+msgstr "法文"
+
+#: core/views/arflite_field_option_popup.php:412
+#@ arforms-form-builder
+msgid "French/Swiss"
+msgstr "法国/瑞士"
+
+#: core/views/arflite_field_option_popup.php:412
+#: core/views/arflite_settings_form.php:242
+#@ arforms-form-builder
+msgid "German"
+msgstr "德语"
+
+#: core/views/arflite_field_option_popup.php:413
+#: core/views/arflite_settings_form.php:246
+#@ arforms-form-builder
+msgid "Greek"
+msgstr "希腊语"
+
+#: core/views/arflite_field_option_popup.php:413
+#: core/views/arflite_settings_form.php:247
+#@ arforms-form-builder
+msgid "Hebrew"
+msgstr "希伯来语"
+
+#: core/views/arflite_field_option_popup.php:414
+#: core/views/arflite_settings_form.php:249
+#@ arforms-form-builder
+msgid "Hungarian"
+msgstr "匈牙利"
+
+#: core/views/arflite_field_option_popup.php:414
+#@ arforms-form-builder
+msgid "Icelandic"
+msgstr "冰岛的"
+
+#: core/views/arflite_field_option_popup.php:415
+#: core/views/arflite_settings_form.php:251
+#@ arforms-form-builder
+msgid "Italian"
+msgstr "义大利文"
+
+#: core/views/arflite_field_option_popup.php:415
+#: core/views/arflite_settings_form.php:252
+#@ arforms-form-builder
+msgid "Japanese"
+msgstr "日本"
+
+#: core/views/arflite_field_option_popup.php:416
+#: core/views/arflite_settings_form.php:254
+#@ arforms-form-builder
+msgid "Korean"
+msgstr "韩语"
+
+#: core/views/arflite_field_option_popup.php:416
+#: core/views/arflite_settings_form.php:255
+#@ arforms-form-builder
+msgid "Latvian"
+msgstr "拉脱维亚语"
+
+#: core/views/arflite_field_option_popup.php:417
+#: core/views/arflite_settings_form.php:256
+#@ arforms-form-builder
+msgid "Lithuanian"
+msgstr "立陶宛语"
+
+#: core/views/arflite_field_option_popup.php:418
+#: core/views/arflite_settings_form.php:260
+#@ arforms-form-builder
+msgid "Norwegian"
+msgstr "挪威"
+
+#: core/views/arflite_field_option_popup.php:419
+#: core/views/arflite_settings_form.php:262
+#@ arforms-form-builder
+msgid "Polish"
+msgstr "抛光"
+
+#: core/views/arflite_field_option_popup.php:420
+#@ arforms-form-builder
+msgid "Portuguese/Brazilian"
+msgstr "葡萄牙语/巴西"
+
+#: core/views/arflite_field_option_popup.php:420
+#: core/views/arflite_settings_form.php:266
+#@ arforms-form-builder
+msgid "Romanian"
+msgstr "罗马尼亚语"
+
+#: core/views/arflite_field_option_popup.php:421
+#: core/views/arflite_settings_form.php:267
+#@ arforms-form-builder
+msgid "Russian"
+msgstr "俄语"
+
+#: core/views/arflite_field_option_popup.php:421
+#: core/views/arflite_settings_form.php:268
+#@ arforms-form-builder
+msgid "Serbian"
+msgstr "塞尔维亚"
+
+#: core/views/arflite_field_option_popup.php:422
+#@ arforms-form-builder
+msgid "Serbian Cyrillic"
+msgstr "塞尔维亚西里尔字母"
+
+#: core/views/arflite_field_option_popup.php:422
+#: core/views/arflite_settings_form.php:269
+#@ arforms-form-builder
+msgid "Slovak"
+msgstr "斯洛伐克文"
+
+#: core/views/arflite_field_option_popup.php:423
+#: core/views/arflite_settings_form.php:270
+#@ arforms-form-builder
+msgid "Slovenian"
+msgstr "斯洛文尼亚文"
+
+#: core/views/arflite_field_option_popup.php:423
+#: core/views/arflite_settings_form.php:271
+#@ arforms-form-builder
+msgid "Spanish"
+msgstr "西班牙文"
+
+#: core/views/arflite_field_option_popup.php:424
+#: core/views/arflite_settings_form.php:273
+#@ arforms-form-builder
+msgid "Swedish"
+msgstr "瑞典"
+
+#: core/views/arflite_field_option_popup.php:424
+#: core/views/arflite_settings_form.php:274
+#@ arforms-form-builder
+msgid "Tamil"
+msgstr "泰米尔语"
+
+#: core/views/arflite_field_option_popup.php:425
+#: core/views/arflite_settings_form.php:276
+#@ arforms-form-builder
+msgid "Thai"
+msgstr "泰国"
+
+#: core/views/arflite_field_option_popup.php:426
+#: core/views/arflite_settings_form.php:277
+#@ arforms-form-builder
+msgid "Turkish"
+msgstr "土耳其"
+
+#: core/views/arflite_field_option_popup.php:427
+#: core/views/arflite_settings_form.php:278
+#@ arforms-form-builder
+msgid "Ukrainian"
+msgstr "乌克兰"
+
+#: core/views/arflite_field_option_popup.php:427
+#: core/views/arflite_settings_form.php:280
+#@ arforms-form-builder
+msgid "Vietnamese"
+msgstr "越南文"
+
+#: core/views/arflite_field_option_popup.php:430
+#@ arforms-form-builder
+msgid "Calendar localization"
+msgstr "日历本地化"
+
+#: core/views/arflite_field_option_popup.php:438
+#@ arforms-form-builder
+msgid "Show time picker"
+msgstr "显示时间选择器"
+
+#: core/views/arflite_field_option_popup.php:454
+#@ arforms-form-builder
+msgid "Clock Settings"
+msgstr "时钟设定"
+
+#: core/views/arflite_field_option_popup.php:479
+#@ arforms-form-builder
+msgid "Hour"
+msgstr "小时"
+
+#: core/views/arflite_field_option_popup.php:480
+#@ arforms-form-builder
+msgid "Minute"
+msgstr "分钟"
+
+#: core/views/arflite_field_option_popup.php:485
+#@ arforms-form-builder
+msgid "Off days"
+msgstr "休息日"
+
+#: core/views/arflite_field_option_popup.php:488
+#: core/views/arflite_field_values_popup.php:77
+#@ arforms-form-builder
+msgid "Sunday"
+msgstr "星期日"
+
+#: core/views/arflite_field_option_popup.php:489
+#: core/views/arflite_field_values_popup.php:78
+#@ arforms-form-builder
+msgid "Monday"
+msgstr "星期一"
+
+#: core/views/arflite_field_option_popup.php:490
+#: core/views/arflite_field_values_popup.php:79
+#@ arforms-form-builder
+msgid "Tuesday"
+msgstr "星期二"
+
+#: core/views/arflite_field_option_popup.php:491
+#: core/views/arflite_field_values_popup.php:80
+#@ arforms-form-builder
+msgid "Wednesday"
+msgstr "星期三"
+
+#: core/views/arflite_field_option_popup.php:492
+#: core/views/arflite_field_values_popup.php:81
+#@ arforms-form-builder
+msgid "Thursday"
+msgstr "星期四"
+
+#: core/views/arflite_field_option_popup.php:493
+#: core/views/arflite_field_values_popup.php:82
+#@ arforms-form-builder
+msgid "Friday"
+msgstr "星期五"
+
+#: core/views/arflite_field_option_popup.php:494
+#: core/views/arflite_field_values_popup.php:83
+#@ arforms-form-builder
+msgid "Saturday"
+msgstr "星期六"
+
+#: core/views/arflite_field_option_popup.php:498
+#@ arforms-form-builder
+msgid "Date range"
+msgstr "日期范围"
+
+#: core/views/arflite_field_option_popup.php:500
+#: core/views/arflite_view_records.php:372
+#@ arforms-form-builder
+msgid "From"
+msgstr "从"
+
+#: core/views/arflite_field_option_popup.php:504
+#: core/views/arflite_field_option_popup.php:528
+#@ arforms-form-builder
+msgid "Set Current Date"
+msgstr "设定当前日期"
+
+#: core/views/arflite_field_option_popup.php:515
+#@ arforms-form-builder
+msgid "Min Date e.g. 20/01/2000"
+msgstr "最短日期，例如 2000年1月20日"
+
+#: core/views/arflite_field_option_popup.php:524
+#: core/views/arflite_settings_form.php:717
+#: core/views/arflite_view_records.php:372
+#@ arforms-form-builder
+msgid "To"
+msgstr "至"
+
+#: core/views/arflite_field_option_popup.php:539
+#@ arforms-form-builder
+msgid "Max Date e.g. 31/12/2020"
+msgstr "最长日期，例如 2020年12月31日"
+
+#: core/views/arflite_field_option_popup.php:546
+#@ arforms-form-builder
+msgid "Set default date"
+msgstr "设置默认日期"
+
+#: core/views/arflite_field_option_popup.php:551
+#@ arforms-form-builder
+msgid "Set Current Date:"
+msgstr "设置当前日期："
+
+#: core/views/arflite_field_option_popup.php:598
+#@ arforms-form-builder
+msgid "Enable Running Total"
+msgstr "启用总计"
+
+#: core/views/arflite_field_option_popup.php:609
+#@ arforms-form-builder
+msgid "Embedded tags for youtube, map etc are supported."
+msgstr "支持YouTube，地图等的嵌入式标签。"
+
+#: core/views/arflite_field_option_popup.php:616
+#@ arforms-form-builder
+msgid "Font family"
+msgstr "字体系列"
+
+#: core/views/arflite_field_option_popup.php:656
+#@ arforms-form-builder
+msgid "Font size"
+msgstr "字体大小"
+
+#: core/views/arflite_field_option_popup.php:682
+#@ arforms-form-builder
+msgid "Font style"
+msgstr "字体样式"
+
+#: core/views/arflite_field_option_popup.php:693
+#@ arforms-form-builder
+msgid "normal"
+msgstr "正常"
+
+#: core/views/arflite_field_option_popup.php:694
+#@ arforms-form-builder
+msgid "bold"
+msgstr "胆大"
+
+#: core/views/arflite_field_option_popup.php:695
+#@ arforms-form-builder
+msgid "italic"
+msgstr "斜体"
+
+#: core/views/arflite_field_option_popup.php:703
+#@ arforms-form-builder
+msgid "Validation"
+msgstr "验证方式"
+
+#: core/views/arflite_field_option_popup.php:707
+#: core/views/arflite_settings_form.php:636
+#@ arforms-form-builder
+msgid "None"
+msgstr "没有"
+
+#: core/views/arflite_field_option_popup.php:708
+#@ arforms-form-builder
+msgid "Only Alphabets"
+msgstr "只有字母"
+
+#: core/views/arflite_field_option_popup.php:709
+#@ arforms-form-builder
+msgid "Only Numbers"
+msgstr "仅数字"
+
+#: core/views/arflite_field_option_popup.php:710
+#@ arforms-form-builder
+msgid "Only Alphabets & Numbers"
+msgstr "仅字母和数字"
+
+#: core/views/arflite_field_option_popup.php:723
+#@ arforms-form-builder
+msgid "Message for regular expression"
+msgstr "正则表达式的消息"
+
+#: core/views/arflite_field_option_popup.php:729
+#@ arforms-form-builder
+msgid "Regular expression"
+msgstr "正则表达式"
+
+#: core/views/arflite_field_option_popup.php:730
+#@ arforms-form-builder
+msgid "Sample RegExp"
+msgstr "RegExp示例"
+
+#: core/views/arflite_field_option_popup.php:730
+#@ arforms-form-builder
+msgid "Allow only digits upto 6 digits. e.g. : pincode"
+msgstr "最多只能输入6位数字。 例如 ： PIN码"
+
+#: core/views/arflite_field_option_popup.php:730
+#@ arforms-form-builder
+msgid "Allow alpha numeric characters and length must be between 8 to 16 characters"
+msgstr "允许字母数字字符，长度必须在8到16个字符之间"
+
+#: core/views/arflite_field_option_popup.php:730
+#@ arforms-form-builder
+msgid "Allow phone number like"
+msgstr "允许像这样的电话号码"
+
+#: core/views/arflite_field_option_popup.php:735
+#@ arforms-form-builder
+msgid "URL"
+msgstr "网址"
+
+#: core/views/arflite_field_option_popup.php:736
+#: core/views/arflite_view_records.php:448
+#@ arforms-form-builder
+msgid "IP Address"
+msgstr "IP地址"
+
+#: core/views/arflite_field_option_popup.php:737
+#@ arforms-form-builder
+msgid "User Name"
+msgstr "用户名"
+
+#: core/views/arflite_field_option_popup.php:738
+#@ arforms-form-builder
+msgid "CVC/CVV"
+msgstr "CVC / CVV"
+
+#: core/views/arflite_field_option_popup.php:758
+#@ arforms-form-builder
+msgid "Message for tooltip"
+msgstr "提示信息"
+
+#: core/views/arflite_field_type_conversion.php:17
+#: core/views/arflite_field_type_conversion.php:30
+#@ arforms-form-builder
+msgid "Convert Field Type"
+msgstr "转换栏位类型"
+
+#: core/views/arflite_field_type_conversion.php:39
+#@ arforms-form-builder
+msgid "This feature is only recommended when you have big amount of entries in the form and you want to change the particular field type without losing the entry data for that field."
+msgstr "仅当表单中有大量条目并且想要更改特定字段类型而又不丢失该字段的条目数据时，才建议使用此功能。"
+
+#: core/views/arflite_field_type_conversion.php:43
+#@ arforms-form-builder
+msgid "Select Field To Convert"
+msgstr "选择要转换的字段"
+
+#: core/views/arflite_field_type_conversion.php:72
+#@ arforms-form-builder
+msgid "Current Field Type"
+msgstr "当前字段类型"
+
+#: core/views/arflite_field_type_conversion.php:78
+#@ arforms-form-builder
+msgid "Convert To Field Type"
+msgstr "转换为字段类型"
+
+#: core/views/arflite_field_type_conversion.php:81
+#@ arforms-form-builder
+msgid "Select Field Type"
+msgstr "选择字段类型"
+
+#: core/views/arflite_field_type_conversion.php:107
+#@ arforms-form-builder
+msgid "Confirm"
+msgstr "确认"
+
+#: core/views/arflite_field_type_conversion.php:124
+#@ arforms-form-builder
+msgid "Email"
+msgstr "电子邮件"
+
+#: core/views/arflite_field_type_conversion.php:126
+#@ arforms-form-builder
+msgid "Phone"
+msgstr "电话"
+
+#: core/views/arflite_field_values_popup.php:22
+#: core/views/arflite_field_values_popup.php:110
+#@ arforms-form-builder
+msgid "Countries"
+msgstr "国别"
+
+#: core/views/arflite_field_values_popup.php:23
+#@ arforms-form-builder
+msgid "U.S. States"
+msgstr "美国各州"
+
+#: core/views/arflite_field_values_popup.php:24
+#@ arforms-form-builder
+msgid "U.S. State Abbreviations"
+msgstr "美国国家缩写"
+
+#: core/views/arflite_field_values_popup.php:25
+#@ arforms-form-builder
+msgid "Age Group"
+msgstr "年龄阶层"
+
+#: core/views/arflite_field_values_popup.php:26
+#@ arforms-form-builder
+msgid "Under 18"
+msgstr "18岁以下"
+
+#: core/views/arflite_field_values_popup.php:27
+#@ arforms-form-builder
+msgid "18-24"
+msgstr "18-24"
+
+#: core/views/arflite_field_values_popup.php:28
+#@ arforms-form-builder
+msgid "25-34"
+msgstr "25-34岁"
+
+#: core/views/arflite_field_values_popup.php:29
+#@ arforms-form-builder
+msgid "35-44"
+msgstr "35-44岁"
+
+#: core/views/arflite_field_values_popup.php:30
+#@ arforms-form-builder
+msgid "45-54"
+msgstr "45-54岁"
+
+#: core/views/arflite_field_values_popup.php:31
+#@ arforms-form-builder
+msgid "55-64"
+msgstr "55-64"
+
+#: core/views/arflite_field_values_popup.php:32
+#@ arforms-form-builder
+msgid "65 or Above"
+msgstr "65以上"
+
+#: core/views/arflite_field_values_popup.php:34
+#@ arforms-form-builder
+msgid "Satisfaction"
+msgstr "满足"
+
+#: core/views/arflite_field_values_popup.php:35
+#@ arforms-form-builder
+msgid "Very Satisfied"
+msgstr "很满意"
+
+#: core/views/arflite_field_values_popup.php:36
+#@ arforms-form-builder
+msgid "Satisfied"
+msgstr "满意"
+
+#: core/views/arflite_field_values_popup.php:37
+#@ arforms-form-builder
+msgid "Neutral"
+msgstr "中性"
+
+#: core/views/arflite_field_values_popup.php:38
+#@ arforms-form-builder
+msgid "Unsatisfied"
+msgstr "不满意"
+
+#: core/views/arflite_field_values_popup.php:39
+#@ arforms-form-builder
+msgid "Very Unsatisfied"
+msgstr "非常不满意"
+
+#: core/views/arflite_field_values_popup.php:40
+#@ arforms-form-builder
+msgid "N/A"
+msgstr "不适用"
+
+#: core/views/arflite_field_values_popup.php:42
+#@ arforms-form-builder
+msgid "Days"
+msgstr "天"
+
+#: core/views/arflite_field_values_popup.php:45
+#@ arforms-form-builder
+msgid "2"
+msgstr "2"
+
+#: core/views/arflite_field_values_popup.php:46
+#@ arforms-form-builder
+msgid "3"
+msgstr "3"
+
+#: core/views/arflite_field_values_popup.php:47
+#@ arforms-form-builder
+msgid "4"
+msgstr "4"
+
+#: core/views/arflite_field_values_popup.php:48
+#@ arforms-form-builder
+msgid "5"
+msgstr "5"
+
+#: core/views/arflite_field_values_popup.php:49
+#@ arforms-form-builder
+msgid "6"
+msgstr "6"
+
+#: core/views/arflite_field_values_popup.php:50
+#@ arforms-form-builder
+msgid "7"
+msgstr "7"
+
+#: core/views/arflite_field_values_popup.php:51
+#@ arforms-form-builder
+msgid "8"
+msgstr "8"
+
+#: core/views/arflite_field_values_popup.php:52
+#@ arforms-form-builder
+msgid "9"
+msgstr "9"
+
+#: core/views/arflite_field_values_popup.php:54
+#@ arforms-form-builder
+msgid "11"
+msgstr "11"
+
+#: core/views/arflite_field_values_popup.php:55
+#@ arforms-form-builder
+msgid "12"
+msgstr "12"
+
+#: core/views/arflite_field_values_popup.php:56
+#@ arforms-form-builder
+msgid "13"
+msgstr "13"
+
+#: core/views/arflite_field_values_popup.php:57
+#@ arforms-form-builder
+msgid "14"
+msgstr "14"
+
+#: core/views/arflite_field_values_popup.php:58
+#@ arforms-form-builder
+msgid "15"
+msgstr "15"
+
+#: core/views/arflite_field_values_popup.php:59
+#@ arforms-form-builder
+msgid "16"
+msgstr "16"
+
+#: core/views/arflite_field_values_popup.php:60
+#@ arforms-form-builder
+msgid "17"
+msgstr "17"
+
+#: core/views/arflite_field_values_popup.php:61
+#@ arforms-form-builder
+msgid "18"
+msgstr "18"
+
+#: core/views/arflite_field_values_popup.php:62
+#@ arforms-form-builder
+msgid "19"
+msgstr "19"
+
+#: core/views/arflite_field_values_popup.php:63
+#@ arforms-form-builder
+msgid "20"
+msgstr "20"
+
+#: core/views/arflite_field_values_popup.php:64
+#@ arforms-form-builder
+msgid "21"
+msgstr "21"
+
+#: core/views/arflite_field_values_popup.php:65
+#@ arforms-form-builder
+msgid "22"
+msgstr "22"
+
+#: core/views/arflite_field_values_popup.php:66
+#@ arforms-form-builder
+msgid "23"
+msgstr "23"
+
+#: core/views/arflite_field_values_popup.php:67
+#@ arforms-form-builder
+msgid "24"
+msgstr "24"
+
+#: core/views/arflite_field_values_popup.php:68
+#@ arforms-form-builder
+msgid "25"
+msgstr "25"
+
+#: core/views/arflite_field_values_popup.php:69
+#@ arforms-form-builder
+msgid "26"
+msgstr "26"
+
+#: core/views/arflite_field_values_popup.php:70
+#@ arforms-form-builder
+msgid "27"
+msgstr "27"
+
+#: core/views/arflite_field_values_popup.php:71
+#@ arforms-form-builder
+msgid "28"
+msgstr "28"
+
+#: core/views/arflite_field_values_popup.php:72
+#@ arforms-form-builder
+msgid "29"
+msgstr "29"
+
+#: core/views/arflite_field_values_popup.php:73
+#@ arforms-form-builder
+msgid "30"
+msgstr "30"
+
+#: core/views/arflite_field_values_popup.php:74
+#@ arforms-form-builder
+msgid "31"
+msgstr "31"
+
+#: core/views/arflite_field_values_popup.php:76
+#@ arforms-form-builder
+msgid "Week Days"
+msgstr "平日"
+
+#: core/views/arflite_field_values_popup.php:85
+#@ arforms-form-builder
+msgid "Months"
+msgstr "月数"
+
+#: core/views/arflite_field_values_popup.php:86
+#@ arforms-form-builder
+msgid "January"
+msgstr "一月"
+
+#: core/views/arflite_field_values_popup.php:87
+#@ arforms-form-builder
+msgid "February"
+msgstr "二月"
+
+#: core/views/arflite_field_values_popup.php:88
+#@ arforms-form-builder
+msgid "March"
+msgstr "游行"
+
+#: core/views/arflite_field_values_popup.php:89
+#@ arforms-form-builder
+msgid "April"
+msgstr "四月"
+
+#: core/views/arflite_field_values_popup.php:90
+#@ arforms-form-builder
+msgid "May"
+msgstr "可以"
+
+#: core/views/arflite_field_values_popup.php:91
+#@ arforms-form-builder
+msgid "June"
+msgstr "六月"
+
+#: core/views/arflite_field_values_popup.php:92
+#@ arforms-form-builder
+msgid "July"
+msgstr "七月"
+
+#: core/views/arflite_field_values_popup.php:93
+#@ arforms-form-builder
+msgid "August"
+msgstr "八月"
+
+#: core/views/arflite_field_values_popup.php:94
+#@ arforms-form-builder
+msgid "September"
+msgstr "九月"
+
+#: core/views/arflite_field_values_popup.php:95
+#@ arforms-form-builder
+msgid "October"
+msgstr "十月"
+
+#: core/views/arflite_field_values_popup.php:96
+#@ arforms-form-builder
+msgid "November"
+msgstr "十一月"
+
+#: core/views/arflite_field_values_popup.php:97
+#@ arforms-form-builder
+msgid "December"
+msgstr "十二月"
+
+#: core/views/arflite_field_values_popup.php:99
+#@ arforms-form-builder
+msgid "Years"
+msgstr "年份"
+
+#: core/views/arflite_field_values_popup.php:101
+#@ arforms-form-builder
+msgid "Mr"
+msgstr "先生"
+
+#: core/views/arflite_field_values_popup.php:102
+#@ arforms-form-builder
+msgid "Mrs"
+msgstr "太太"
+
+#: core/views/arflite_field_values_popup.php:103
+#@ arforms-form-builder
+msgid "Ms"
+msgstr "多发性硬化症"
+
+#: core/views/arflite_field_values_popup.php:104
+#@ arforms-form-builder
+msgid "Miss"
+msgstr "小姐"
+
+#: core/views/arflite_field_values_popup.php:105
+#@ arforms-form-builder
+msgid "Sr"
+msgstr "r"
+
+#: core/views/arflite_field_values_popup.php:107
+#@ arforms-form-builder
+msgid "Telephone Country Code"
+msgstr "电话国家代码"
+
+#: core/views/arflite_field_values_popup.php:130
+#@ arforms-form-builder
+msgid "Use image over options"
+msgstr "在选项上使用图像"
+
+#: core/views/arflite_field_values_popup.php:142
+#, php-format
+#@ arforms-form-builder
+msgid "Use image over %s label"
+msgstr "在 %s 标签上使用图片"
+
+#: core/views/arflite_field_values_popup.php:146
+#@ arforms-form-builder
+msgid "Use separate value"
+msgstr "使用单独的值"
+
+#: core/views/arflite_field_values_popup.php:158
+#@ arforms-form-builder
+msgid "Add a separate value to use for calculations, email routing, saving to database and many other uses. The option values are saved while option labels are shown in the form"
+msgstr "添加一个单独的值以用于计算，电子邮件路由，保存到数据库以及许多其他用途。 在表格中显示选项标签时，将保存选项值"
+
+#: core/views/arflite_field_values_popup.php:187
+#@ arforms-form-builder
+msgid "Option label"
+msgstr "选项标签"
+
+#: core/views/arflite_field_values_popup.php:188
+#@ arforms-form-builder
+msgid "Saved Value"
+msgstr "储值"
+
+#: core/views/arflite_field_values_popup.php:201
+#@ arforms-form-builder
+msgid "Preset Field Choices"
+msgstr "预设字段选择"
+
+#: core/views/arflite_field_values_popup.php:209
+#@ arforms-form-builder
+msgid "Select"
+msgstr "选择"
+
+#: core/views/arflite_field_values_popup.php:244
+#@ arforms-form-builder
+msgid "Saving"
+msgstr "保存"
+
+#: core/views/arflite_field_values_popup.php:252
+#@ arforms-form-builder
+msgid "Add New Preset Choices"
+msgstr "添加新的预设选择"
+
+#: core/views/arflite_field_values_popup.php:256
+#@ arforms-form-builder
+msgid "Upload only CSV file."
+msgstr "仅上传CSV文件。"
+
+#: core/views/arflite_field_values_popup.php:256
+#@ arforms-form-builder
+msgid "Please upload tab separated CSV file."
+msgstr "请上传制表符分隔的CSV文件。"
+
+#: core/views/arflite_field_values_popup.php:264
+#@ arforms-form-builder
+msgid "Save for future use"
+msgstr "保存以备将来使用"
+
+#: core/views/arflite_field_values_popup.php:266
+#@ arforms-form-builder
+msgid "Preset Title"
+msgstr "预设标题"
+
+#: core/views/arflite_font_awesome.php:1641
+#: core/views/arflite_list.php:130
+#: core/views/arflite_view_records.php:396
+#@ arforms-form-builder
+msgid "Search"
+msgstr "搜索"
+
+#: core/views/arflite_font_awesome.php:1644
+#@ arforms-form-builder
+msgid "General Icons"
+msgstr "一般图示"
+
+#: core/views/arflite_font_awesome.php:1646
+#@ arforms-form-builder
+msgid "No Icon"
+msgstr "没有图示"
+
+#: core/views/arflite_form_preview.php:498
+#: core/views/arflite_front_form.php:828
+#@ arforms-form-builder
+msgid "Strength indicator"
+msgstr "强度指标"
+
+#: core/views/arflite_form_preview.php:500
+#: core/views/arflite_front_form.php:830
+#@ arforms-form-builder
+msgid "Short"
+msgstr "短"
+
+#: core/views/arflite_form_preview.php:502
+#: core/views/arflite_front_form.php:832
+#@ arforms-form-builder
+msgid "Bad"
+msgstr "坏"
+
+#: core/views/arflite_form_preview.php:504
+#: core/views/arflite_front_form.php:834
+#@ arforms-form-builder
+msgid "Good"
+msgstr "好"
+
+#: core/views/arflite_form_preview.php:506
+#: core/views/arflite_front_form.php:836
+#@ arforms-form-builder
+msgid "Strong"
+msgstr "强大"
+
+#: core/views/arflite_front_form.php:276
+#@ arforms-form-builder
+msgid "Please wait while you are redirected."
+msgstr "重定向期间，请等待。"
+
+#: core/views/arflite_import_export_form.php:13
+#@ arforms-form-builder
+msgid "Import / Export Forms"
+msgstr "导入/导出表格"
+
+#: core/views/arflite_import_export_form.php:661
+#: core/views/arflite_import_export_form.php:700
+#@ arforms-form-builder
+msgid "File Not writable"
+msgstr "文件不可写"
+
+#: core/views/arflite_import_export_form.php:868
+#@ arforms-form-builder
+msgid "Form is imported successfully."
+msgstr "表格已成功导入。"
+
+#: core/views/arflite_import_export_form.php:880
+#: core/views/arflite_view_addons.php:79
+#@ arforms-form-builder
+msgid "File is not proper."
+msgstr "文件不正确。"
+
+#: core/views/arflite_import_export_form.php:901
+#@ arforms-form-builder
+msgid "Export Form(s)"
+msgstr "出口表格"
+
+#: core/views/arflite_import_export_form.php:934
+#@ arforms-form-builder
+msgid "Form(s) Only"
+msgstr "仅表格"
+
+#: core/views/arflite_import_export_form.php:948
+#@ arforms-form-builder
+msgid "Entries Only"
+msgstr "仅参赛作品"
+
+#: core/views/arflite_import_export_form.php:962
+#@ arforms-form-builder
+msgid "Forms + Entries"
+msgstr "表格+条目"
+
+#: core/views/arflite_import_export_form.php:972
+#: core/views/arflite_import_export_form.php:979
+#@ arforms-form-builder
+msgid "Please Select Form"
+msgstr "请选择表格"
+
+#: core/views/arflite_import_export_form.php:986
+#@ arforms-form-builder
+msgid "CSV File Separator"
+msgstr "CSV文件分隔符"
+
+#: core/views/arflite_import_export_form.php:1000
+#@ arforms-form-builder
+msgid "Comma ( , )"
+msgstr "逗号（，）"
+
+#: core/views/arflite_import_export_form.php:1014
+#@ arforms-form-builder
+msgid "Semicolon ( ; )"
+msgstr "分号（;）"
+
+#: core/views/arflite_import_export_form.php:1029
+#@ arforms-form-builder
+msgid "Pipe ( | )"
+msgstr "管道（|）"
+
+#: core/views/arflite_import_export_form.php:1040
+#@ arforms-form-builder
+msgid "Export"
+msgstr "出口"
+
+#: core/views/arflite_import_export_form.php:1053
+#@ arforms-form-builder
+msgid "Import Form(s)"
+msgstr "进口表格"
+
+#: core/views/arflite_import_export_form.php:1062
+#@ arforms-form-builder
+msgid "Exported File Content"
+msgstr "导出文件内容"
+
+#: core/views/arflite_import_export_form.php:1066
+#@ arforms-form-builder
+msgid "Please open your exported file, copy entire content & paste it here."
+msgstr "请打开您导出的文件，复制整个内容并将其粘贴到此处。"
+
+#: core/views/arflite_import_export_form.php:1068
+#@ arforms-form-builder
+msgid "Please enter content"
+msgstr "请输入内容"
+
+#: core/views/arflite_import_export_form.php:1080
+#@ arforms-form-builder
+msgid "Import"
+msgstr "进口"
+
+#: core/views/arflite_import_export_form.php:1095
+#: core/views/arflite_list.php:195
+#: core/views/arflite_settings_form.php:1931
+#: core/views/arflite_view_records.php:488
+#@ arforms-form-builder
+msgid "Documentation"
+msgstr "文献资料"
+
+#: core/views/arflite_insert_form_popup.php:28
+#@ arforms-form-builder
+msgid "ADD ARFORMS LITE FORM"
+msgstr "添加表格精简表格"
+
+#: core/views/arflite_insert_form_popup.php:43
+#@ arforms-form-builder
+msgid "Add to page"
+msgstr "添加到页面"
+
+#: core/views/arflite_list.php:6
+#@ arforms-form-builder
+msgid "This form is already deleted."
+msgstr "该表格已被删除。"
+
+#: core/views/arflite_list.php:3
+#: core/views/arflite_view_records.php:89
+#@ arforms-form-builder
+msgid "Bulk Actions"
+msgstr "批量动作"
+
+#: core/views/arflite_list.php:112
+#: core/views/arflite_view_records.php:435
+#@ arforms-form-builder
+msgid "ID"
+msgstr "ID"
+
+#: core/views/arflite_list.php:116
+#@ arforms-form-builder
+msgid "Create Date"
+msgstr "建立日期"
+
+#: core/views/arflite_list.php:129
+#: core/views/arflite_view_records.php:395
+#@ arforms-form-builder
+msgid "Show / Hide columns"
+msgstr "显示/隐藏列"
+
+#: core/views/arflite_list.php:131
+#: core/views/arflite_view_records.php:397
+#@ arforms-form-builder
+msgid "entries"
+msgstr "参赛作品"
+
+#: core/views/arflite_list.php:133
+#: core/views/arflite_view_records.php:399
+#@ arforms-form-builder
+msgid "Showing"
+msgstr "正在显示"
+
+#: core/views/arflite_list.php:134
+#: core/views/arflite_view_records.php:400
+#@ arforms-form-builder
+msgid "to"
+msgstr "至"
+
+#: core/views/arflite_list.php:135
+#: core/views/arflite_view_records.php:401
+#@ arforms-form-builder
+msgid "of"
+msgstr "的"
+
+#: core/views/arflite_list.php:136
+#: core/views/arflite_view_records.php:402
+#@ arforms-form-builder
+msgid "No matching records found"
+msgstr "未能找到匹配的记录"
+
+#: core/views/arflite_list.php:137
+#: core/views/arflite_view_records.php:403
+#@ arforms-form-builder
+msgid "No data available in table"
+msgstr "表中没有可用数据"
+
+#: core/views/arflite_list.php:138
+#: core/views/arflite_view_records.php:404
+#@ arforms-form-builder
+msgid "filtered from"
+msgstr "过滤自"
+
+#: core/views/arflite_list.php:139
+#: core/views/arflite_view_records.php:405
+#@ arforms-form-builder
+msgid "total"
+msgstr "总"
+
+#: core/views/arflite_list.php:162
+#: core/views/arflite_view_records.php:499
+#: core/views/arflite_view_records.php:528
+#@ arforms-form-builder
+msgid "Okay"
+msgstr "好的"
+
+#: core/views/arflite_mailerlite.php:62
+#@ arforms-form-builder
+msgid "Group Name"
+msgstr "组的名字"
+
+#: core/views/arflite_new-selection-modal.php:8
+#@ arforms-form-builder
+msgid "New Form"
+msgstr "新表格"
+
+#: core/views/arflite_new-selection-modal.php:26
+#@ arforms-form-builder
+msgid "Blank Form"
+msgstr "空白表格"
+
+#: core/views/arflite_new-selection-modal.php:41
+#@ arforms-form-builder
+msgid "Sample Forms"
+msgstr "样本表格"
+
+#: core/views/arflite_new-selection-modal.php:54
+#@ arforms-form-builder
+msgid "Form Description"
+msgstr "表格说明"
+
+#: core/views/arflite_new-selection-modal.php:90
+#@ arforms-form-builder
+msgid "Input Direction"
+msgstr "输入方向"
+
+#: core/views/arflite_new-selection-modal.php:95
+#@ arforms-form-builder
+msgid "Left to Right"
+msgstr "左到右"
+
+#: core/views/arflite_new-selection-modal.php:96
+#@ arforms-form-builder
+msgid "Right to Left"
+msgstr "右到左"
+
+#: core/views/arflite_new-selection-modal.php:109
+#@ arforms-form-builder
+msgid "Select Sample"
+msgstr "选择样品"
+
+#: core/views/arflite_new-selection-modal.php:111
+#@ arforms-form-builder
+msgid "Please select any Sample."
+msgstr "请选择任何样品。"
+
+#: core/views/arflite_new-selection-modal.php:126
+#@ arforms-form-builder
+msgid "Continue"
+msgstr "继续"
+
+#: core/views/arflite_post_value.php:26
+#@ arforms-form-builder
+msgid "Send Form Data internaly to Custom URL"
+msgstr "内部发送表单数据到自定义URL"
+
+#: core/views/arflite_post_value.php:26
+#@ arforms-form-builder
+msgid "Webhook"
+msgstr "Webhook"
+
+#: core/views/arflite_post_value.php:31
+#@ arforms-form-builder
+msgid "(Upon successful submission form entry data will be sent to below mentioned url using POST method.)"
+msgstr "（成功提交表单后，条目数据将使用POST方法发送到以下提到的url。）"
+
+#: core/views/arflite_preview.php:317
+#@ arforms-form-builder
+msgid "Please select valid forms"
+msgstr "请选择有效的表格"
+
+#: core/views/arflite_samples_lists.php:3
+#@ arforms-form-builder
+msgid "ARForms Samples"
+msgstr "ARForms示例"
+
+#: core/views/arflite_sendinblue.php:59
+#@ arforms-form-builder
+msgid "List name"
+msgstr "列表名称"
+
+#: core/views/arflite_settings_form.php:55
+#@ arforms-form-builder
+msgid "Email Marketing Tools"
+msgstr "电子邮件营销工具"
+
+#: core/views/arflite_settings_form.php:137
+#@ arforms-form-builder
+msgid "reCAPTCHA Configuration"
+msgstr "reCAPTCHA配置"
+
+#: core/views/arflite_settings_form.php:142
+#@ arforms-form-builder
+msgid "reCAPTCHA requires an API key, consisting of a \"site\" and a \"private\" key. You can sign up for a"
+msgstr "reCAPTCHA需要一个API密钥，该密钥由\\“ site \\”和\\“ private \\”密钥组成。 您可以注册一个"
+
+#: core/views/arflite_settings_form.php:142
+#@ arforms-form-builder
+msgid "free reCAPTCHA key"
+msgstr "免费的reCAPTCHA密钥"
+
+#: core/views/arflite_settings_form.php:148
+#@ arforms-form-builder
+msgid "Site Key"
+msgstr "网站金钥"
+
+#: core/views/arflite_settings_form.php:159
+#@ arforms-form-builder
+msgid "Secret Key"
+msgstr "密钥"
+
+#: core/views/arflite_settings_form.php:169
+#@ arforms-form-builder
+msgid "reCAPTCHA Theme"
+msgstr "reCAPTCHA主题"
+
+#: core/views/arflite_settings_form.php:179
+#@ arforms-form-builder
+msgid "Light"
+msgstr "光"
+
+#: core/views/arflite_settings_form.php:180
+#@ arforms-form-builder
+msgid "Dark"
+msgstr "暗"
+
+#: core/views/arflite_settings_form.php:215
+#@ arforms-form-builder
+msgid "reCAPTCHA Language"
+msgstr "reCAPTCHA语言"
+
+#: core/views/arflite_settings_form.php:223
+#: core/views/arflite_settings_form.php:225
+#@ arforms-form-builder
+msgid "English (US)"
+msgstr "英文（美国）"
+
+#: core/views/arflite_settings_form.php:227
+#@ arforms-form-builder
+msgid "Bengali"
+msgstr "孟加拉"
+
+#: core/views/arflite_settings_form.php:230
+#@ arforms-form-builder
+msgid "Chinese(Simplified)"
+msgstr "简体中文）"
+
+#: core/views/arflite_settings_form.php:231
+#@ arforms-form-builder
+msgid "Chinese(Traditional)"
+msgstr "中国传统的）"
+
+#: core/views/arflite_settings_form.php:236
+#@ arforms-form-builder
+msgid "English (UK)"
+msgstr "英文（英国）"
+
+#: core/views/arflite_settings_form.php:238
+#@ arforms-form-builder
+msgid "Filipino"
+msgstr "菲律宾语"
+
+#: core/views/arflite_settings_form.php:241
+#@ arforms-form-builder
+msgid "French (Canadian)"
+msgstr "法语（加拿大）"
+
+#: core/views/arflite_settings_form.php:243
+#@ arforms-form-builder
+msgid "Gujarati"
+msgstr "古吉拉特语"
+
+#: core/views/arflite_settings_form.php:244
+#@ arforms-form-builder
+msgid "German (Autstria)"
+msgstr "德语（奥地利）"
+
+#: core/views/arflite_settings_form.php:245
+#@ arforms-form-builder
+msgid "German (Switzerland)"
+msgstr "德语（瑞士）"
+
+#: core/views/arflite_settings_form.php:248
+#@ arforms-form-builder
+msgid "Hindi"
+msgstr "印地语"
+
+#: core/views/arflite_settings_form.php:250
+#@ arforms-form-builder
+msgid "Indonesian"
+msgstr "印度尼西亚"
+
+#: core/views/arflite_settings_form.php:253
+#@ arforms-form-builder
+msgid "Kannada"
+msgstr "卡纳达语"
+
+#: core/views/arflite_settings_form.php:257
+#@ arforms-form-builder
+msgid "Malay"
+msgstr "马来语"
+
+#: core/views/arflite_settings_form.php:258
+#@ arforms-form-builder
+msgid "Malayalam"
+msgstr "马拉雅拉姆语"
+
+#: core/views/arflite_settings_form.php:259
+#@ arforms-form-builder
+msgid "Marathi"
+msgstr "马拉地语"
+
+#: core/views/arflite_settings_form.php:261
+#@ arforms-form-builder
+msgid "Persian"
+msgstr "波斯语"
+
+#: core/views/arflite_settings_form.php:263
+#@ arforms-form-builder
+msgid "Portuguese"
+msgstr "葡萄牙语"
+
+#: core/views/arflite_settings_form.php:264
+#@ arforms-form-builder
+msgid "Portuguese (Brazil)"
+msgstr "葡萄牙语（巴西）"
+
+#: core/views/arflite_settings_form.php:265
+#@ arforms-form-builder
+msgid "Portuguese (Portugal)"
+msgstr "葡萄牙语（葡萄牙）"
+
+#: core/views/arflite_settings_form.php:272
+#@ arforms-form-builder
+msgid "Spanish (Latin America)"
+msgstr "西班牙语（拉丁美洲）"
+
+#: core/views/arflite_settings_form.php:275
+#@ arforms-form-builder
+msgid "Telugu"
+msgstr "泰卢固语"
+
+#: core/views/arflite_settings_form.php:279
+#@ arforms-form-builder
+msgid "Urdu"
+msgstr "乌尔都语"
+
+#: core/views/arflite_settings_form.php:325
+#@ arforms-form-builder
+msgid "Default Messages On Form"
+msgstr "表单上的默认消息"
+
+#: core/views/arflite_settings_form.php:330
+#@ arforms-form-builder
+msgid "Blank Field"
+msgstr "空白栏位"
+
+#: core/views/arflite_settings_form.php:335
+#@ arforms-form-builder
+msgid "Message will be displayed when required fields is left blank."
+msgstr "当必填字段保留为空白时，将显示消息。"
+
+#: core/views/arflite_settings_form.php:344
+#@ arforms-form-builder
+msgid "Incorrect Field"
+msgstr "字段不正确"
+
+#: core/views/arflite_settings_form.php:351
+#@ arforms-form-builder
+msgid "Message will be displayed when incorrect data is inserted of missing."
+msgstr "插入不正确的数据时，将显示消息。"
+
+#: core/views/arflite_settings_form.php:369
+#@ arforms-form-builder
+msgid "Default message displayed after form is submitted."
+msgstr "提交表单后显示默认消息。"
+
+#: core/views/arflite_settings_form.php:378
+#@ arforms-form-builder
+msgid "Submission Failed Message"
+msgstr "提交失败消息"
+
+#: core/views/arflite_settings_form.php:382
+#@ arforms-form-builder
+msgid "Message will be displayed when form is submitted but Duplicate entry exists."
+msgstr "提交表单但存在重复条目时将显示消息。"
+
+#: core/views/arflite_settings_form.php:391
+#@ arforms-form-builder
+msgid "Default Submit Button"
+msgstr "默认提交按钮"
+
+#: core/views/arflite_settings_form.php:405
+#@ arforms-form-builder
+msgid "Email Settings"
+msgstr "电邮设定"
+
+#: core/views/arflite_settings_form.php:421
+#@ arforms-form-builder
+msgid "From Email"
+msgstr "从电子邮件"
+
+#: core/views/arflite_settings_form.php:431
+#@ arforms-form-builder
+msgid "Reply to Email"
+msgstr "回覆电邮"
+
+#: core/views/arflite_settings_form.php:440
+#@ arforms-form-builder
+msgid "Send Email SMTP"
+msgstr "发送电子邮件SMTP"
+
+#: core/views/arflite_settings_form.php:453
+#@ arforms-form-builder
+msgid "WordPress Server"
+msgstr "WordPress服务器"
+
+#: core/views/arflite_settings_form.php:467
+#@ arforms-form-builder
+msgid "SMTP Server"
+msgstr "SMTP服务器"
+
+#: core/views/arflite_settings_form.php:481
+#@ arforms-form-builder
+msgid "PHP Mailer"
+msgstr "PHP邮件程序"
+
+#: core/views/arflite_settings_form.php:489
+#@ arforms-form-builder
+msgid "Email Format"
+msgstr "电邮格式"
+
+#: core/views/arflite_settings_form.php:526
+#@ arforms-form-builder
+msgid "Plain Text"
+msgstr "纯文本"
+
+#: core/views/arflite_settings_form.php:536
+#@ arforms-form-builder
+msgid "Authentication"
+msgstr "认证方式"
+
+#: core/views/arflite_settings_form.php:546
+#@ arforms-form-builder
+msgid "Enable SMTP authentication"
+msgstr "启用SMTP身份验证"
+
+#: core/views/arflite_settings_form.php:559
+#@ arforms-form-builder
+msgid "SMTP Host"
+msgstr "SMTP主机"
+
+#: core/views/arflite_settings_form.php:572
+#@ arforms-form-builder
+msgid "SMTP Port"
+msgstr "SMTP端口"
+
+#: core/views/arflite_settings_form.php:591
+#@ arforms-form-builder
+msgid "SMTP Username"
+msgstr "SMTP用户名"
+
+#: core/views/arflite_settings_form.php:609
+#@ arforms-form-builder
+msgid "SMTP Password"
+msgstr "SMTP密码"
+
+#: core/views/arflite_settings_form.php:623
+#@ arforms-form-builder
+msgid "SMTP Encryption"
+msgstr "SMTP加密"
+
+#: core/views/arflite_settings_form.php:650
+#@ arforms-form-builder
+msgid "SSL"
+msgstr "SSL协议"
+
+#: core/views/arflite_settings_form.php:664
+#@ arforms-form-builder
+msgid "TLS"
+msgstr "TLS"
+
+#: core/views/arflite_settings_form.php:700
+#@ arforms-form-builder
+msgid "Send Test E-mail"
+msgstr "发送测试电子邮件"
+
+#: core/views/arflite_settings_form.php:704
+#@ arforms-form-builder
+msgid "Your test mail is successfully sent"
+msgstr "您的测试邮件已成功发送"
+
+#: core/views/arflite_settings_form.php:705
+#@ arforms-form-builder
+msgid "Your test mail is not sent for some reason, Please check your SMTP setting"
+msgstr "由于某些原因未发送您的测试邮件，请检查您的SMTP设置"
+
+#: core/views/arflite_settings_form.php:753
+#@ arforms-form-builder
+msgid "Send test mail"
+msgstr "发送测试邮件"
+
+#: core/views/arflite_settings_form.php:753
+#@ arforms-form-builder
+msgid "Test e-mail works only after configure SMTP server settings"
+msgstr "仅在配置SMTP服务器设置后，测试电子邮件才起作用"
+
+#: core/views/arflite_settings_form.php:762
+#@ arforms-form-builder
+msgid "Other Settings"
+msgstr "其他设定"
+
+#: core/views/arflite_settings_form.php:766
+#@ arforms-form-builder
+msgid "Disable built-in Anti-spam feature in signup forms"
+msgstr "在注册表单中禁用内置的反垃圾邮件功能"
+
+#: core/views/arflite_settings_form.php:781
+#@ arforms-form-builder
+msgid "Form Submission Method"
+msgstr "表格提交方法"
+
+#: core/views/arflite_settings_form.php:803
+#@ arforms-form-builder
+msgid "Ajax based submission"
+msgstr "基于Ajax的提交"
+
+#: core/views/arflite_settings_form.php:822
+#@ arforms-form-builder
+msgid "Normal submission"
+msgstr "正常提交"
+
+#: core/views/arflite_settings_form.php:837
+#@ arforms-form-builder
+msgid "Hide success message after"
+msgstr "在之后隐藏成功消息"
+
+#: core/views/arflite_settings_form.php:850
+#@ arforms-form-builder
+msgid "Note : 0 ( zero ) means it will never hide success message"
+msgstr "注意：0（零）表示永远不会隐藏成功消息"
+
+#: core/views/arflite_settings_form.php:861
+#@ arforms-form-builder
+msgid "Decimal separator"
+msgstr "小数点分隔符"
+
+#: core/views/arflite_settings_form.php:868
+#: core/views/arflite_settings_form.php:871
+#@ arforms-form-builder
+msgid "Dot (.)"
+msgstr "点（。）"
+
+#: core/views/arflite_settings_form.php:872
+#@ arforms-form-builder
+msgid "Comma (,)"
+msgstr "逗号（，）"
+
+#: core/views/arflite_settings_form.php:873
+#@ arforms-form-builder
+msgid "No Separator"
+msgstr "没有分隔符"
+
+#: core/views/arflite_settings_form.php:908
+#@ arforms-form-builder
+msgid "Select character sets for google fonts"
+msgstr "选择Google字体的字符集"
+
+#: core/views/arflite_settings_form.php:969
+#@ arforms-form-builder
+msgid "Form Global CSS"
+msgstr "形成全球CSS"
+
+#: core/views/arflite_settings_form.php:979
+#@ arforms-form-builder
+msgid "Load JS & CSS in all pages"
+msgstr "在所有页面中加载JS和CSS"
+
+#: core/views/arflite_settings_form.php:987
+#@ arforms-form-builder
+msgid "( Not recommended - If you have any js/css loading issue in your theme, only in that case you should enable this settings )"
+msgstr "（不建议-如果您的主题中存在任何js / css加载问题，则只有在这种情况下，您才应启用此设置）"
+
+#: core/views/arflite_settings_form.php:1000
+#@ arforms-form-builder
+msgid "Load JS & CSS"
+msgstr "加载JS和CSS"
+
+#: core/views/arflite_settings_form.php:1119
+#: core/views/arflite_settings_form.php:1233
+#: core/views/arflite_settings_form.php:1344
+#: core/views/arflite_settings_form.php:1465
+#: core/views/arflite_settings_form.php:1602
+#: core/views/arflite_settings_form.php:1811
+#: core/views/arflite_settings_form.php:1858
+#@ arforms-form-builder
+msgid "Using Web-form"
+msgstr "使用网络表格"
+
+#: core/views/arflite_settings_form.php:1130
+#@ arforms-form-builder
+msgid "Authorize"
+msgstr "授权"
+
+#: core/views/arflite_settings_form.php:1136
+#@ arforms-form-builder
+msgid "Webform code from Aweber"
+msgstr "Aweber的Webform代码"
+
+#: core/views/arflite_settings_form.php:1149
+#@ arforms-form-builder
+msgid "AWEBER LIST"
+msgstr "名单"
+
+#: core/views/arflite_settings_form.php:1256
+#: core/views/arflite_settings_form.php:1746
+#@ arforms-form-builder
+msgid "List ID"
+msgstr "清单编号"
+
+#: core/views/arflite_settings_form.php:1290
+#@ arforms-form-builder
+msgid "Webform code from Mailchimp"
+msgstr "Mailchimp的Webform代码"
+
+#: core/views/arflite_drip.php:78
+#: core/views/arflite_settings_form.php:1372
+#@ arforms-form-builder
+msgid "Campaign Name"
+msgstr "广告活动名称"
+
+#: core/views/arflite_settings_form.php:1411
+#@ arforms-form-builder
+msgid "Webform code from Getresponse"
+msgstr "Getresponse的Webform代码"
+
+#: core/views/arflite_settings_form.php:1474
+#@ arforms-form-builder
+msgid "APP ID"
+msgstr "APP编号"
+
+#: core/views/arflite_settings_form.php:1484
+#@ arforms-form-builder
+msgid "Username"
+msgstr "用户名"
+
+#: core/views/arflite_settings_form.php:1548
+#@ arforms-form-builder
+msgid "Webform code from Icontact"
+msgstr "来自Icontact的Webform代码"
+
+#: core/views/arflite_settings_form.php:1618
+#@ arforms-form-builder
+msgid "Access Token"
+msgstr "访问令牌"
+
+#: core/views/arflite_settings_form.php:1670
+#@ arforms-form-builder
+msgid "Webform code from Constant Contact"
+msgstr "持续联系的Webform代码"
+
+#: core/views/arflite_settings_form.php:1724
+#@ arforms-form-builder
+msgid "Please enter valid email address."
+msgstr "请输入有效的电子邮件地址。"
+
+#: core/views/arflite_settings_form.php:1819
+#@ arforms-form-builder
+msgid "Webform code from GVO Campaign"
+msgstr "GVO Campaign的Webform代码"
+
+#: core/views/arflite_settings_form.php:1867
+#@ arforms-form-builder
+msgid "Webform code from eBizac"
+msgstr "eBizac的Webform代码"
+
+#: core/views/arflite_settings_form.php:1915
+#@ arforms-form-builder
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: core/views/arflite_smiley_field.php:8
+#: core/views/arflite_smiley_field.php:28
+#@ arforms-form-builder
+msgid "Smiley"
+msgstr "笑脸"
+
+#: core/views/arflite_view_records.php:94
+#@ arforms-form-builder
+msgid "Export to CSV"
+msgstr "导出为CSV"
+
+#: core/views/arflite_view_records.php:335
+#@ arforms-form-builder
+msgid "Form Entries Data"
+msgstr "表单条目数据"
+
+#: core/views/arflite_view_records.php:336
+#@ arforms-form-builder
+msgid "Analytics / Chart"
+msgstr "分析/图表"
+
+#: core/views/arflite_view_records.php:337
+#@ arforms-form-builder
+msgid "Partial Filled Form Entries"
+msgstr "部分填写的表单条目"
+
+#: core/views/arflite_view_records.php:354
+#@ arforms-form-builder
+msgid "Select form"
+msgstr "选择表格"
+
+#: core/views/arflite_view_records.php:355
+#@ arforms-form-builder
+msgid "Select Date"
+msgstr "选择日期"
+
+#: core/views/arflite_view_records.php:355
+#@ arforms-form-builder
+msgid "optional"
+msgstr "可选的"
+
+#: core/views/arflite_view_records.php:375
+#@ arforms-form-builder
+msgid "Go"
+msgstr "走"
+
+#: core/views/arflite_view_records.php:445
+#@ arforms-form-builder
+msgid "Entry Key"
+msgstr "输入键"
+
+#: core/views/arflite_view_records.php:446
+#@ arforms-form-builder
+msgid "Entry creation date"
+msgstr "条目创建日期"
+
+#: core/views/arflite_view_records.php:447
+#@ arforms-form-builder
+msgid "Browser Name"
+msgstr "浏览器名称"
+
+#: core/views/arflite_view_records.php:449
+#@ arforms-form-builder
+msgid "Country"
+msgstr "国家"
+
+#: core/views/arflite_view_records.php:450
+#@ arforms-form-builder
+msgid "Page URL"
+msgstr "页面网址"
+
+#: core/views/arflite_view_records.php:451
+#@ arforms-form-builder
+msgid "Referrer URL"
+msgstr "推荐连结网址"
+
+#: core/views/arflite_view_records.php:496
+#@ arforms-form-builder
+msgid "DELETE ENTRY"
+msgstr "删除条目"
+
+#: core/views/arflite_view_records.php:497
+#@ arforms-form-builder
+msgid "Are you sure you want to delete this entry?"
+msgstr "您确定要删除该条目吗？"
+
+#: core/views/arflite_view_records.php:507
+#@ arforms-form-builder
+msgid "View entry"
+msgstr "查看条目"
+
+#: core/views/arflite_view_records.php:508
+#@ arforms-form-builder
+msgid "Edit Entries"
+msgstr "编辑条目"
+
+#: core/views/arflite_view_records.php:526
+#, php-format
+#@ arforms-form-builder
+msgid "Are you sure you want to %s delete this entries?"
+msgstr "您确定要 %s 删除此条目吗？"
+
+#: core/controllers/arflitesettingcontroller.php:498
+#: core/views/arflite_view_samples.php:41
+#@ arforms-form-builder
+msgid "Install"
+msgstr "安装"
+
+#: core/views/arflite_view_samples.php:56
+#@ arforms-form-builder
+msgid "Form is not available."
+msgstr "表格不可用。"
+
+#: core/widgets/arflitewidgetform.php:6
+#@ arforms-form-builder
+msgid "Display Form of ARForms Lite"
+msgstr "ARForms Lite的显示形式"
+
+#: core/widgets/arflitewidgetform.php:7
+#@ arforms-form-builder
+msgid "ARForms Lite Form"
+msgstr "ARForms Lite表单"
+
+#: core/widgets/arflitewidgetform.php:43
+#@ arforms-form-builder
+msgid "Disable Mutlicolumn in Form"
+msgstr "禁用形式的Mutlicolumn"
+
+#: core/controllers/arflitefieldcontroller.php:404
+#@ arforms-form-builder
+msgid "Sorry, the action \"Reset Form Outside\" could not be processed due to security reason"
+msgstr "抱歉，由于安全原因，无法处理“外部重置表单”操作"
+
+#: core/controllers/arfliteformcontroller.php:673
+#: core/controllers/arfliteformcontroller_13jan2022.php:656
+#: core/controllers/arfliteformcontroller_16mar2022.php:673
+#@ arforms-form-builder
+msgid "Sorry, your request could not be processed due to security reason"
+msgstr "抱歉，由于安全原因无法处理您的请求"
+
+#: core/controllers/arflitemaincontroller.php:569
+#@ arforms-form-builder
+msgid "ARForms Lite is a WordPress Free Form Builder Plugin to create stylish and modern style form withing few clicks."
+msgstr "ARForms Lite是一个WordPress免费表单生成器插件，只需单击几下即可创建时尚和现代风格的表单。"
+
+#: core/controllers/arflitemaincontroller.php:573
+#@ arforms-form-builder
+msgid "ARForms Lite will not store any personal data except user_id (only if user is logged in), ip address, country, browser user_agent, referrer only when submit the form."
+msgstr "仅当提交表单时，ARForms Lite不会存储除user_id（仅当用户登录时），ip地址，国家/地区，浏览器user_agent，引荐来源网址之外的任何个人数据。"
+
+#: core/controllers/arflitemaincontroller.php:575
+#@ arforms-form-builder
+msgid "ARForms Lite will also store the all type of data (this may contain personal data) in the database which plugin user has included in the form. These data cannot be editable but can be removed from form entry section of ARForms."
+msgstr "ARForms Lite还将所有类型的数据（其中可能包含个人数据）存储在插件用户已包含在表单中的数据库中。 这些数据不可编辑，但可以从ARForms的表单输入部分中删除。"
+
+#: core/controllers/arflitemaincontroller.php:2301
+#@ arforms-form-builder
+msgid "Are you sure you want to delete image?"
+msgstr "您确定要删除图像吗？"
+
+#: core/controllers/arflitemaincontroller.php:2305
+#@ arforms-form-builder
+msgid "Select atleast one flag"
+msgstr "选择至少一个标志"
+
+#: core/views/arflite_edit.php:1170
+#: core/views/arflite_edit.php:3362
+#: core/views/arflite_edit.php:3445
+#: core/views/arflite_edit.php:3526
+#: core/views/arflite_edit.php:3604
+#: core/views/arflite_edit.php:3678
+#: core/views/arflite_edit.php:3756
+#@ arforms-form-builder
+msgid "Inherit from theme"
+msgstr "继承主题"
+
+#: core/views/arflite_edit.php:1914
+#@ arforms-form-builder
+msgid "Tooltip position"
+msgstr "工具提示位置"
+
+#: core/views/arflite_multiselect_field.php:25
+#@ arforms-form-builder
+msgid "Multi Select"
+msgstr "多选"
+
+#: core/views/arflite_settings_form.php:311
+#@ arforms-form-builder
+msgid "reCAPTCHA Failed Message"
+msgstr "reCAPTCHA失败消息"
+
+#. translators: plugin header field 'Name'
+#: arforms-form-builder.php:0
+#@ arforms-form-builder
+msgid "ARForms Form Builder"
+msgstr "ARForms Form Builder"
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: arforms-form-builder.php:0
+#@ arforms-form-builder
+msgid "http://www.arformsplugin.com/"
+msgstr "http://www.arformsplugin.com/"
+
+#. translators: plugin header field 'Description'
+#: arforms-form-builder.php:0
+#@ arforms-form-builder
+msgid "Most Powerful Form Builder to create wide variety of forms within a minute"
+msgstr "Most Powerful Form Builder to create wide variety of forms within a minute"
+
+#. translators: plugin header field 'Author'
+#: arforms-form-builder.php:0
+#@ arforms-form-builder
+msgid "Repute InfoSystems"
+msgstr "Repute InfoSystems"
+
+#: core/controllers/arfliteformcontroller.php:120
+#: core/controllers/arfliteformcontroller_13jan2022.php:120
+#: core/controllers/arfliteformcontroller_16mar2022.php:120
+#@ arforms-form-builder
+msgid "Upgrade To Premium"
+msgstr "升级到高级"
+
+#: core/controllers/arflitemaincontroller.php:309
+#@ arforms-form-builder
+msgid "Every 12 hours"
+msgstr "每12小时"
+
+#: core/controllers/arfliteprocontroller.php:73
+#@ arforms-form-builder
+msgid "Add-ons"
+msgstr "附加组件"
+
+#: core/controllers/arfliteprocontroller.php:73
+#: core/controllers/arflitesettingcontroller.php:107
+#@ arforms-form-builder
+msgid "Addons"
+msgstr "插件"
+
+#: core/controllers/arflitesettingcontroller.php:451
+#: core/views/arflite_view_addons.php:7
+#@ arforms-form-builder
+msgid "Add-On listing is currently unavailable. Please try again later."
+msgstr "加载项列表当前不可用。 请稍后再试。"
+
+#: core/controllers/arflitesettingcontroller.php:492
+#@ arforms-form-builder
+msgid "Active"
+msgstr "活性"
+
+#: core/controllers/arflitesettingcontroller.php:498
+#@ arforms-form-builder
+msgid "Installed"
+msgstr "已安装"
+
+#: core/controllers/arflitesettingcontroller.php:501
+#@ arforms-form-builder
+msgid "Get It"
+msgstr "得到它"
+
+#: core/controllers/arflitesettingcontroller.php:503
+#@ arforms-form-builder
+msgid "Deactivated"
+msgstr "已停用"
+
+#: core/controllers/arflitesettingcontroller.php:503
+#@ arforms-form-builder
+msgid "Deactivate"
+msgstr "停用"
+
+#: core/controllers/arflitesettingcontroller.php:505
+#@ arforms-form-builder
+msgid "Activated"
+msgstr "活性"
+
+#: core/controllers/arflitesettingcontroller.php:509
+#@ arforms-form-builder
+msgid "Get ARForms Pro"
+msgstr "获取ARForms Pro"
+
+#: core/controllers/arflitesettingcontroller.php:520
+#@ arforms-form-builder
+msgid "No plugin specified."
+msgstr "未指定插件。"
+
+#: core/controllers/arflitesettingcontroller.php:535
+#@ arforms-form-builder
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "抱歉，不允许您在此站点上安装插件。"
+
+#: core/controllers/arflitesettingcontroller.php:588
+#@ arforms-form-builder
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "无法连接到文件系统。 请确认您的凭据。"
+
+#: core/views/arflite_view_addons.php:56
+#@ arforms-form-builder
+msgid "Read More..."
+msgstr "阅读更多..."
+
+#: core/controllers/arflitemaincontroller.php:3246
+#@ arforms-form-builder
+msgid "What's New in ARForms Form Builder"
+msgstr "ARForms Form Builder中的新增功能"
+
+#: core/controllers/arflitemaincontroller.php:3287
+#@ arforms-form-builder
+msgid "Available Add-ons"
+msgstr "可用的附件"
+
+#: core/controllers/arflitefilecontroller.php:236
+#@ arforms-form-builder
+msgid "The file could not be uploaded due to security reason as it contains malicious code"
+msgstr "由于安全原因，该文件无法上传，因为它包含恶意代码"
+
+#: core/views/arflite_import_export_form.php:53
+#@ arforms-form-builder
+msgid "Sorry, You are not an authorized person to perform this action."
+msgstr "抱歉，您不是执行此操作的授权人。"
+
+#: core/controllers/arflitefilecontroller.php:30
+#@ arforms-form-builder
+msgid "Please select a file to process"
+msgstr "请选择要处理的文件"
+
+#: core/controllers/arflitefilecontroller.php:99
+#: core/controllers/arflitefilecontroller.php:104
+#@ arforms-form-builder
+msgid "Sorry, Your request could not be processed due to security reasons."
+msgstr "抱歉，由于安全原因，您的请求无法处理。"
+
+#: core/controllers/arflitefilecontroller.php:119
+#@ arforms-form-builder
+msgid "The file could not be uploaded due to security reasons."
+msgstr "出于安全原因，无法上传该文件。"
+
+#: core/controllers/arflitefilecontroller.php:126
+#: core/controllers/arflitefilecontroller.php:135
+#@ arforms-form-builder
+msgid "Please select image file only."
+msgstr "请仅选择图像文件。"
+
+#: core/controllers/arflitefilecontroller.php:150
+#@ arforms-form-builder
+msgid "Invalid file extension. Please select valid file"
+msgstr "无效的文件扩展名。 请选择有效的文件"
+
+#: core/controllers/arflitefilecontroller.php:168
+#@ arforms-form-builder
+msgid "Invalid File Size."
+msgstr "无效的文件大小。"
+
+#: core/controllers/arflitefilecontroller.php:197
+#@ arforms-form-builder
+msgid "There is an issue while uploading a file. Please try again"
+msgstr "上传文件时出现问题。 请再试一次"
+
+#: core/controllers/arflitemaincontroller.php:3211
+#@ arforms-form-builder
+msgid "OK, you deserve it"
+msgstr "好，你应得的"
+
+#: core/controllers/arflitemaincontroller.php:3212
+#@ arforms-form-builder
+msgid "No, Maybe later"
+msgstr "不，也许以后"
+
+#: core/controllers/arflitemaincontroller.php:3213
+#@ arforms-form-builder
+msgid "I already did"
+msgstr "我已经做了"
+
+#: arforms-form-builder.php:1486
+#: core/helpers/arflitemainhelper.php:304
+#@ arforms-form-builder
+msgid "North Macedonia"
+msgstr "北马其顿"
+
+#: core/views/arflite_drip.php:49
+#@ arforms-form-builder
+msgid "API Token"
+msgstr "API 令牌"
+
+#: core/views/arflite_drip.php:59
+#@ arforms-form-builder
+msgid "Account ID"
+msgstr "帐户ID"
+
+#: core/views/arflite_edit.php:1092
+#@ arforms-form-builder
+msgid "Material Outlined"
+msgstr "材料概述"
+
+#: core/views/arflite_edit.php:3187
+#@ arforms-form-builder
+msgid "Matrix Field Background Color"
+msgstr "矩阵字段背景颜色"
+
+#: core/views/arflite_edit.php:3196
+#@ arforms-form-builder
+msgid "Odd Row"
+msgstr "奇数行"
+
+#: core/views/arflite_edit.php:3206
+#@ arforms-form-builder
+msgid "Even Row"
+msgstr "偶行"
+
+#: core/views/arflite_edit.php:3219
+#@ arforms-form-builder
+msgid "Set Transparent Background"
+msgstr "设置透明背景"
+
+#: core/controllers/arflitemaincontroller.php:3582
+#@ arforms-form-builder
+msgid "Choose Option"
+msgstr "选择选项"
+
+#: core/views/arflite_field_option_popup.php:30
+#@ arforms-form-builder
+msgid "Min Option Selected"
+msgstr "选定的最小选项"
+
+#: core/views/arflite_field_option_popup.php:37
+#@ arforms-form-builder
+msgid "Min Option Selected Message"
+msgstr "最小选项选择的消息"
+
+#: core/views/arflite_matrix_field.php:16
+#@ arforms-form-builder
+msgid "Matrix"
+msgstr "矩阵"
+
+#: core/views/arflite_new-selection-modal.php:72
+#@ arforms-form-builder
+msgid "Material Outlined Style"
+msgstr "材质轮廓样式"
+
+#: core/views/arflite_spinner_field.php:16
+#@ arforms-form-builder
+msgid "Spinner"
+msgstr "纺纱机"
+
+#: core/views/arflite_view_records.php:514
+#@ arforms-form-builder
+msgid "Previous Entry"
+msgstr "上一个条目"
+
+#: core/views/arflite_view_records.php:516
+#@ arforms-form-builder
+msgid "Next Entry"
+msgstr "下一个条目"
+
+#: core/controllers/arflitefilecontroller.php:146
+#@ arforms-form-builder
+msgid "Please set extensions to validate file."
+msgstr "请设置扩展名以验证文件。"
+
+#: core/helpers/arflitefieldhelper.php:507
+#@ arforms-form-builder
+msgid "Rich Text Editor"
+msgstr "富文本编辑器"
+
+#: core/helpers/arflitemainhelper.php:34
+#: core/helpers/arflitemainhelper.php:37
+#@ arforms-form-builder
+msgid "Page ID:"
+msgstr "页面编号："
+
+#: core/views/arflite_edit.php:2454
+#@ arforms-form-builder
+msgid "Field Animation Options"
+msgstr "场动画选项"
+
+#: core/views/arflite_edit.php:2457
+#@ arforms-form-builder
+msgid "On Load Animation"
+msgstr "加载动画"
+
+#: core/views/arflite_edit.php:2460
+#: core/views/arflite_edit.php:2535
+#@ arforms-form-builder
+msgid "Animation"
+msgstr "动画片"
+
+#: core/views/arflite_edit.php:2477
+#: core/views/arflite_edit.php:2547
+#@ arforms-form-builder
+msgid "Animation Duration"
+msgstr "动画时长"
+
+#: core/views/arflite_edit.php:2486
+#: core/views/arflite_edit.php:2556
+#@ arforms-form-builder
+msgid "Animation Delay"
+msgstr "动画延迟"
+
+#: core/views/arflite_edit.php:2506
+#@ arforms-form-builder
+msgid "Page Break Animation"
+msgstr "分页动画"
+
+#: core/views/arflite_edit.php:2510
+#@ arforms-form-builder
+msgid "Inherit"
+msgstr "继承"
+
+#: core/views/arflite_field_option_popup.php:711
+#@ arforms-form-builder
+msgid "Regular Expression (custom)"
+msgstr "正则表达式（自定义）"
+
+#: core/views/arflite_field_values_popup.php:163
+#@ arforms-form-builder
+msgid "Dynamic Option"
+msgstr "动态选项"
+
+#: core/views/arflite_field_values_popup.php:275
+#@ arforms-form-builder
+msgid "Image Width"
+msgstr "图像宽度"
+
+#: core/views/arflite_field_values_popup.php:288
+#: core/views/arflite_field_values_popup.php:311
+#@ arforms-form-builder
+msgid "Checked Icon Styling"
+msgstr "选中的图标样式"
+
+#: core/views/arflite_edit.php:1245
+#@ arforms-form-builder
+msgid "Success/Error Message Position"
+msgstr "成功/错误消息位置"
+
+#: core/views/arflite_edit.php:2223
+#@ arforms-form-builder
+msgid "PageBreak Timer Settings"
+msgstr "分页计时器设置"
+
+#: core/views/arflite_edit.php:2226
+#@ arforms-form-builder
+msgid "(When this settings is enabled, previous page clickable functionality will not work.)"
+msgstr "（启用此设置后，上一页可点击功能将不起作用。）"
+
+#: core/views/arflite_edit.php:2229
+#@ arforms-form-builder
+msgid "Add Timer"
+msgstr "添加定时器"
+
+#: core/views/arflite_edit.php:2246
+#@ arforms-form-builder
+msgid "Set Timer On"
+msgstr "设置定时器"
+
+#: core/views/arflite_edit.php:2252
+#@ arforms-form-builder
+msgid "Individual Steps"
+msgstr "个别步骤"
+
+#: core/views/arflite_edit.php:2255
+#@ arforms-form-builder
+msgid "Overall Steps"
+msgstr "总体步骤"
+
+#: core/views/arflite_edit.php:2270
+#@ arforms-form-builder
+msgid "Show Units"
+msgstr "显示单位"
+
+#: core/views/arflite_edit.php:2290
+#@ arforms-form-builder
+msgid "Set Timer"
+msgstr "设置定时器"
+
+#: core/views/arflite_edit.php:2295
+#@ arforms-form-builder
+msgid "Hrs"
+msgstr "小时"
+
+#: core/views/arflite_edit.php:2299
+#@ arforms-form-builder
+msgid "Min"
+msgstr "敏"
+
+#: core/views/arflite_edit.php:2302
+#@ arforms-form-builder
+msgid "Sec"
+msgstr "秒"
+
+#: core/views/arflite_edit.php:2307
+#@ arforms-form-builder
+msgid "Start timer on page no."
+msgstr "在第 1 页开始计时器。"
+
+#: core/views/arflite_edit.php:2318
+#@ arforms-form-builder
+msgid "End timer on page no."
+msgstr "第 1 页的结束计时器。"
+
+#: core/views/arflite_edit.php:2331
+#@ arforms-form-builder
+msgid "Timer Style"
+msgstr "定时器样式"
+
+#. translators: plugin header field 'Version'
+#: arforms-form-builder.php:0
+#@ arforms-form-builder
+msgid "1.5.3"
+msgstr "1.5.3"
+
