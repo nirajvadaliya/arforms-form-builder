@@ -134,8 +134,8 @@ function arflitepluginUninstall() {
 
 				$wpdb->query( 'DROP TABLE IF EXISTS ' . $wpdb->prefix . 'arflite_fields' );
 				$wpdb->query( 'DROP TABLE IF EXISTS ' . $wpdb->prefix . 'arflite_forms' );
-				$wpdb->query( 'DROP TABLE IF EXISTS ' . $wpdb->prefix . 'arflite_entries' );
-				$wpdb->query( 'DROP TABLE IF EXISTS ' . $wpdb->prefix . 'arflite_entry_values' );
+				// $wpdb->query( 'DROP TABLE IF EXISTS ' . $wpdb->prefix . 'arflite_entries' );
+				// $wpdb->query( 'DROP TABLE IF EXISTS ' . $wpdb->prefix . 'arflite_entry_values' );
 				
 				$wpdb->query( 'DELETE FROM `' . $wpdb->options . '` WHERE  `option_name` LIKE `%arf_previewtabledata%`' );
 
@@ -172,9 +172,9 @@ function arflitepluginUninstall() {
 					$pro_incomplete_entries = $prefix.'arf_incomplete_formdata';
 					$pro_incomplete_entry_metas = $prefix.'arf_incomlete_form_values';
 					$pro_popup_forms = $prefix.'arf_popup_forms';
-					$pro_forms_views = $prefix.'arf_views';
+					// $pro_forms_views = $prefix.'arf_views';
 
-					$all_lite_forms = $wpdb->get_results( $wpdb->prepare( "SELECT id FROM `{$pro_form_table}` WHERE arf_is_lite_form = %d", 1) );
+					// $all_lite_forms = $wpdb->get_results( $wpdb->prepare( "SELECT id FROM `{$pro_form_table}` WHERE arf_is_lite_form = %d", 1) );
 
 					if( !empty( $all_lite_forms ) ){
 						foreach( $all_lite_forms as $lite_form ){
